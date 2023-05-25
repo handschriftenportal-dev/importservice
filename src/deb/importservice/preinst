@@ -1,0 +1,5 @@
+#!/bin/sh
+if [ -d "/var/log/SBB/importservice" && ! -L "/var/log/SBB/importservice"] 
+then
+    mv  "/var/log/SBB/importservice"  "/data/log/"
+fi

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ MIT License
+  ~
+  ~ Copyright (c) 2023 Staatsbibliothek zu Berlin - Preußischer Kulturbesitz
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all
+  ~ copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  ~ SOFTWARE.
+  -->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.w3.org/XML/1998/namespace" xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:teix="http://www.tei-c.org/ns/Examples" xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <xs:import namespace="http://www.isocat.org/ns/dcr" schemaLocation="dcr.xsd"/>
+  <xs:import namespace="http://www.tei-c.org/ns/1.0" schemaLocation="document.xsd"/>
+  <xs:import namespace="http://www.tei-c.org/ns/Examples" schemaLocation="teix.xsd"/>
+  <xs:attribute name="id" type="xs:ID">
+    <xs:annotation>
+      <xs:documentation>(identifier) provides a unique identifier for the element bearing the attribute.</xs:documentation>
+    </xs:annotation>
+  </xs:attribute>
+  <xs:attribute name="lang">
+    <xs:simpleType>
+      <xs:union memberTypes="xs:language">
+        <xs:simpleType>
+          <xs:restriction base="xs:token">
+            <xs:enumeration value="">
+              <xs:annotation>
+                <xs:documentation/>
+              </xs:annotation>
+            </xs:enumeration>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:union>
+    </xs:simpleType>
+  </xs:attribute>
+  <xs:attribute name="base">
+    <xs:annotation>
+      <xs:documentation>provides a base URI reference with which applications can resolve relative URI references into absolute URI references.</xs:documentation>
+    </xs:annotation>
+    <xs:simpleType>
+      <xs:restriction base="xs:anyURI">
+        <xs:pattern value="\S+"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:attribute>
+  <xs:attribute name="space">
+    <xs:annotation>
+      <xs:documentation>signals an intention about how white space should be managed by applications.</xs:documentation>
+    </xs:annotation>
+    <xs:simpleType>
+      <xs:restriction base="xs:token">
+        <xs:enumeration value="default">
+          <xs:annotation>
+            <xs:documentation>signals that the application's default white-space processing modes are acceptable</xs:documentation>
+          </xs:annotation>
+        </xs:enumeration>
+        <xs:enumeration value="preserve">
+          <xs:annotation>
+            <xs:documentation>indicates the intent that applications preserve all white space</xs:documentation>
+          </xs:annotation>
+        </xs:enumeration>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:attribute>
+</xs:schema>

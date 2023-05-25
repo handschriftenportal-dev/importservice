@@ -1,0 +1,972 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ MIT License
+  ~
+  ~ Copyright (c) 2023 Staatsbibliothek zu Berlin - Preußischer Kulturbesitz
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all
+  ~ copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  ~ SOFTWARE.
+  -->
+
+<h1:DocumentSet xmlns:h1="http://www.startext.de/HiDA/DefService/XMLSchema">
+  <h1:ContentInfo>
+    <h1:Format>HIDA-DOC1-XML</h1:Format>
+    <h1:CreationDate>26.03.2021 12:48:33:193</h1:CreationDate>
+  </h1:ContentInfo>
+  <h1:Document DocKey="obj     90682838,T" FieldsCount="757">
+    <h1:Block Type="obj" CreationDate="14.10.2009 19:29:45" CreatorID="Admin" ChangeDate="03.11.2020 19:02:04" ChangerID="Admin" OwnerID="Retro" FieldsCount="34" LevelID="1.">
+      <h1:Field Type="5000" Value="90682838,T"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Leipzig"/>
+        <h1:Field Type="4600" Value="Universitätsbibliothek Leipzig"/>
+        <h1:Field Type="4500" Value="30002560"/>
+        <h1:Field Type="4502norm" Value="30026-3"/>
+        <h1:Field Type="4503norm" Value="DE-15"/>
+        <h1:Field Type="4650" Value="Ms 758"/>
+        <h1:Field Type="4650vt" Value="Ms 758"/>
+        <h1:Field Type="4590" Value="öffentliche Bibliothek"/>
+        <h1:Field Type="4604" Value="UB"/>
+      </h1:Field>
+      <h1:Field Type="4643" Value="Ms"/>
+      <h1:Field Type="4645" Value="Ms 0022-0961"/>
+      <h1:Field Type="5209vt" Value="Theologische Sammelhandschrift (lat. und dt.)"/>
+      <h1:Field Type="5209norm" Value="Theologische Sammelhandschrift, lat. und dt."/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="5240vt" Value="Codex"/>
+      <h1:Field Type="5240norm" Value="Codex"/>
+      <h1:Field Type="5060vt" Value="Datierung">
+        <h1:Field Type="5064vt" Value="14. Jh."/>
+      </h1:Field>
+      <h1:Field Type="5060norm" Value="Datierung">
+        <h1:Field Type="5064norm" Value="14. Jh."/>
+        <h1:Field Type="5071norm" Value="1301"/>
+        <h1:Field Type="5077norm" Value="1400"/>
+      </h1:Field>
+      <h1:Field Type="9951norm" Value="Beschreibung">
+        <h1:Field Type="9952norm" Value="Franzjosef Pensel"/>
+        <h1:Field Type="9953norm" Value="1998"/>
+      </h1:Field>
+      <h1:Field Type="5260vt" Value="Pergament"/>
+      <h1:Field Type="5260norm" Value="Pergament"/>
+      <h1:Field Type="5360vt" Value="21,4 : 13,5 (cm)"/>
+      <h1:Field Type="5360norm" Value="21,4 × 13,5">
+        <h1:Field Type="5361norm" Value="21"/>
+        <h1:Field Type="5362norm" Value="13"/>
+        <h1:Field Type="5364norm" Value="real"/>
+      </h1:Field>
+      <h1:Field Type="5706vt" Value="243 (Blatt)"/>
+      <h1:Field Type="5706norm" Value="243 Bl."/>
+      <h1:Field Type="5706rech" Value="243"/>
+      <h1:Field Type="5710vt" Value="lateinisch"/>
+      <h1:Field Type="5710vt" Value="tschechisch"/>
+      <h1:Field Type="5710vt" Value="deutsch"/>
+      <h1:Field Type="5710norm" Value="lateinisch"/>
+      <h1:Field Type="5710norm" Value="tschechisch"/>
+      <h1:Field Type="5710norm" Value="deutsch"/>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="L UB Kat. Dt. Hss."/>
+      </h1:Field>
+      <h1:Field Type="8265" Value="PENSEL, Franzjosef: Verzeichnis der deutschen mittelalterlichen Handschriften in der Universitätsbibliothek Leipzig / zum Druck gebracht von Irene STAHL . - Berlin: Akademie-Verlag, 1998. - (Deutsche Texte des Mittelalters&#x3b; Bd. 70: Verzeichnis altdeutscher Handschriften&#x3b; Bd. 3)"/>
+      <h1:Field Type="8440norm" Value="Anfang">
+        <h1:Field Type="8441norm" Value="103"/>
+        <h1:Field Type="8442norm" Value="6"/>
+        <h1:Field Type="8443norm" Value="Page103_Block6"/>
+      </h1:Field>
+      <h1:Field Type="8440norm" Value="Ende">
+        <h1:Field Type="8441norm" Value="105"/>
+        <h1:Field Type="8442norm" Value="4"/>
+        <h1:Field Type="8443norm" Value="Page105_Block4"/>
+      </h1:Field>
+      <h1:Field Type="8450" Value="RETROKatalog">
+        <h1:Field Type="8540" Value="L_UB_Kat_Dt_Hss"/>
+      </h1:Field>
+      <h1:Field Type="8450" Value="Katalogreproduktion">
+        <h1:Field Type="8540" Value="HSK0516_b069"/>
+      </h1:Field>
+      <h1:Field Type="99hs" Value="Retrokonversionsdokument"/>
+      <h1:Field Type="9902" Value="FM &amp; SBB-PK &amp; BSB"/>
+      <h1:Field Type="1903" Value="516"/>
+      <h1:Block Type="t2" FieldsCount="17" LevelID="1.1.">
+        <h1:Field Type="5001" Value="90682839,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5060" Value="Datierung">
+          <h1:Field Type="5064" Value="1301/1400"/>
+          <h1:Field Type="5071" Value="1301"/>
+          <h1:Field Type="5077" Value="1400"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="318053"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:15/03/99 BEARB.:IIIA K:15/03/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990315&#x3b;119990315"/>
+        <h1:Field Type="1200gi" Value="Datierung"/>
+        <h1:Field Type="1210gi" Value="Zeiträume"/>
+        <h1:Field Type="1220gi" Value="14. Jh."/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="17" LevelID="1.2.">
+        <h1:Field Type="5001" Value="90682840,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="321785"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:15/04/99 BEARB.:IIIA K:15/04/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990415&#x3b;119990415"/>
+        <h1:Field Type="1200" Value="Schreibsprache"/>
+        <h1:Field Type="1210" Value="bair."/>
+        <h1:Field Type="1200gi" Value="Schreibsprache"/>
+        <h1:Field Type="1210gi" Value="bair."/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.3.">
+        <h1:Field Type="5001" Value="90682841,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium deutsch &amp; unbearbeitet2"/>
+        <h1:Field Type="99kk" Value="Di &amp; czehen [Absatz]&gt;&gt;&gt; {[N] zëhen} &amp; gebot [Absatz]&gt;&gt;&gt; {[V] ge-bieten} [Absatz]&gt;&gt;&gt; {[S] ge-burt} [Absatz]&gt;&gt;&gt; {[S] ge-bot} &amp; di [Absatz]&gt;&gt;&gt; {[P] dû} [Absatz]&gt;&gt;&gt; {[P] dër} &amp; got [Absatz]&gt;&gt;&gt; {[S] guot} [Absatz]&gt;&gt;&gt; {[S] got} [Absatz]&gt;&gt;&gt; {[A] guot} &amp; selber [Absatz]&gt;&gt;&gt; {[P] sëlp} &amp; gab [Absatz]&gt;&gt;&gt; {[V] ûf_gëben} [Absatz]&gt;&gt;&gt; {[V] wider_gëben} [Absatz]&gt;&gt;&gt; {[V] umbe-gëben} [Absatz]&gt;&gt;&gt; {[V] gëben} [Absatz]&gt;&gt;&gt; {[S] gâbe} &amp; Moysi [Absatz]&gt;&gt;&gt; {[E] Moses} &amp; geschriben [Absatz]&gt;&gt;&gt; {[V] schrîben} [Absatz]&gt;&gt;&gt; {[V] ane_schrîben} [Absatz]&gt;&gt;&gt; {[V] schrîben} &amp; mit [Absatz]&gt;&gt;&gt; {[P] mit} [Absatz]&gt;&gt;&gt; {[P] mite} [Absatz]&gt;&gt;&gt; {[P] ich} &amp; gotes [Absatz]&gt;&gt;&gt; {[S] guot} [Absatz]&gt;&gt;&gt; {[S] got} &amp; vinger [Absatz]&gt;&gt;&gt; {[S] vinger} [Absatz]&gt;&gt;&gt; {[S] vinger} &amp; an [Absatz]&gt;&gt;&gt; {[P] âne} [Absatz]&gt;&gt;&gt; {[P] ane} &amp; czwayn &amp; stainen [Absatz]&gt;&gt;&gt; {[S] stein} &amp; taveln [Absatz]&gt;&gt;&gt; {[S] tavele} &amp; di [Absatz]&gt;&gt;&gt; {[P] dû} [Absatz]&gt;&gt;&gt; {[P] dër} &amp; scholtu [Absatz]&gt;&gt;&gt; {[V] soln} &amp; merken [Absatz]&gt;&gt;&gt; {[S] merken} [Absatz]&gt;&gt;&gt; {[V] merken} [Absatz]&gt;&gt;&gt; {[V] merken} [Absatz]&gt;&gt;&gt; {[V] merken} [Absatz]&gt;&gt;&gt; {[S] merken} &amp; an [Absatz]&gt;&gt;&gt; {[P] âne} [Absatz]&gt;&gt;&gt; {[P] ane} &amp; disem [Absatz]&gt;&gt;&gt; {[P] diser} &amp; buoche [Absatz]&gt;&gt;&gt; {[S] buoche} [Absatz]&gt;&gt;&gt; {[S] buoch} Dok publiziert"/>
+        <h1:Field Type="1703" Value="215840"/>
+        <h1:Field Type="1704" Value="HK"/>
+        <h1:Field Type="1706" Value="N:27/05/99 BEARB.:IIIA"/>
+        <h1:Field Type="1707" Value="19990527&#x3b;119990527"/>
+        <h1:Field Type="1802" Value="Di czehen gebot di got selber gab Moysi geschriben mit gotes vinger an czwayn stainen taveln, di scholtu merken an disem buoche"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0154recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="17" LevelID="1.4.">
+        <h1:Field Type="5001" Value="90682842,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5007" Value="Handschrift im Katalog zitiert">
+          <h1:Field Type="501k" Value="Wien, ÖNB"/>
+          <h1:Field Type="501m" Value="1646"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="318480"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:22/03/99 BEARB.:IIIA K:12/10/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990322&#x3b;119991012"/>
+        <h1:Field Type="1200gi" Value="Handschriften, zitierte"/>
+        <h1:Field Type="1210gi" Value="Wien, ÖNB"/>
+        <h1:Field Type="1220gi" Value="1646"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0154recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="17" LevelID="1.5.">
+        <h1:Field Type="5001" Value="90682843,KRZ"/>
+        <h1:Field Type="bezper" Value="x">
+          <h1:Field Type="4100gi" Value="Johannes von Iglau"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Dekalogerklärung"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_1 &amp; Berlin, unfertig-gesperrt"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="318897"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:26/03/99 BEARB.:IIIA K:26/03/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990326&#x3b;119990326"/>
+        <h1:Field Type="1200gi" Value="Johannes von Iglau"/>
+        <h1:Field Type="1210gi" Value="Dekalogerklärung"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0154recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.6.">
+        <h1:Field Type="5001" Value="90682844,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium deutsch &amp; unbearbeitet2"/>
+        <h1:Field Type="99kk" Value="Also &amp; sprichet [Absatz]&gt;&gt;&gt; {[V] zuo_sprëchen} [Absatz]&gt;&gt;&gt; {[V] ane_sprëchen} [Absatz]&gt;&gt;&gt; {[V] sprëchen} &amp; got [Absatz]&gt;&gt;&gt; {[S] guot} [Absatz]&gt;&gt;&gt; {[S] got} [Absatz]&gt;&gt;&gt; {[A] guot} &amp; czu [Absatz]&gt;&gt;&gt; {[P] zuo} &amp; dem [Absatz]&gt;&gt;&gt; {[P] dër} &amp; menschen [Absatz]&gt;&gt;&gt; {[V] menschen} [Absatz]&gt;&gt;&gt; {[S] mensche} [Absatz]&gt;&gt;&gt; {[S] mensche} &amp; der [Absatz]&gt;&gt;&gt; {[P] dû} [Absatz]&gt;&gt;&gt; {[P] dër} [Absatz]&gt;&gt;&gt; {[P] dâr} [Absatz]&gt;&gt;&gt; {[P] dare} &amp; seinen [Absatz]&gt;&gt;&gt; {[V] seinen} [Absatz]&gt;&gt;&gt; {[P] sîn} [Absatz]&gt;&gt;&gt; {[P] sîn} &amp; heiligen [Absatz]&gt;&gt;&gt; {[S] heiligen} [Absatz]&gt;&gt;&gt; {[V] heiligen} [Absatz]&gt;&gt;&gt; {[S] heilige} [Absatz]&gt;&gt;&gt; {[A] heilec} &amp; leichnam [Absatz]&gt;&gt;&gt; {[S] lîcham} [Absatz]&gt;&gt;&gt; {[S] lîcham} &amp; wirdicleichen [Absatz]&gt;&gt;&gt; {[A] wirdec-lich} &amp; enpfehet &amp; und [Absatz]&gt;&gt;&gt; {[P] unde} &amp; froloket &amp; in [Absatz]&gt;&gt;&gt; {[P] in} [Absatz]&gt;&gt;&gt; {[P] în} [Absatz]&gt;&gt;&gt; {[P] ër} [Absatz]&gt;&gt;&gt; {[P] unde} [Absatz]&gt;&gt;&gt; {[P] sie} [Absatz]&gt;&gt;&gt; {[P] ne} [Absatz]&gt;&gt;&gt; {[P] in} [Absatz]&gt;&gt;&gt; {[P] ich} &amp; seiner [Absatz]&gt;&gt;&gt; {[P] sîn} [Absatz]&gt;&gt;&gt; {[P] sîn} &amp; sele [Absatz]&gt;&gt;&gt; {[S] sêle} [Absatz]&gt;&gt;&gt; {[S] sêle} &amp; Duo &amp; enpfehst &amp; mich [Absatz]&gt;&gt;&gt; {[P] ich} [Absatz]&gt;&gt;&gt; {[P] ich} &amp; so [Absatz]&gt;&gt;&gt; {[P] sô} &amp; rainig [Absatz]&gt;&gt;&gt; {[V] reinegen} &amp; ich [Absatz]&gt;&gt;&gt; {[P] iht} [Absatz]&gt;&gt;&gt; {[P] ich} &amp; dich [Absatz]&gt;&gt;&gt; {[S] diech} [Absatz]&gt;&gt;&gt; {[P] dû} [Absatz]&gt;&gt;&gt; {[A] dicke} &amp; fon [Absatz]&gt;&gt;&gt; {[P] von} &amp; suenden [Absatz]&gt;&gt;&gt; {[S] sünde} [Absatz]&gt;&gt;&gt; {[V] sünden} Dok publiziert"/>
+        <h1:Field Type="1703" Value="215478"/>
+        <h1:Field Type="1704" Value="HK"/>
+        <h1:Field Type="1706" Value="N:23/04/99 BEARB.:IIIA"/>
+        <h1:Field Type="1707" Value="19990423&#x3b;119990423"/>
+        <h1:Field Type="1802" Value="Also sprichet got czu dem menschen, der seinen heiligen leichnam wirdicleichen enpfehet und froloket in seiner sele: Duo enpfehst mich, so rainig ich dich fon suenden"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0163verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="17" LevelID="1.7.">
+        <h1:Field Type="5001" Value="90682845,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="318237"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:18/03/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990318&#x3b;119990318"/>
+        <h1:Field Type="1200" Value="Eucharistie-Sakrament"/>
+        <h1:Field Type="1210" Value="Traktate"/>
+        <h1:Field Type="1200gi" Value="Eucharistie-Sakrament"/>
+        <h1:Field Type="1210gi" Value="Traktate"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0163verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="19" LevelID="1.8.">
+        <h1:Field Type="5001" Value="90682846,KRZ"/>
+        <h1:Field Type="bezper" Value="Erwähnung">
+          <h1:Field Type="4100gi" Value="Maria"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="5710" Value="deutsch"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Mariengebet"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="319190"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:01/04/99 BEARB.:IIIA K:01/04/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990401&#x3b;119990401"/>
+        <h1:Field Type="1200gi" Value="Maria, Hl. Jungfrau"/>
+        <h1:Field Type="1210gi" Value="Gebet"/>
+        <h1:Field Type="1220gi" Value="dt."/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0173recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.9.">
+        <h1:Field Type="5001" Value="90682847,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium deutsch &amp; unbearbeitet2"/>
+        <h1:Field Type="99kk" Value="grüßen [Absatz]&gt;&gt;&gt; {[V] grüe^SZzen} [Absatz]&gt;&gt;&gt; {[S] gruo^SZz} [Absatz]&gt;&gt;&gt; {[A] grüe^SZze} &amp; gegrüßt [Absatz]&gt;&gt;&gt; {[V] ge-grüe^SZzen} [Absatz]&gt;&gt;&gt; {[V] grüe^SZzen} &amp; Gegruest &amp; seistu [Absatz]&gt;&gt;&gt; {[V] sagen} &amp; Maria [Absatz]&gt;&gt;&gt; {[E] Maria} [Absatz]&gt;&gt;&gt; {[E] Maria} &amp; in [Absatz]&gt;&gt;&gt; {[P] in} [Absatz]&gt;&gt;&gt; {[P] în} [Absatz]&gt;&gt;&gt; {[P] ër} [Absatz]&gt;&gt;&gt; {[P] unde} [Absatz]&gt;&gt;&gt; {[P] sie} [Absatz]&gt;&gt;&gt; {[P] ne} [Absatz]&gt;&gt;&gt; {[P] in} [Absatz]&gt;&gt;&gt; {[P] ich} &amp; dem [Absatz]&gt;&gt;&gt; {[P] dër} &amp; munde [Absatz]&gt;&gt;&gt; {[S] munt} [Absatz]&gt;&gt;&gt; {[S] munde} &amp; ain [Absatz]&gt;&gt;&gt; {[V] û^SZz_ziehen} [Absatz]&gt;&gt;&gt; {[P] ein} &amp; suzer &amp; name [Absatz]&gt;&gt;&gt; {[V] abe_nëmen} [Absatz]&gt;&gt;&gt; {[V] nëmen} [Absatz]&gt;&gt;&gt; {[S] name} &amp; in [Absatz]&gt;&gt;&gt; {[P] in} [Absatz]&gt;&gt;&gt; {[P] în} [Absatz]&gt;&gt;&gt; {[P] ër} [Absatz]&gt;&gt;&gt; {[P] unde} [Absatz]&gt;&gt;&gt; {[P] sie} [Absatz]&gt;&gt;&gt; {[P] ne} [Absatz]&gt;&gt;&gt; {[P] in} [Absatz]&gt;&gt;&gt; {[P] ich} &amp; dem [Absatz]&gt;&gt;&gt; {[P] dër} &amp; herczen [Absatz]&gt;&gt;&gt; {[S] hërze} &amp; ain [Absatz]&gt;&gt;&gt; {[V] û^SZz_ziehen} [Absatz]&gt;&gt;&gt; {[P] ein} &amp; teur [Absatz]&gt;&gt;&gt; {[A] tiure} &amp; schacze [Absatz]&gt;&gt;&gt; {[S] schaz} Dok publiziert"/>
+        <h1:Field Type="1703" Value="222466"/>
+        <h1:Field Type="1704" Value="HK"/>
+        <h1:Field Type="1706" Value="N:22/07/99 BEARB.:IIIA"/>
+        <h1:Field Type="1707" Value="19990722&#x3b;119990722"/>
+        <h1:Field Type="1802" Value="grüßen, gegrüßt - Gegruest seistu Maria, in dem munde ain suzer name, in dem herczen ain teur schacze"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0173verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.10.">
+        <h1:Field Type="5001" Value="90682848,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium lateinisch"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1703" Value="220203"/>
+        <h1:Field Type="1704" Value="HK"/>
+        <h1:Field Type="1706" Value="N:16/07/99 BEARB.:IIIA"/>
+        <h1:Field Type="1707" Value="19990716&#x3b;119990716"/>
+        <h1:Field Type="1800" Value="Tres sunt penae ingratuitorum: Privatio gratiae spiritualis ... Et nota undecim nomina inferni: Primo vocatur in sacra scriptura lacus mortis, ain ze des todes"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0180verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.11.">
+        <h1:Field Type="5001" Value="90682849,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium deutsch &amp; unbearbeitet2"/>
+        <h1:Field Type="99kk" Value="Tres &amp; sunt [Absatz]&gt;&gt;&gt; {[A] sunt} [Absatz]&gt;&gt;&gt; {[V] soln} [Absatz]&gt;&gt;&gt; {[S] sunt} &amp; penae &amp; ingratuitorum &amp; Privatio &amp; gratiae &amp; spiritualis &amp; Et &amp; nota &amp; undecim &amp; nomina &amp; inferni &amp; Primo &amp; vocatur &amp; in [Absatz]&gt;&gt;&gt; {[P] in} [Absatz]&gt;&gt;&gt; {[P] în} [Absatz]&gt;&gt;&gt; {[P] ër} [Absatz]&gt;&gt;&gt; {[P] unde} [Absatz]&gt;&gt;&gt; {[P] sie} [Absatz]&gt;&gt;&gt; {[P] ne} [Absatz]&gt;&gt;&gt; {[P] in} [Absatz]&gt;&gt;&gt; {[P] ich} &amp; sacra &amp; scriptura &amp; lacus &amp; mortis &amp; ain [Absatz]&gt;&gt;&gt; {[V] û^SZz_ziehen} [Absatz]&gt;&gt;&gt; {[P] ein} &amp; ze [Absatz]&gt;&gt;&gt; {[K(prp)] ze} [Absatz]&gt;&gt;&gt; {[P] zuo} &amp; des [Absatz]&gt;&gt;&gt; {[P] dër} &amp; todes [Absatz]&gt;&gt;&gt; {[S] tôt} [Absatz]&gt;&gt;&gt; {[S] tôt} Dok publiziert"/>
+        <h1:Field Type="1703" Value="220204"/>
+        <h1:Field Type="1704" Value="HK"/>
+        <h1:Field Type="1706" Value="N:16/07/99 BEARB.:IIIA"/>
+        <h1:Field Type="1707" Value="19990716&#x3b;119990716"/>
+        <h1:Field Type="1802" Value="Tres sunt penae ingratuitorum: Privatio gratiae spiritualis ... Et nota undecim nomina inferni: Primo vocatur in sacra scriptura lacus mortis, ain ze des todes"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0180verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="20" LevelID="1.12.">
+        <h1:Field Type="5001" Value="90682850,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5710" Value="lateinisch"/>
+        <h1:Field Type="5710" Value="deutsch"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Hölle"/>
+        </h1:Field>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6930gi" Value="Die elf Namen der Hölle"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="318558"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:22/03/99 BEARB.:IIIA K:22/03/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990322&#x3b;119990322"/>
+        <h1:Field Type="1200gi" Value="Hölle"/>
+        <h1:Field Type="1210gi" Value="Die elf Namen der Hölle"/>
+        <h1:Field Type="1220gi" Value="lat.-dt."/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0180verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.13.">
+        <h1:Field Type="5001" Value="90682851,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium lateinisch"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1703" Value="216443"/>
+        <h1:Field Type="1704" Value="HK"/>
+        <h1:Field Type="1706" Value="N:31/05/99 BEARB.:IIIA"/>
+        <h1:Field Type="1707" Value="19990531&#x3b;119990531"/>
+        <h1:Field Type="1800" Value="Elatio dicitur uebermuot, arrogantia - geuden vel gueften"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0182verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.14.">
+        <h1:Field Type="5001" Value="90682852,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium deutsch &amp; unbearbeitet2"/>
+        <h1:Field Type="99kk" Value="Elatio &amp; dicitur &amp; uebermuot &amp; arrogantia &amp; geuden &amp; vel [Absatz]&gt;&gt;&gt; {[S] vël} [Absatz]&gt;&gt;&gt; {[A] vel} &amp; gueften Dok publiziert"/>
+        <h1:Field Type="1703" Value="216442"/>
+        <h1:Field Type="1704" Value="HK"/>
+        <h1:Field Type="1706" Value="N:31/05/99 BEARB.:IIIA"/>
+        <h1:Field Type="1707" Value="19990531&#x3b;119990531"/>
+        <h1:Field Type="1802" Value="Elatio dicitur uebermuot, arrogantia - geuden vel gueften"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0182verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="18" LevelID="1.15.">
+        <h1:Field Type="5001" Value="90682853,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5710" Value="lateinisch"/>
+        <h1:Field Type="5710" Value="deutsch"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Vokabular"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="322284"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:22/04/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990422&#x3b;119990422"/>
+        <h1:Field Type="1200gi" Value="Vokabular"/>
+        <h1:Field Type="1210gi" Value="lat.-dt."/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0182verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.16.">
+        <h1:Field Type="5001" Value="90682854,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium lateinisch"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1703" Value="215513"/>
+        <h1:Field Type="1704" Value="HK"/>
+        <h1:Field Type="1706" Value="N:26/04/99 BEARB.:IIIA"/>
+        <h1:Field Type="1707" Value="19990426&#x3b;119990426"/>
+        <h1:Field Type="1800" Value="Araxanus - habr&#x3b; franeus - iessen"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0183verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.17.">
+        <h1:Field Type="5001" Value="90682855,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium deutsch &amp; unbearbeitet2"/>
+        <h1:Field Type="99kk" Value="Araxanus &amp; habr &amp; franeus &amp; iessen Dok publiziert"/>
+        <h1:Field Type="1703" Value="215514"/>
+        <h1:Field Type="1704" Value="HK"/>
+        <h1:Field Type="1706" Value="N:26/04/99 BEARB.:IIIA"/>
+        <h1:Field Type="1707" Value="19990426&#x3b;119990426"/>
+        <h1:Field Type="1802" Value="Araxanus - habr&#x3b; franeus - iessen"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0183verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="19" LevelID="1.18.">
+        <h1:Field Type="5001" Value="90682856,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5710" Value="lateinisch"/>
+        <h1:Field Type="5710" Value="deutsch"/>
+        <h1:Field Type="5710" Value="tschechisch"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Vokabular"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="322285"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:22/04/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990422&#x3b;119990422"/>
+        <h1:Field Type="1200gi" Value="Vokabular"/>
+        <h1:Field Type="1210gi" Value="lat.-dt.-tschech."/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0183verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.19.">
+        <h1:Field Type="5001" Value="90682857,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium deutsch &amp; unbearbeitet2"/>
+        <h1:Field Type="99kk" Value="Der &amp; heilig [Absatz]&gt;&gt;&gt; {[S] heilige} [Absatz]&gt;&gt;&gt; {[A] heilec} &amp; vater [Absatz]&gt;&gt;&gt; {[S] vater} [Absatz]&gt;&gt;&gt; {[S] vater} &amp; sant [Absatz]&gt;&gt;&gt; {[V] û^SZz_senden} [Absatz]&gt;&gt;&gt; {[V] în_senden} [Absatz]&gt;&gt;&gt; {[V] vor_senden} [Absatz]&gt;&gt;&gt; {[V] vür_senden} [Absatz]&gt;&gt;&gt; {[V] senden} [Absatz]&gt;&gt;&gt; {[S] sant} [Absatz]&gt;&gt;&gt; {[P] sament} [Absatz]&gt;&gt;&gt; {[A] sancte} &amp; Bernhard &amp; ist [Absatz]&gt;&gt;&gt; {[V] mite_sîn} [Absatz]&gt;&gt;&gt; {[V] bî_wësen} [Absatz]&gt;&gt;&gt; {[V] ane_sîn} [Absatz]&gt;&gt;&gt; {[S] ist} [Absatz]&gt;&gt;&gt; {[V] sîn} [Absatz]&gt;&gt;&gt; {[V] bî_sîn} &amp; geleichet [Absatz]&gt;&gt;&gt; {[V] ge-lîchen} &amp; dreien [Absatz]&gt;&gt;&gt; {[N] drî} &amp; achpern &amp; fuersten [Absatz]&gt;&gt;&gt; {[S] vürste} &amp; von [Absatz]&gt;&gt;&gt; {[P] von} &amp; der [Absatz]&gt;&gt;&gt; {[P] dû} [Absatz]&gt;&gt;&gt; {[P] dër} [Absatz]&gt;&gt;&gt; {[P] dâr} [Absatz]&gt;&gt;&gt; {[P] dare} &amp; alten [Absatz]&gt;&gt;&gt; {[V] alten} [Absatz]&gt;&gt;&gt; {[A] alt} &amp; e [Absatz]&gt;&gt;&gt; {[S] e} [Absatz]&gt;&gt;&gt; {[S] êwe} [Absatz]&gt;&gt;&gt; {[P] êr} &amp; Der &amp; erste [Absatz]&gt;&gt;&gt; {[A] êrst} &amp; ist [Absatz]&gt;&gt;&gt; {[V] mite_sîn} [Absatz]&gt;&gt;&gt; {[V] bî_wësen} [Absatz]&gt;&gt;&gt; {[V] ane_sîn} [Absatz]&gt;&gt;&gt; {[S] ist} [Absatz]&gt;&gt;&gt; {[V] sîn} [Absatz]&gt;&gt;&gt; {[V] bî_sîn} &amp; Moyses [Absatz]&gt;&gt;&gt; {[E] Moses} Dok publiziert"/>
+        <h1:Field Type="1703" Value="215758"/>
+        <h1:Field Type="1704" Value="HK"/>
+        <h1:Field Type="1706" Value="N:20/05/99 BEARB.:IIIA"/>
+        <h1:Field Type="1707" Value="19990520&#x3b;119990520"/>
+        <h1:Field Type="1802" Value="Der heilig vater sant Bernhard ist geleichet dreien achpern fuersten von der alten e. Der erste ist Moyses"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0204recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="17" LevelID="1.20.">
+        <h1:Field Type="5001" Value="90682858,KRZ"/>
+        <h1:Field Type="bezper" Value="x">
+          <h1:Field Type="4100" Value="Bernardus &lt;Claraevallensis&gt;"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6930gi" Value="Vergleiche zu seiner Person"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="317753"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:08/03/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990308&#x3b;119990308"/>
+        <h1:Field Type="1200gi" Value="Bernardus Claraevallensis"/>
+        <h1:Field Type="1210gi" Value="Vergleiche zu seiner Person"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0204recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="18" LevelID="1.21.">
+        <h1:Field Type="5001" Value="90682859,KRZ"/>
+        <h1:Field Type="bezper" Value="x">
+          <h1:Field Type="4100" Value="Maria"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Marienfeste Himmelfahrt, Predigt (lat.) und Auslegung (dt.)"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="319204"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:01/04/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990401&#x3b;119990401"/>
+        <h1:Field Type="1200gi" Value="Maria, Hl. Jungfrau"/>
+        <h1:Field Type="1210gi" Value="Marienfeste"/>
+        <h1:Field Type="1220gi" Value="Himmelfahrt, Predigt (lat.) und Auslegung (dt.)"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0221verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.22.">
+        <h1:Field Type="5001" Value="90682860,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium deutsch &amp; unbearbeitet2"/>
+        <h1:Field Type="99kk" Value="Dise &amp; hohczeit &amp; unser [Absatz]&gt;&gt;&gt; {[P] wir} [Absatz]&gt;&gt;&gt; {[P] unser} [Absatz]&gt;&gt;&gt; {[P] unser} &amp; vrawen [Absatz]&gt;&gt;&gt; {[S] vrouwe} &amp; hat [Absatz]&gt;&gt;&gt; {[V] ane_haben} [Absatz]&gt;&gt;&gt; {[V] haben} &amp; drey [Absatz]&gt;&gt;&gt; {[N] drî} &amp; merkleich [Absatz]&gt;&gt;&gt; {[A] merk-lich} &amp; namen [Absatz]&gt;&gt;&gt; {[V] û^SZz_nëmen} [Absatz]&gt;&gt;&gt; {[V] abe_nëmen} [Absatz]&gt;&gt;&gt; {[P] namen} [Absatz]&gt;&gt;&gt; {[V] nëmen} [Absatz]&gt;&gt;&gt; {[V] namen} [Absatz]&gt;&gt;&gt; {[S] name} [Absatz]&gt;&gt;&gt; {[V] namen} [Absatz]&gt;&gt;&gt; {[V] nëmen} [Absatz]&gt;&gt;&gt; {[S] nâme} [Absatz]&gt;&gt;&gt; {[S] name} &amp; Des &amp; ersten [Absatz]&gt;&gt;&gt; {[V] er-stân} [Absatz]&gt;&gt;&gt; {[A] êrst} &amp; ist [Absatz]&gt;&gt;&gt; {[V] mite_sîn} [Absatz]&gt;&gt;&gt; {[V] bî_wësen} [Absatz]&gt;&gt;&gt; {[V] ane_sîn} [Absatz]&gt;&gt;&gt; {[S] ist} [Absatz]&gt;&gt;&gt; {[V] sîn} [Absatz]&gt;&gt;&gt; {[V] bî_sîn} &amp; si [Absatz]&gt;&gt;&gt; {[V] abe_sîn} [Absatz]&gt;&gt;&gt; {[V] sîn} [Absatz]&gt;&gt;&gt; {[P] sie} &amp; genant [Absatz]&gt;&gt;&gt; {[V] nemmen} &amp; der [Absatz]&gt;&gt;&gt; {[P] dû} [Absatz]&gt;&gt;&gt; {[P] dër} [Absatz]&gt;&gt;&gt; {[P] dâr} [Absatz]&gt;&gt;&gt; {[P] dare} &amp; tage [Absatz]&gt;&gt;&gt; {[S] tage} [Absatz]&gt;&gt;&gt; {[A] tage} [Absatz]&gt;&gt;&gt; {[V] tagen} [Absatz]&gt;&gt;&gt; {[S] tac} [Absatz]&gt;&gt;&gt; {[S] tac} [Absatz]&gt;&gt;&gt; {[A] tage} [Absatz]&gt;&gt;&gt; {[S] tage} &amp; des [Absatz]&gt;&gt;&gt; {[P] dër} &amp; slaffes [Absatz]&gt;&gt;&gt; {[S] slâf} &amp; darumme [Absatz]&gt;&gt;&gt; {[P] dare} &amp; das [Absatz]&gt;&gt;&gt; {[P] dër} &amp; gottes [Absatz]&gt;&gt;&gt; {[S] got} &amp; muoter [Absatz]&gt;&gt;&gt; {[S] muoter} &amp; an [Absatz]&gt;&gt;&gt; {[P] âne} [Absatz]&gt;&gt;&gt; {[P] ane} &amp; disem [Absatz]&gt;&gt;&gt; {[P] diser} &amp; tage [Absatz]&gt;&gt;&gt; {[S] tage} [Absatz]&gt;&gt;&gt; {[A] tage} [Absatz]&gt;&gt;&gt; {[V] tagen} [Absatz]&gt;&gt;&gt; {[S] tac} [Absatz]&gt;&gt;&gt; {[S] tac} [Absatz]&gt;&gt;&gt; {[A] tage} [Absatz]&gt;&gt;&gt; {[S] tage} &amp; di [Absatz]&gt;&gt;&gt; {[P] dû} [Absatz]&gt;&gt;&gt; {[P] dër} &amp; valsche [Absatz]&gt;&gt;&gt; {[S] valsch} [Absatz]&gt;&gt;&gt; {[A] valsch} &amp; werlt [Absatz]&gt;&gt;&gt; {[S] wërlt} &amp; ueberwunde &amp; hat [Absatz]&gt;&gt;&gt; {[V] ane_haben} [Absatz]&gt;&gt;&gt; {[V] haben} Dok publiziert"/>
+        <h1:Field Type="1703" Value="215871"/>
+        <h1:Field Type="1704" Value="HK"/>
+        <h1:Field Type="1706" Value="N:27/05/99 BEARB.:IIIA K:08/10/99 BEARB.:IIIA"/>
+        <h1:Field Type="1707" Value="19990527&#x3b;119991008"/>
+        <h1:Field Type="1802" Value="Dise hohczeit unser vrawen hat drey merkleich namen: Des ersten ist si genant der tage des slaffes, darumme das gottes muoter an disem tage di valsche werlt ueberwunde hat"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0222verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="19" LevelID="1.23.">
+        <h1:Field Type="5001" Value="90682861,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="5710" Value="lateinisch"/>
+        <h1:Field Type="5710" Value="deutsch"/>
+        <h1:Field Type="599a" Value="Textautopsie">
+          <h1:Field Type="599e" Value="Predigt (lat.) und Auslegung (dt.)"/>
+        </h1:Field>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Heiliger Geist &amp; Predigt &amp; Interpretation"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, fertig - checken"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="318505"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:22/03/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990322&#x3b;119990322"/>
+        <h1:Field Type="1200gi" Value="Heiliger Geist"/>
+        <h1:Field Type="1210gi" Value="Predigt (lat.) und Auslegung (dt.)"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0223verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.24.">
+        <h1:Field Type="5001" Value="90682862,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium deutsch &amp; unbearbeitet2"/>
+        <h1:Field Type="99kk" Value="Dise &amp; predig [Absatz]&gt;&gt;&gt; {[S] bredige} [Absatz]&gt;&gt;&gt; {[S] bredige} &amp; mant [Absatz]&gt;&gt;&gt; {[V] manen} [Absatz]&gt;&gt;&gt; {[S] mânde} &amp; uns [Absatz]&gt;&gt;&gt; {[P] uns} [Absatz]&gt;&gt;&gt; {[P] wir} &amp; das [Absatz]&gt;&gt;&gt; {[P] dër} &amp; wir [Absatz]&gt;&gt;&gt; {[P] wir} [Absatz]&gt;&gt;&gt; {[P] wir} &amp; den [Absatz]&gt;&gt;&gt; {[P] dër} [Absatz]&gt;&gt;&gt; {[P] danne} &amp; heyligen [Absatz]&gt;&gt;&gt; {[S] heilige} [Absatz]&gt;&gt;&gt; {[A] heilec} &amp; gaist [Absatz]&gt;&gt;&gt; {[S] geist} &amp; enphahen [Absatz]&gt;&gt;&gt; {[V] enphâhen} &amp; schuellen &amp; in [Absatz]&gt;&gt;&gt; {[P] in} [Absatz]&gt;&gt;&gt; {[P] în} [Absatz]&gt;&gt;&gt; {[P] ër} [Absatz]&gt;&gt;&gt; {[P] unde} [Absatz]&gt;&gt;&gt; {[P] sie} [Absatz]&gt;&gt;&gt; {[P] ne} [Absatz]&gt;&gt;&gt; {[P] in} [Absatz]&gt;&gt;&gt; {[P] ich} &amp; fierlay &amp; weise [Absatz]&gt;&gt;&gt; {[S] weise} [Absatz]&gt;&gt;&gt; {[S] weise} [Absatz]&gt;&gt;&gt; {[A] weise} [Absatz]&gt;&gt;&gt; {[A] weise} &amp; Des &amp; ersten [Absatz]&gt;&gt;&gt; {[V] er-stân} [Absatz]&gt;&gt;&gt; {[A] êrst} &amp; mit [Absatz]&gt;&gt;&gt; {[P] mit} [Absatz]&gt;&gt;&gt; {[P] mite} [Absatz]&gt;&gt;&gt; {[P] ich} &amp; des [Absatz]&gt;&gt;&gt; {[P] dër} &amp; cristenleichen &amp; frides [Absatz]&gt;&gt;&gt; {[S] vride} &amp; gemaynunge Dok publiziert"/>
+        <h1:Field Type="1703" Value="215874"/>
+        <h1:Field Type="1704" Value="HK"/>
+        <h1:Field Type="1706" Value="N:27/05/99 BEARB.:IIIA"/>
+        <h1:Field Type="1707" Value="19990527&#x3b;119990527"/>
+        <h1:Field Type="1802" Value="Dise predig mant uns, das wir den heyligen gaist enphahen schuellen in fierlay weise: Des ersten mit des cristenleichen frides gemaynunge"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0225recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="17" LevelID="1.25.">
+        <h1:Field Type="5001" Value="90682863,KRZ"/>
+        <h1:Field Type="bezper" Value="x">
+          <h1:Field Type="4100gi" Value="Petrus und Paulus, Hll."/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Predigt (lat.) und Auslegung (dt.)"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_1 &amp; Berlin, unfertig-gesperrt"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="319971"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:08/04/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990408&#x3b;119990408"/>
+        <h1:Field Type="1200gi" Value="Petrus und Paulus, Hll."/>
+        <h1:Field Type="1210gi" Value="Predigt (lat.) und Auslegung (dt.)"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0225verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.26.">
+        <h1:Field Type="5001" Value="90682864,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium deutsch &amp; unbearbeitet2"/>
+        <h1:Field Type="99kk" Value="Sant [Absatz]&gt;&gt;&gt; {[S] Sant} &amp; Peter [Absatz]&gt;&gt;&gt; {[E] Peter} &amp; und [Absatz]&gt;&gt;&gt; {[P] unde} &amp; send [Absatz]&gt;&gt;&gt; {[V] senden} &amp; Paul [Absatz]&gt;&gt;&gt; {[E] Paulus} &amp; seint [Absatz]&gt;&gt;&gt; {[V] sîn} [Absatz]&gt;&gt;&gt; {[P] sîn} [Absatz]&gt;&gt;&gt; {[P] sint} [Absatz]&gt;&gt;&gt; {[V] sîn} [Absatz]&gt;&gt;&gt; {[P] sint} &amp; mit [Absatz]&gt;&gt;&gt; {[P] mit} [Absatz]&gt;&gt;&gt; {[P] mite} [Absatz]&gt;&gt;&gt; {[P] ich} &amp; ainadern &amp; gewonet [Absatz]&gt;&gt;&gt; {[V] wonen} [Absatz]&gt;&gt;&gt; {[S] ge-won-heit} &amp; als [Absatz]&gt;&gt;&gt; {[P] al-sô} [Absatz]&gt;&gt;&gt; {[A] al} &amp; tzwen [Absatz]&gt;&gt;&gt; {[N] zwêne} &amp; bruder [Absatz]&gt;&gt;&gt; {[S] bruoder} &amp; an [Absatz]&gt;&gt;&gt; {[P] âne} [Absatz]&gt;&gt;&gt; {[P] ane} &amp; siben [Absatz]&gt;&gt;&gt; {[V] siben} [Absatz]&gt;&gt;&gt; {[N] siben} &amp; sachen [Absatz]&gt;&gt;&gt; {[V] sachen} [Absatz]&gt;&gt;&gt; {[S] sache} &amp; Des &amp; ersten [Absatz]&gt;&gt;&gt; {[V] er-stân} [Absatz]&gt;&gt;&gt; {[A] êrst} &amp; an [Absatz]&gt;&gt;&gt; {[P] âne} [Absatz]&gt;&gt;&gt; {[P] ane} &amp; der [Absatz]&gt;&gt;&gt; {[P] dû} [Absatz]&gt;&gt;&gt; {[P] dër} [Absatz]&gt;&gt;&gt; {[P] dâr} [Absatz]&gt;&gt;&gt; {[P] dare} &amp; cristenhait [Absatz]&gt;&gt;&gt; {[S] kristen-heit} &amp; stiftunge [Absatz]&gt;&gt;&gt; {[S] stiftunge} Dok publiziert"/>
+        <h1:Field Type="1703" Value="219596"/>
+        <h1:Field Type="1704" Value="HK"/>
+        <h1:Field Type="1706" Value="N:15/07/99 BEARB.:IIIA K:12/10/99 BEARB.:IIIA"/>
+        <h1:Field Type="1707" Value="19990715&#x3b;119991012"/>
+        <h1:Field Type="1802" Value="Sant Peter und send Paul seint mit ainadern [!] gewonet als tzwen bruder an siben sachen. Des ersten an der cristenhait stiftunge"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0227verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="17" LevelID="1.27.">
+        <h1:Field Type="5001" Value="90682865,KRZ"/>
+        <h1:Field Type="bezper" Value="x">
+          <h1:Field Type="4100" Value="Margareta &lt;von Antiochia&gt;"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Predigt (lat.) und Auslegung (dt.)"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="319185"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:01/04/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990401&#x3b;119990401"/>
+        <h1:Field Type="1200gi" Value="Margarethe von Antiochien, Hl."/>
+        <h1:Field Type="1210gi" Value="Predigt (lat.) und Auslegung (dt.)"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0229verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.28.">
+        <h1:Field Type="5001" Value="90682866,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium deutsch &amp; unbearbeitet2"/>
+        <h1:Field Type="99kk" Value="An &amp; der [Absatz]&gt;&gt;&gt; {[P] dû} [Absatz]&gt;&gt;&gt; {[P] dër} [Absatz]&gt;&gt;&gt; {[P] dâr} [Absatz]&gt;&gt;&gt; {[P] dare} &amp; gaistleichen [Absatz]&gt;&gt;&gt; {[A] geist-lich} &amp; freude [Absatz]&gt;&gt;&gt; {[S] vröude} &amp; sein [Absatz]&gt;&gt;&gt; {[S] sein} [Absatz]&gt;&gt;&gt; {[P] ër} [Absatz]&gt;&gt;&gt; {[P] sîn} [Absatz]&gt;&gt;&gt; {[P] sîn} [Absatz]&gt;&gt;&gt; {[V] sîn} &amp; sechs [Absatz]&gt;&gt;&gt; {[N] sëhs} [Absatz]&gt;&gt;&gt; {[N] sëhs} &amp; hande [Absatz]&gt;&gt;&gt; {[V] handen} [Absatz]&gt;&gt;&gt; {[S] hant} &amp; pilde [Absatz]&gt;&gt;&gt; {[S] bilde} &amp; dar [Absatz]&gt;&gt;&gt; {[P] dâr} [Absatz]&gt;&gt;&gt; {[P] dare} &amp; an [Absatz]&gt;&gt;&gt; {[P] âne} [Absatz]&gt;&gt;&gt; {[P] ane} &amp; sich [Absatz]&gt;&gt;&gt; {[V] ûf_sëhen} [Absatz]&gt;&gt;&gt; {[V] ane_sëhen} [Absatz]&gt;&gt;&gt; {[V] sëhen} [Absatz]&gt;&gt;&gt; {[P] sich} [Absatz]&gt;&gt;&gt; {[A] siech} [Absatz]&gt;&gt;&gt; {[P] sich} [Absatz]&gt;&gt;&gt; {[V] sëhen} &amp; sant [Absatz]&gt;&gt;&gt; {[V] û^SZz_senden} [Absatz]&gt;&gt;&gt; {[V] în_senden} [Absatz]&gt;&gt;&gt; {[V] vor_senden} [Absatz]&gt;&gt;&gt; {[V] vür_senden} [Absatz]&gt;&gt;&gt; {[V] senden} [Absatz]&gt;&gt;&gt; {[S] sant} [Absatz]&gt;&gt;&gt; {[P] sament} [Absatz]&gt;&gt;&gt; {[A] sancte} &amp; Margareth &amp; gefreut &amp; hat [Absatz]&gt;&gt;&gt; {[V] ane_haben} [Absatz]&gt;&gt;&gt; {[V] haben} &amp; und [Absatz]&gt;&gt;&gt; {[P] unde} &amp; uns [Absatz]&gt;&gt;&gt; {[P] uns} [Absatz]&gt;&gt;&gt; {[P] wir} &amp; das [Absatz]&gt;&gt;&gt; {[P] dër} &amp; pilde [Absatz]&gt;&gt;&gt; {[S] bilde} &amp; der [Absatz]&gt;&gt;&gt; {[P] dû} [Absatz]&gt;&gt;&gt; {[P] dër} [Absatz]&gt;&gt;&gt; {[P] dâr} [Absatz]&gt;&gt;&gt; {[P] dare} &amp; freuden [Absatz]&gt;&gt;&gt; {[S] vröude} &amp; gelassen [Absatz]&gt;&gt;&gt; {[V] ûf_lâ^SZzen} [Absatz]&gt;&gt;&gt; {[V] în_lâ^SZzen} [Absatz]&gt;&gt;&gt; {[V] lâ^SZzen} &amp; hat [Absatz]&gt;&gt;&gt; {[V] ane_haben} [Absatz]&gt;&gt;&gt; {[V] haben} Dok publiziert"/>
+        <h1:Field Type="1703" Value="215492"/>
+        <h1:Field Type="1704" Value="HK"/>
+        <h1:Field Type="1706" Value="N:23/04/99 BEARB.:IIIA"/>
+        <h1:Field Type="1707" Value="19990423&#x3b;119990423"/>
+        <h1:Field Type="1802" Value="An der gaistleichen freude sein sechs hande pilde, dar an sich sant Margareth gefreut hat und uns das pilde der freuden gelassen hat"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0231recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.29.">
+        <h1:Field Type="5001" Value="90682867,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium deutsch &amp; unbearbeitet2"/>
+        <h1:Field Type="99kk" Value="Der &amp; gotes [Absatz]&gt;&gt;&gt; {[S] guot} [Absatz]&gt;&gt;&gt; {[S] got} &amp; suon [Absatz]&gt;&gt;&gt; {[S] suon} [Absatz]&gt;&gt;&gt; {[S] sun} [Absatz]&gt;&gt;&gt; {[S] sunne} &amp; ist [Absatz]&gt;&gt;&gt; {[V] mite_sîn} [Absatz]&gt;&gt;&gt; {[V] bî_wësen} [Absatz]&gt;&gt;&gt; {[V] ane_sîn} [Absatz]&gt;&gt;&gt; {[S] ist} [Absatz]&gt;&gt;&gt; {[V] sîn} [Absatz]&gt;&gt;&gt; {[V] bî_sîn} &amp; in [Absatz]&gt;&gt;&gt; {[P] in} [Absatz]&gt;&gt;&gt; {[P] în} [Absatz]&gt;&gt;&gt; {[P] ër} [Absatz]&gt;&gt;&gt; {[P] unde} [Absatz]&gt;&gt;&gt; {[P] sie} [Absatz]&gt;&gt;&gt; {[P] ne} [Absatz]&gt;&gt;&gt; {[P] in} [Absatz]&gt;&gt;&gt; {[P] ich} &amp; dise [Absatz]&gt;&gt;&gt; {[P] diser} &amp; werlt [Absatz]&gt;&gt;&gt; {[S] wërlt} &amp; quomen &amp; in [Absatz]&gt;&gt;&gt; {[P] in} [Absatz]&gt;&gt;&gt; {[P] în} [Absatz]&gt;&gt;&gt; {[P] ër} [Absatz]&gt;&gt;&gt; {[P] unde} [Absatz]&gt;&gt;&gt; {[P] sie} [Absatz]&gt;&gt;&gt; {[P] ne} [Absatz]&gt;&gt;&gt; {[P] in} [Absatz]&gt;&gt;&gt; {[P] ich} &amp; ierlay &amp; weise [Absatz]&gt;&gt;&gt; {[S] weise} [Absatz]&gt;&gt;&gt; {[S] weise} [Absatz]&gt;&gt;&gt; {[A] weise} [Absatz]&gt;&gt;&gt; {[A] weise} &amp; Sein &amp; erste [Absatz]&gt;&gt;&gt; {[A] êrst} &amp; chuonfte &amp; ist [Absatz]&gt;&gt;&gt; {[V] mite_sîn} [Absatz]&gt;&gt;&gt; {[V] bî_wësen} [Absatz]&gt;&gt;&gt; {[V] ane_sîn} [Absatz]&gt;&gt;&gt; {[S] ist} [Absatz]&gt;&gt;&gt; {[V] sîn} [Absatz]&gt;&gt;&gt; {[V] bî_sîn} &amp; wunderleich [Absatz]&gt;&gt;&gt; {[A] wunder-lich} [Absatz]&gt;&gt;&gt; {[A] wunder-lich} &amp; di [Absatz]&gt;&gt;&gt; {[P] dû} [Absatz]&gt;&gt;&gt; {[P] dër} &amp; leit [Absatz]&gt;&gt;&gt; {[V] vür_legen} [Absatz]&gt;&gt;&gt; {[V] nider_legen} [Absatz]&gt;&gt;&gt; {[V] ane_legen} [Absatz]&gt;&gt;&gt; {[V] lîden} [Absatz]&gt;&gt;&gt; {[V] leiten} [Absatz]&gt;&gt;&gt; {[V] legen} [Absatz]&gt;&gt;&gt; {[S] leit} [Absatz]&gt;&gt;&gt; {[A] leit} &amp; an [Absatz]&gt;&gt;&gt; {[P] âne} [Absatz]&gt;&gt;&gt; {[P] ane} &amp; unser [Absatz]&gt;&gt;&gt; {[P] wir} [Absatz]&gt;&gt;&gt; {[P] unser} [Absatz]&gt;&gt;&gt; {[P] unser} &amp; menschait [Absatz]&gt;&gt;&gt; {[S] mensch-heit} &amp; vorainunge Dok publiziert"/>
+        <h1:Field Type="1703" Value="215753"/>
+        <h1:Field Type="1704" Value="AL"/>
+        <h1:Field Type="1706" Value="N:17/05/99 BEARB.:AUSL"/>
+        <h1:Field Type="1707" Value="19990517&#x3b;119990517"/>
+        <h1:Field Type="1802" Value="Der gotes suon ist in dise werlt quomen in ierlay weise: Sein erste chuonfte ist wunderleich, di leit an unser menschait vorainunge"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0231recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.30.">
+        <h1:Field Type="5001" Value="90682868,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium deutsch &amp; unbearbeitet2"/>
+        <h1:Field Type="99kk" Value="Der &amp; grosße [Absatz]&gt;&gt;&gt; {[A] grô^SZz} [Absatz]&gt;&gt;&gt; {[S] gr^OEz^SZze} &amp; heilige [Absatz]&gt;&gt;&gt; {[S] heilige} [Absatz]&gt;&gt;&gt; {[A] heilec} &amp; prophete [Absatz]&gt;&gt;&gt; {[S] prophête} &amp; David [Absatz]&gt;&gt;&gt; {[E] David} &amp; spricht [Absatz]&gt;&gt;&gt; {[V] ane_sprëchen} [Absatz]&gt;&gt;&gt; {[V] sprëchen} [Absatz]&gt;&gt;&gt; {[V] sprëchen} &amp; yn [Absatz]&gt;&gt;&gt; {[P] ër} [Absatz]&gt;&gt;&gt; {[P] sie} &amp; dem [Absatz]&gt;&gt;&gt; {[P] dër} &amp; ersten [Absatz]&gt;&gt;&gt; {[V] er-stân} [Absatz]&gt;&gt;&gt; {[A] êrst} &amp; psalme [Absatz]&gt;&gt;&gt; {[S] psalme} &amp; nach [Absatz]&gt;&gt;&gt; {[S] naht} [Absatz]&gt;&gt;&gt; {[P] noch} [Absatz]&gt;&gt;&gt; {[A(a_prp)] nâch} &amp; hundertin &amp; des [Absatz]&gt;&gt;&gt; {[P] dër} &amp; salters Dok publiziert"/>
+        <h1:Field Type="1703" Value="215755"/>
+        <h1:Field Type="1704" Value="HK"/>
+        <h1:Field Type="1706" Value="N:20/05/99 BEARB.:IIIA K:08/10/99 BEARB.:IIIA"/>
+        <h1:Field Type="1707" Value="19990520&#x3b;119991008"/>
+        <h1:Field Type="1802" Value="Der grosße heilige prophete David spricht yn dem ersten psalme nach hundertin des salters"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0231recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="18" LevelID="1.31.">
+        <h1:Field Type="5001" Value="90682869,KRZ"/>
+        <h1:Field Type="bezper" Value="x">
+          <h1:Field Type="4100" Value="Maria"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Marienfeste Verkündigung, Auslegung einer Predigt"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="319207"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:01/04/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990401&#x3b;119990401"/>
+        <h1:Field Type="1200gi" Value="Maria, Hl. Jungfrau"/>
+        <h1:Field Type="1210gi" Value="Marienfeste"/>
+        <h1:Field Type="1220gi" Value="Verkündigung, Auslegung einer Predigt"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0231recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="21" LevelID="1.32.">
+        <h1:Field Type="5001" Value="90682870,KRZ"/>
+        <h1:Field Type="bezper" Value="Erwähnung">
+          <h1:Field Type="4100" Value="Jesus Christus"/>
+          <h1:Field Type="z001" Value="118557513"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="5710" Value="lateinisch"/>
+        <h1:Field Type="5710" Value="deutsch"/>
+        <h1:Field Type="599a" Value="Textautopsie">
+          <h1:Field Type="599e" Value="Predigt, (lat.) und Auslegung (dt.)"/>
+        </h1:Field>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Jesus Christus, Passion &amp; Predigt &amp; Interpretation"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Berlin, fertig - checken"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="318620"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:25/03/99 BEARB.:IIIA K:12/10/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990325&#x3b;119991012"/>
+        <h1:Field Type="1200gi" Value="Jesus Christus"/>
+        <h1:Field Type="1210gi" Value="Passion"/>
+        <h1:Field Type="1220gi" Value="Predigt, (lat.) und Auslegung (dt.)"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0231verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.33.">
+        <h1:Field Type="5001" Value="90682871,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium deutsch &amp; unbearbeitet2"/>
+        <h1:Field Type="99kk" Value="An &amp; disen [Absatz]&gt;&gt;&gt; {[P] diser} &amp; worten [Absatz]&gt;&gt;&gt; {[V] worten} [Absatz]&gt;&gt;&gt; {[S] wort} &amp; seint [Absatz]&gt;&gt;&gt; {[V] sîn} [Absatz]&gt;&gt;&gt; {[P] sîn} [Absatz]&gt;&gt;&gt; {[P] sint} [Absatz]&gt;&gt;&gt; {[V] sîn} [Absatz]&gt;&gt;&gt; {[P] sint} &amp; czuo [Absatz]&gt;&gt;&gt; {[P] zuo} &amp; merken [Absatz]&gt;&gt;&gt; {[S] merken} [Absatz]&gt;&gt;&gt; {[V] merken} [Absatz]&gt;&gt;&gt; {[V] merken} [Absatz]&gt;&gt;&gt; {[V] merken} [Absatz]&gt;&gt;&gt; {[S] merken} &amp; czway &amp; ding [Absatz]&gt;&gt;&gt; {[S] dinc} &amp; Das &amp; ain [Absatz]&gt;&gt;&gt; {[V] û^SZz_ziehen} [Absatz]&gt;&gt;&gt; {[P] ein} &amp; ist [Absatz]&gt;&gt;&gt; {[V] mite_sîn} [Absatz]&gt;&gt;&gt; {[V] bî_wësen} [Absatz]&gt;&gt;&gt; {[V] ane_sîn} [Absatz]&gt;&gt;&gt; {[S] ist} [Absatz]&gt;&gt;&gt; {[V] sîn} [Absatz]&gt;&gt;&gt; {[V] bî_sîn} &amp; der [Absatz]&gt;&gt;&gt; {[P] dû} [Absatz]&gt;&gt;&gt; {[P] dër} [Absatz]&gt;&gt;&gt; {[P] dâr} [Absatz]&gt;&gt;&gt; {[P] dare} &amp; menschleichen [Absatz]&gt;&gt;&gt; {[A] mensch-lich} &amp; crankhait &amp; derchennunge &amp; das [Absatz]&gt;&gt;&gt; {[P] dër} &amp; ander [Absatz]&gt;&gt;&gt; {[P] ane} [Absatz]&gt;&gt;&gt; {[A(a_prn_num)] ander} &amp; der [Absatz]&gt;&gt;&gt; {[P] dû} [Absatz]&gt;&gt;&gt; {[P] dër} [Absatz]&gt;&gt;&gt; {[P] dâr} [Absatz]&gt;&gt;&gt; {[P] dare} &amp; gotleichen [Absatz]&gt;&gt;&gt; {[A] gote-lich} &amp; barmhertichait &amp; gemainunge Dok publiziert"/>
+        <h1:Field Type="1703" Value="215495"/>
+        <h1:Field Type="1704" Value="HK"/>
+        <h1:Field Type="1706" Value="N:23/04/99 BEARB.:IIIA"/>
+        <h1:Field Type="1707" Value="19990423&#x3b;119990423"/>
+        <h1:Field Type="1802" Value="An disen worten seint czuo merken czway ding: Das ain ist der menschleichen crankhait derchennunge, das ander der gotleichen barmhertichait gemainunge"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0232recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="19" LevelID="1.34.">
+        <h1:Field Type="5001" Value="90682872,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="5710" Value="lateinisch"/>
+        <h1:Field Type="5710" Value="deutsch"/>
+        <h1:Field Type="599a" Value="Textautopsie">
+          <h1:Field Type="599e" Value="Predigt (lat.) und Auslegung (dt.)"/>
+        </h1:Field>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Advent &amp; Predigt &amp; Interpretation"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, fertig - checken"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="317167"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:01/03/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990301&#x3b;119990301"/>
+        <h1:Field Type="1200gi" Value="Advent"/>
+        <h1:Field Type="1210gi" Value="Predigt (lat.) und Auslegung (dt.)"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0232verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="17" LevelID="1.35.">
+        <h1:Field Type="5001" Value="90682873,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Predigt Festpredigt Advent"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="320002"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="N:08/04/99 BEARB.:IIIA"/>
+        <h1:Field Type="1106" Value="19990408&#x3b;119990408"/>
+        <h1:Field Type="1200gi" Value="Predigt"/>
+        <h1:Field Type="1210gi" Value="Festpredigt"/>
+        <h1:Field Type="1220gi" Value="Advent"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0232verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15" LevelID="1.36.">
+        <h1:Field Type="5001" Value="90682874,INI"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Initium"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0516_b069"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="INI-Dokument mit Signaturangabe"/>
+        <h1:Field Type="99sb" Value="Initium deutsch &amp; unbearbeitet2"/>
+        <h1:Field Type="99kk" Value="Unser &amp; hailant [Absatz]&gt;&gt;&gt; {[S] heilant} &amp; der [Absatz]&gt;&gt;&gt; {[P] dû} [Absatz]&gt;&gt;&gt; {[P] dër} [Absatz]&gt;&gt;&gt; {[P] dâr} [Absatz]&gt;&gt;&gt; {[P] dare} &amp; gotes [Absatz]&gt;&gt;&gt; {[S] guot} [Absatz]&gt;&gt;&gt; {[S] got} &amp; suon [Absatz]&gt;&gt;&gt; {[S] suon} [Absatz]&gt;&gt;&gt; {[S] sun} [Absatz]&gt;&gt;&gt; {[S] sunne} &amp; sicczet &amp; auf [Absatz]&gt;&gt;&gt; {[S] ûve} [Absatz]&gt;&gt;&gt; {[P] ûf} &amp; sechs [Absatz]&gt;&gt;&gt; {[N] sëhs} [Absatz]&gt;&gt;&gt; {[N] sëhs} &amp; stuelen &amp; uns [Absatz]&gt;&gt;&gt; {[P] uns} [Absatz]&gt;&gt;&gt; {[P] wir} &amp; czuo [Absatz]&gt;&gt;&gt; {[P] zuo} &amp; trost [Absatz]&gt;&gt;&gt; {[V] tr^OEzsten} [Absatz]&gt;&gt;&gt; {[S] trôst} [Absatz]&gt;&gt;&gt; {[S] trôst} &amp; und [Absatz]&gt;&gt;&gt; {[P] unde} &amp; czuo [Absatz]&gt;&gt;&gt; {[P] zuo} &amp; ainer [Absatz]&gt;&gt;&gt; {[P] ein} &amp; fuerderunge &amp; Des &amp; ersten [Absatz]&gt;&gt;&gt; {[V] er-stân} [Absatz]&gt;&gt;&gt; {[A] êrst} &amp; siczzet &amp; er [Absatz]&gt;&gt;&gt; {[S] êre} [Absatz]&gt;&gt;&gt; {[S] hêrre} [Absatz]&gt;&gt;&gt; {[P] ër} [Absatz]&gt;&gt;&gt; {[P] êr} [Absatz]&gt;&gt;&gt; {[P] ir} &amp; als [Absatz]&gt;&gt;&gt; {[P] al-sô} [Absatz]&gt;&gt;&gt; {[A] al} &amp; ein [Absatz]&gt;&gt;&gt; {[S] ein} [Absatz]&gt;&gt;&gt; {[P] ein} &amp; mayster Dok publiziert"/>
+        <h1:Field Type="1703" Value="220263"/>
+        <h1:Field Type="1704" Value="HK"/>
+        <h1:Field Type="1706" Value="N:16/07/99 BEARB.:IIIA K:12/10/99 BEARB.:IIIA"/>
+        <h1:Field Type="1707" Value="19990716&#x3b;119991012"/>
+        <h1:Field Type="1802" Value="Unser hailant der gotes suon sicczet auf sechs stuelen uns czuo trost und czuo ainer fuerderunge. Des ersten siczzet er als ein mayster"/>
+        <h1:Field Type="1943" Value="Ms"/>
+        <h1:Field Type="1945" Value="Ms 0022-0961"/>
+        <h1:Field Type="1903" Value="516"/>
+        <h1:Field Type="1950" Value="Ms 758">
+          <h1:Field Type="1961" Value="0234recto"/>
+        </h1:Field>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+</h1:DocumentSet>

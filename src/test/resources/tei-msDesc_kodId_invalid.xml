@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  ~ MIT License
+  ~
+  ~ Copyright (c) 2023 Staatsbibliothek zu Berlin - Preußischer Kulturbesitz
+  ~
+  ~ Permission is hereby granted, free of charge, to any person obtaining a copy
+  ~ of this software and associated documentation files (the "Software"), to deal
+  ~ in the Software without restriction, including without limitation the rights
+  ~ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  ~ copies of the Software, and to permit persons to whom the Software is
+  ~ furnished to do so, subject to the following conditions:
+  ~
+  ~ The above copyright notice and this permission notice shall be included in all
+  ~ copies or substantial portions of the Software.
+  ~
+  ~ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  ~ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  ~ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  ~ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  ~ SOFTWARE.
+  -->
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:egXML="http://www.tei-c.org/ns/Examples" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <teiHeader xml:lang="de">
+        <fileDesc>
+            <titleStmt>
+                <title>KOD-Import</title>
+            </titleStmt>
+            <publicationStmt>
+				<publisher>
+				   <name type="org">Handschriftenportal</name>
+				   <ptr target="http://www.handschriftenportal.de"/>
+				</publisher>
+				<availability status="free">
+				   <licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">
+					  <p>Für das Kulturobjektdokument verzichtet das Handschriftenportal auf alle
+						 Nutzungsrechte.
+					  </p>
+					  <p>Für die Nutzung weiterer Daten wie Digitalisaten gelten gegebenenfalls andere
+						 Lizenzen. Vgl. die <ref target="http://www.handschriftenportal.de">Copyright
+							Information
+						 </ref> des Handschriftenportals.
+					  </p>
+				   </licence>
+				</availability>
+			 </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="HSP-3caaab5b-50bc-3e2b-93bb-99d378b849d9" xml:lang="de" type="hsp:object">
+                    <msIdentifier>
+                        <settlement key="4021652-4">Gotha</settlement>
+                        <repository key="2015703-4">Forschungsbibliothek Gotha</repository>
+                        <idno>Memb. II 84</idno>
+                    </msIdentifier>
+                </msDesc>
+                <msDesc xml:id="HSP-3caaab5b-50bc-3e2b-93bb-99d378b849d9" xml:lang="de" type="hsp:object">
+                    <msIdentifier>
+                        <settlement key="4021652-4">Gotha</settlement>
+                        <repository key="2015703-4">Forschungsbibliothek Gotha</repository>
+                        <idno>Memb. II 84</idno>
+                    </msIdentifier>
+                </msDesc>
+                <msDesc xml:id="HSP-c81e9a09-6798-32e1-a4b0-68bc6530eb35" xml:lang="de" type="hsp:object">
+                    <msIdentifier>
+                        <settlement key="4021652-4">Gotha</settlement>
+                        <repository key="2015703-4">Forschungsbibliothek Gotha</repository>
+                        <idno>Memb. II 97</idno>
+                    </msIdentifier>
+                </msDesc>
+                <msDesc xml:id="HSP-ab101295-d146-3115-8d9a-e6ed9fd63177" xml:lang="de" type="hsp:object">
+                    <msIdentifier>
+                        <settlement key="4021652-4">Gotha</settlement>
+                        <repository key="2015703-4">Forschungsbibliothek Gotha</repository>
+                        <idno>Memb. II 80/81</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
