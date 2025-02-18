@@ -1,0 +1,464 @@
+<mx:record xmlns:mx="http://www.loc.gov/MARC21/slim" id="_9464184">
+  <mx:leader>08560ntm a2200024zc 4500</mx:leader>
+  <mx:controlfield tag="001">9464184</mx:controlfield>
+  <mx:controlfield tag="005">20190208</mx:controlfield>
+  <mx:controlfield tag="007">|| ||||||||||||||||||||</mx:controlfield>
+  <mx:controlfield tag="008">060809suuuuuuuu|||a|| | |||||||||||lat||</mx:controlfield>
+  <mx:datafield tag="024" ind1="8" ind2=" ">
+    <mx:subfield code="a">BSB-Hss Clm 6237</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="035" ind1=" " ind2=" ">
+    <mx:subfield code="a">(OCoLC)162358636</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="035" ind1=" " ind2=" ">
+    <mx:subfield code="a">(DE-604)BV021690266</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="035" ind1=" " ind2=" ">
+    <mx:subfield code="a">(XX-XxUND)BVBBV021690266</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="040" ind1=" " ind2=" ">
+    <mx:subfield code="e">rakwb</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="100" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregor</mx:subfield>
+    <mx:subfield code="c">I., Papst</mx:subfield>
+    <mx:subfield code="d">12.03.542-XX.XX.604</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="108" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregory &lt;I, Pope&gt;</mx:subfield>
+    <mx:subfield code="v">ca. 540-604.</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="L">eng</mx:subfield>
+    <mx:subfield code="a">Gregor &lt;I, Pope&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="L">fre</mx:subfield>
+    <mx:subfield code="a">Gregor &lt;I, Pape&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorius &lt;I., Papa&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregor &lt;der Große&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregor &lt;Dialogos&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Grégoire &lt;I., Pape&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Grégoire &lt;le Grand&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregoire &lt;I., lo Pape&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorio &lt;I., Papa&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorio &lt;Magno&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorio &lt;il Grande&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorios &lt;Dialogos&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorius &lt;Sanctus&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregory &lt;I., Pope&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorius &lt;de Grote&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Ržehoř &lt;I., Papež&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Ržehoř &lt;Swaty&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Pseudo-Gregorius &lt;I., Papa&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregory &lt;the Great&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorius I., Papst</mx:subfield>
+    <mx:subfield code="v">(VD-16)</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorius, Sanctus</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">R̆ehor̆ &lt;Veliký&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Grzegorz &lt;Wielki&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregor &lt;Vel'ky&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Grigorij &lt;Dvoeslov&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Sanctus Gregorius</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregory &lt;Saint&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gergély</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregor &lt;der Grosse&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorius &lt;Magnus&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorius &lt;I, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorius &lt;I, Pape&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorius &lt;I, Pope&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregory &lt;I, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregory &lt;I, Pape&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregory &lt;I, Pope&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregor &lt;der Grosse, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregor &lt;der Grosse, Pape&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregor &lt;der Grosse, Pope&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregory &lt;the Great, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregory &lt;the Great, Pape&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregory &lt;the Great, Pope&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Grégoire &lt;le Grand, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Grégoire &lt;le Grand, Pape&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Grégoire &lt;le Grand, Pope&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorius &lt;Magnus, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorius &lt;Magnus, Pape&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorius &lt;Magnus, Pope&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorio &lt;Magno, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorio &lt;Magno, Pape&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorio &lt;Magno, Pope&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregor &lt;Heiliger, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregor &lt;Saint, Pape&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregor &lt;Saint, Pope&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorius &lt;der Grosse, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Grégoire &lt;I, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">St. Gregory &lt;the Great, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Grégoire &lt;Dialogos, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorio &lt;I, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorio &lt;il Grande, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorios &lt;Dialogos, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorios &lt;Sanctus, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorius &lt;de Grote, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Pseudo-Gregorius &lt;I, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregor &lt;I, Papst&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Gregorius &lt;Papa 1.&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="109" ind1="1" ind2=" ">
+    <mx:subfield code="a">Pseudo-Gregorius &lt;Magnus&gt;</mx:subfield>
+    <mx:subfield code="0">(DE-588)118541838</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="245" ind1="0" ind2="0">
+    <mx:subfield code="a">Homiliae in Ezechielem, liber II - BSB Clm 6237</mx:subfield>
+    <mx:subfield code="c">Gregorius Magnus</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="260" ind1=" " ind2=" ">
+    <mx:subfield code="a">Freising</mx:subfield>
+    <mx:subfield code="c">vor 784</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="264" ind1=" " ind2="3">
+    <mx:subfield code="a">Freising</mx:subfield>
+    <mx:subfield code="c">vor 784</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="300" ind1=" " ind2=" ">
+    <mx:subfield code="a">I + 186 Bl. - Pergament</mx:subfield>
+    <mx:subfield code="b">Ill.</mx:subfield>
+    <mx:subfield code="c">23 x 14,5 cm</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="336" ind1=" " ind2=" ">
+    <mx:subfield code="a">Text</mx:subfield>
+    <mx:subfield code="b">txt</mx:subfield>
+    <mx:subfield code="2">rdacontent</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="337" ind1=" " ind2=" ">
+    <mx:subfield code="a">ohne Hilfsmittel zu benutzen</mx:subfield>
+    <mx:subfield code="b">n</mx:subfield>
+    <mx:subfield code="2">rdamedia</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="338" ind1=" " ind2=" ">
+    <mx:subfield code="a">Band</mx:subfield>
+    <mx:subfield code="b">nc</mx:subfield>
+    <mx:subfield code="2">rdacarrier</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="500" ind1=" " ind2=" ">
+    <mx:subfield code="a">Abschrift von Clm 6316. - BSB-Provenienz: Freising, Dombibliothek.
+      Besitzeintrag aus dem 12. Jh. (1r).
+    </mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="500" ind1=" " ind2=" ">
+    <mx:subfield code="a">Kurzaufnahme einer Handschrift</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="776" ind1="1" ind2="8">
+    <mx:subfield code="i">Elektronische Reproduktion</mx:subfield>
+    <mx:subfield code="d">München : Bayerische Staatsbibliothek, 2011</mx:subfield>
+    <mx:subfield code="o">urn:nbn:de:bvb:12-bsb00004612-1</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="787" ind1="0" ind2="8">
+    <mx:subfield code="i">Beschrieben in</mx:subfield>
+    <mx:subfield code="a">Bierbrauer, Katharina</mx:subfield>
+    <mx:subfield code="t">Die vorkarolingischen und karolingischen Handschriften der Bayerischen
+      Staatsbibliothek. Textband + Tafelband
+    </mx:subfield>
+    <mx:subfield code="d">Wiesbaden : Dr. Ludwig Reichert Verlag, 1990</mx:subfield>
+    <mx:subfield code="k">Katalog der illuminierten Handschriften der Bayerischen Staatsbibliothek
+      in München ; Band 1
+    </mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="787" ind1="0" ind2="8">
+    <mx:subfield code="i">Beschrieben in</mx:subfield>
+    <mx:subfield code="a">Glauche, Günter</mx:subfield>
+    <mx:subfield code="t">Katalog der lateinischen Handschriften der Bayerischen Staatsbibliothek
+      München. Die Pergamenthandschriften aus dem Domkapitel Freising: Band 1. Clm 6201-6316 / neu
+      beschrieben von Günter Glauche
+    </mx:subfield>
+    <mx:subfield code="d">Wiesbaden : Harrassowitz Verlag, 2000</mx:subfield>
+    <mx:subfield code="k">Catalogus codicum manu scriptorum Bibliothecae Monacensis ; Tomus 3,
+      Series nova, Pars 2,1
+    </mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="787" ind1="0" ind2="8">
+    <mx:subfield code="i">Beschrieben in</mx:subfield>
+    <mx:subfield code="a">Halm, Karl</mx:subfield>
+    <mx:subfield code="t">Catalogus codicum latinorum Bibliothecae Regiae Monacensis. Tomi 1 Pars
+      3.: Codices latinos (Clm) 5251-8100 complectens / secundum Andreae Schmelleri indices
+      composuerunt Carolus Halm, Georgius Thomas, Gulielmus Meyer
+    </mx:subfield>
+    <mx:subfield code="d">Monachii : sumptibus Bibliothecae Regiae, A. 1873</mx:subfield>
+    <mx:subfield code="k">Catalogus codicum manu scriptorum Bibliothecae Regiae Monacensis ; Tomi 3
+      Pars 3
+    </mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="856" ind1="4" ind2="1">
+    <mx:subfield code="u">http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00004612-1</mx:subfield>
+    <mx:subfield code="x">Resolving-System</mx:subfield>
+    <mx:subfield code="z">kostenfrei</mx:subfield>
+    <mx:subfield code="3">Volltext // Exemplar mit der Signatur: München, Bayerische
+      Staatsbibliothek -- Clm 6237
+    </mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="856" ind1=" " ind2="2">
+    <mx:subfield code="u">https://nbn-resolving.org/urn:nbn:de:bvb:12-bsb00008267-4</mx:subfield>
+    <mx:subfield code="y">Halm, Karl: Catalogus codicum latinorum Bibliothecae Regiae Monacensis.
+      Tomi 1 Pars 3.: Codices latinos (Clm) 5251-8100 complectens / secundum Andreae Schmelleri
+      indices composuerunt Carolus Halm, Georgius Thomas, Gulielmus Meyer. - Monachii : sumptibus
+      Bibliothecae Regiae, A. 1873. - (Catalogus codicum manu scriptorum Bibliothecae Regiae
+      Monacensis ; Tomi 3 Pars 3)
+    </mx:subfield>
+    <mx:subfield code="3">Ausführliche Beschreibung</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="856" ind1=" " ind2="2">
+    <mx:subfield code="u">https://nbn-resolving.org/urn:nbn:de:bvb:12-bsb00106371-7</mx:subfield>
+    <mx:subfield code="y">Glauche, Günter: Katalog der lateinischen Handschriften der Bayerischen
+      Staatsbibliothek München. Die Pergamenthandschriften aus dem Domkapitel Freising: Band 1. Clm
+      6201-6316 / neu beschrieben von Günter Glauche. - Wiesbaden : Harrassowitz Verlag, 2000. -
+      (Catalogus codicum manu scriptorum Bibliothecae Monacensis ; Tomus 3, Series nova, Pars 2,1)
+    </mx:subfield>
+    <mx:subfield code="3">Ausführliche Beschreibung</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="856" ind1="4" ind2="2">
+    <mx:subfield code="u">http://www.manuscripta-mediaevalia.de/dokumente/html/hsk0470</mx:subfield>
+    <mx:subfield code="y">Bierbrauer, Katharina: Die vorkarolingischen und karolingischen
+      Handschriften der Bayerischen Staatsbibliothek. Textband + Tafelband. - Wiesbaden : Dr. Ludwig
+      Reichert Verlag, 1990. - (Katalog der illuminierten Handschriften der Bayerischen
+      Staatsbibliothek in München ; Band 1)
+    </mx:subfield>
+    <mx:subfield code="3">Ausführliche Beschreibung</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="856" ind1="4" ind2=" ">
+    <mx:subfield code="u">http://www.manuscripta-mediaevalia.de/dokumente/html/obj90879203
+    </mx:subfield>
+    <mx:subfield code="y">Wissenschaftliche Beschreibung der Handschrift, Manuscripta Mediaevalia
+      (Glauche, Günter; 2000)
+    </mx:subfield>
+    <mx:subfield code="z">kostenfrei</mx:subfield>
+    <mx:subfield code="3">Zusätzliche Angaben</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="856" ind1="4" ind2=" ">
+    <mx:subfield code="u">http://www.manuscripta-mediaevalia.de/dokumente/html/obj90880773
+    </mx:subfield>
+    <mx:subfield code="y">Wissenschaftliche Beschreibung der Handschrift, Manuscripta Mediaevalia
+      (Bierbrauer, Katharina; 1990)
+    </mx:subfield>
+    <mx:subfield code="z">kostenfrei</mx:subfield>
+    <mx:subfield code="3">Zusätzliche Angaben</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="912" ind1=" " ind2=" ">
+    <mx:subfield code="a">digit</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="940" ind1="1" ind2=" ">
+    <mx:subfield code="q">bsbeureg-car</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="982" ind1=" " ind2=" ">
+    <mx:subfield code="q">bi</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="983" ind1=" " ind2=" ">
+    <mx:subfield code="D">13.07.2011</mx:subfield>
+    <mx:subfield code="b">0</mx:subfield>
+    <mx:subfield code="j">MF 8952</mx:subfield>
+    <mx:subfield code="n">SVF 30</mx:subfield>
+    <mx:subfield code="p">36654929510011</mx:subfield>
+    <mx:subfield code="t">61</mx:subfield>
+    <mx:subfield code="u">61</mx:subfield>
+  </mx:datafield>
+  <mx:datafield tag="983" ind1=" " ind2=" ">
+    <mx:subfield code="D">09.08.2006</mx:subfield>
+    <mx:subfield code="b">0</mx:subfield>
+    <mx:subfield code="j">Clm 6237</mx:subfield>
+    <mx:subfield code="p">36652249350013</mx:subfield>
+    <mx:subfield code="t">60</mx:subfield>
+    <mx:subfield code="u">61</mx:subfield>
+  </mx:datafield>
+</mx:record>

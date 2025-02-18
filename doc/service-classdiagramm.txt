@@ -1,0 +1,262 @@
+@startuml
+
+class staatsbibliothek.berlin.hsp.importservice.domain.service.BeschreibungenImportService {
+	{field} {static} +HSP_FORMAT_VALIDATION_AS_STRING : String
+	{field} {static} +INTERN_EXTERN_AS_STRING : String
+	{field} ~kafkaNachweisProducer : staatsbibliothek.berlin.hsp.importservice.kafka.KafkaNachweisProducer
+	{field} {static} -log : org.slf4j.Logger
+	{field} -messageSource : org.springframework.context.MessageSource
+	{method} -executeXMLValidation ( paramActivityStreamObject1 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.ActivityStreamObject , paramImportJob2 : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob ) : void
+	{method} +importDateien ( paramActivityStreamObject1 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.ActivityStreamObject , paramString2 : String , paramString3 : String , paramActivityStreamsDokumentTyp4 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.enums.ActivityStreamsDokumentTyp ) : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob
+	{method} +setDataDirectory ( paramString1 : String ) : void
+	{method} +setFileService ( paramFileService1 : staatsbibliothek.berlin.hsp.importservice.domain.service.FileService ) : void
+	{method} +setImportJobRepository ( paramImportJobRepository1 : staatsbibliothek.berlin.hsp.importservice.persistence.ImportJobRepository ) : void
+	{method} +setXmlService ( paramXMLService1 : staatsbibliothek.berlin.hsp.importservice.domain.service.XMLService ) : void
+}
+
+
+class staatsbibliothek.berlin.hsp.importservice.domain.service.DigitalisateImportService {
+	{field} ~kafkaNachweisProducer : staatsbibliothek.berlin.hsp.importservice.kafka.KafkaNachweisProducer
+	{field} {static} -log : org.slf4j.Logger
+	{method} +importDateien ( paramActivityStreamObject1 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.ActivityStreamObject , paramString2 : String , paramString3 : String , paramActivityStreamsDokumentTyp4 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.enums.ActivityStreamsDokumentTyp ) : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob
+	{method} -sendKafkaMessage ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile , paramImportJob2 : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob , paramActivityStreamsDokumentTyp3 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.enums.ActivityStreamsDokumentTyp ) : void
+}
+
+
+class staatsbibliothek.berlin.hsp.importservice.domain.service.FileService {
+	{field} {static} -log : org.slf4j.Logger
+	{field} -maxUnpackedFileSize : long
+	{field} -messageSource : org.springframework.context.MessageSource
+	{method} +identifyFileType ( paramPath1 : java.nio.file.Path ) : String
+	{method} ~isAllowedContentType ( paramString1 : String ) : boolean
+	{method} +isSupportedContent ( paramMultipartFile1 : org.springframework.web.multipart.MultipartFile ) : boolean
+	{method} +removeBOM ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile ) : void
+	{method} +save ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile , param[B2 : [B ) : boolean
+	{method} +saveStringParts ( paramString1 : String , paramString;2 : [Ljava.lang.String; ) : void
+	{method} ~unzip ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile , paramString2 : String ) : java.util.List
+	{method} ~unzipEntry ( paramString1 : String , paramZipEntry2 : java.util.zip.ZipEntry , paramZipInputStream3 : java.util.zip.ZipInputStream ) : java.util.List
+}
+
+
+class staatsbibliothek.berlin.hsp.importservice.domain.service.ImportJobConvert {
+	{field} {static} -log : org.slf4j.Logger
+	{method} +toJson ( paramImportJob1 : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob ) : String
+}
+
+
+class staatsbibliothek.berlin.hsp.importservice.domain.service.ImportMessageService {
+	{field} {static} +EMPTY_MESSAGE : String
+	{field} {static} +NOT_SUPPORTED_ACTION : String
+	{field} {static} +NO_TARGET_SERVICE : String
+	{field} {static} +UNKOWN : String
+	{field} -beschreibungenImportService : staatsbibliothek.berlin.hsp.importservice.domain.DateiImportBoundary
+	{field} -importDigitalisateService : staatsbibliothek.berlin.hsp.importservice.domain.DateiImportBoundary
+	{field} -importJobRepository : staatsbibliothek.berlin.hsp.importservice.persistence.ImportJobRepository
+	{field} -katalogeImportService : staatsbibliothek.berlin.hsp.importservice.domain.DateiImportBoundary
+	{field} -logger : org.slf4j.Logger
+	{field} -normdatenImportService : staatsbibliothek.berlin.hsp.importservice.domain.DateiImportBoundary
+	{method} +createAndSaveImportJobWithError ( paramString1 : String , paramActivityStreamMessage2 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.impl.model.ActivityStreamMessage ) : void
+	{method} -extractBenutzernameFromMessage ( paramActivityStreamMessage1 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.impl.model.ActivityStreamMessage ) : String
+	{method} +handleADD ( paramActivityStreamObject1 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.ActivityStreamObject , paramActivityStreamMessage2 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.impl.model.ActivityStreamMessage , paramDateiImportBoundary3 : staatsbibliothek.berlin.hsp.importservice.domain.DateiImportBoundary , paramActivityStreamsDokumentTyp4 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.enums.ActivityStreamsDokumentTyp ) : void
+	{method} +handleAddAction ( paramActivityStreamMessage1 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.impl.model.ActivityStreamMessage ) : void
+	{method} ~handleImportUpdate ( paramActivityStreamObject1 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.ActivityStreamObject , paramActivityStreamMessage2 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.impl.model.ActivityStreamMessage ) : void
+	{method} +handleMessage ( paramActivityStreamMessage1 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.impl.model.ActivityStreamMessage ) : void
+	{method} ~handleUpdateAction ( paramActivityStreamMessage1 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.impl.model.ActivityStreamMessage ) : void
+	{method} #mapActivityStreamsDokumentTypToService ( paramActivityStreamsDokumentTyp1 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.enums.ActivityStreamsDokumentTyp ) : staatsbibliothek.berlin.hsp.importservice.domain.DateiImportBoundary
+}
+
+
+abstract class staatsbibliothek.berlin.hsp.importservice.domain.service.ImportServiceTemplate {
+	{field} {static} ~DATE_TIME_FORMAT : String
+	{field} ~dataDirectory : String
+	{field} ~importJobRepository : staatsbibliothek.berlin.hsp.importservice.persistence.ImportJobRepository
+	{field} ~knownType : java.util.Set
+	{field} {static} -log : org.slf4j.Logger
+	{method}  {static} +cleanUpImportDirectory ( paramImportJob1 : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob ) : void
+	{method}  {static} +createImportFile ( paramString1 : String , paramImportJob2 : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob ) : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile
+	{method} +executeStepWithImportFile ( paramImportJob1 : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob , paramPredicate2 : java.util.function.Predicate , paramConsumer3 : java.util.function.Consumer ) : void
+	{method} -handleFileByType ( paramImportJob1 : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob , paramList2 : java.util.List , paramList3 : java.util.List , paramImportFile4 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile , paramFileService5 : staatsbibliothek.berlin.hsp.importservice.domain.service.FileService ) : void
+	{method} +identifyRDFFormatAndValidate ( paramImportJob1 : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob ) : void
+	{method} +identifyXMLFormatAndValidate ( paramImportJob1 : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob ) : void
+	{method} +initialise ( paramString1 : String , paramString2 : String , paramActivityStreamsDokumentTyp3 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.enums.ActivityStreamsDokumentTyp ) : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob
+	{method}  {static} -isRDF ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile ) : boolean
+	{method}  {static} -isXML ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile ) : boolean
+	{method}  {static} -isZip ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile ) : boolean
+	{method} +mapFileToMessage ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile , paramImportJob2 : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob , paramActivityStreamsDokumentTyp3 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.enums.ActivityStreamsDokumentTyp ) : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.ActivityStream
+	{method} +unzip ( paramImportJob1 : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob ) : void
+}
+
+
+class staatsbibliothek.berlin.hsp.importservice.domain.service.KatalogeImportService {
+	{field} ~kafkaNachweisProducer : staatsbibliothek.berlin.hsp.importservice.kafka.KafkaNachweisProducer
+	{field} {static} -log : org.slf4j.Logger
+	{method} +importDateien ( paramActivityStreamObject1 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.ActivityStreamObject , paramString2 : String , paramString3 : String , paramActivityStreamsDokumentTyp4 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.enums.ActivityStreamsDokumentTyp ) : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob
+	{method} -sendKafkaMessage ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile , paramImportJob2 : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob , paramActivityStreamsDokumentTyp3 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.enums.ActivityStreamsDokumentTyp ) : void
+}
+
+
+class staatsbibliothek.berlin.hsp.importservice.domain.service.KulturObjektDokumentImportService {
+	{field} ~kafkaNachweisProducer : staatsbibliothek.berlin.hsp.importservice.kafka.KafkaNachweisProducer
+	{field} {static} -log : org.slf4j.Logger
+	{method} +importDateien ( paramActivityStreamObject1 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.ActivityStreamObject , paramString2 : String , paramString3 : String , paramActivityStreamsDokumentTyp4 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.enums.ActivityStreamsDokumentTyp ) : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob
+	{method} -sendKafkaMessage ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile , paramImportJob2 : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob , paramActivityStreamsDokumentTyp3 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.enums.ActivityStreamsDokumentTyp ) : void
+}
+
+
+class staatsbibliothek.berlin.hsp.importservice.domain.service.NormdatenImportService {
+	{field} ~kafkaNormdatenProducer : staatsbibliothek.berlin.hsp.importservice.kafka.KafkaNormdatenProducer
+	{field} {static} -log : org.slf4j.Logger
+	{method} +getDataDirectory () : String
+	{method} +getFileService () : staatsbibliothek.berlin.hsp.importservice.domain.service.FileService
+	{method} +getXmlService () : staatsbibliothek.berlin.hsp.importservice.domain.service.XMLService
+	{method} +importDateien ( paramActivityStreamObject1 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.ActivityStreamObject , paramString2 : String , paramString3 : String , paramActivityStreamsDokumentTyp4 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.enums.ActivityStreamsDokumentTyp ) : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob
+	{method} ~sendKafkaMessage ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile , paramImportJob2 : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob , paramActivityStreamsDokumentTyp3 : de.staatsbibliothek.berlin.hsp.messaging.activitystreams.api.model.enums.ActivityStreamsDokumentTyp ) : void
+}
+
+
+class staatsbibliothek.berlin.hsp.importservice.domain.service.RDFService {
+	{field} {static} +HSP_DATATYP_KONZEPT : String
+	{field} {static} -log : org.slf4j.Logger
+	{field} -schemaResourceFileBoundary : staatsbibliothek.berlin.hsp.importservice.domain.SchemaResourceFileBoundary
+	{method} +applyRDFFormat ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile ) : void
+	{method}  {static} +isTurtle ( paramLang1 : org.apache.jena.riot.Lang ) : boolean
+	{method} ~loadSHACLSchema () : java.net.URI
+	{method} +validateSchema ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile , paramImportJob2 : staatsbibliothek.berlin.hsp.importservice.domain.aggregate.ImportJob ) : void
+}
+
+
+class staatsbibliothek.berlin.hsp.importservice.domain.service.ResourceURIResolver {
+	{field} {static} -log : org.slf4j.Logger
+	{method} +resolve ( paramString1 : String , paramString2 : String ) : javax.xml.transform.Source
+}
+
+
+class staatsbibliothek.berlin.hsp.importservice.domain.service.SchemaResourceFileException {
+	{field} {static} -serialVersionUID : long
+}
+
+
+class staatsbibliothek.berlin.hsp.importservice.domain.service.SchemaResourceFileRuntimeException {
+	{field} {static} -serialVersionUID : long
+}
+
+
+class staatsbibliothek.berlin.hsp.importservice.domain.service.SchemaResourceFileService {
+	{field} {static} -HSP_SCHEMA_RESOURCES : String
+	{field} {static} -log : org.slf4j.Logger
+	{field} -resourceLoader : org.springframework.core.io.ResourceLoader
+	{field} -schemaResourceFileRepository : staatsbibliothek.berlin.hsp.importservice.persistence.SchemaResourceFileRepository
+	{field} -schemaResourcesDirectory : String
+	{method} ~copyAndSaveResourceFile ( paramSchemaResourceFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.SchemaResourceFile ) : void
+	{method} ~createResourcePath ( paramSchemaResourceFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.SchemaResourceFile ) : String
+	{method} ~createSchemaResourceFile ( paramResource1 : org.springframework.core.io.Resource ) : staatsbibliothek.berlin.hsp.importservice.domain.entity.SchemaResourceFile
+	{method} ~delete ( paramSchemaResourceFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.SchemaResourceFile ) : void
+	{method} +findAll () : Iterable
+	{method} +findOptionalById ( paramString1 : String ) : java.util.Optional
+	{method} +onApplicationEvent ( paramContextRefreshedEvent1 : org.springframework.context.event.ContextRefreshedEvent ) : void
+	{method} ~readClasspathResources () : java.util.Map
+	{method} +save ( paramString1 : String , param[B2 : [B , paramString3 : String , paramModuleDescriptor$Version4 : module.ModuleDescriptor$Version ) : void
+}
+
+
+class staatsbibliothek.berlin.hsp.importservice.domain.service.XMLNamespaceSAXParserHandler {
+	{field} -format : staatsbibliothek.berlin.hsp.importservice.domain.valueobject.DateiFormate
+	{field} {static} -knownNamespace : java.util.Map
+	{field} {static} -log : org.slf4j.Logger
+	{method} +startElement ( paramString1 : String , paramString2 : String , paramString3 : String , paramAttributes4 : org.xml.sax.Attributes ) : void
+}
+
+
+class staatsbibliothek.berlin.hsp.importservice.domain.service.XMLService {
+	{field} {static} +FEATURE_SECURE_PROCESSING : String
+	{field} {static} +TEI_C_ORG_NS_1_0 : String
+	{field} -enhanceWithSchematron : boolean
+	{field} {static} -log : org.slf4j.Logger
+	{field} -messageSource : org.springframework.context.MessageSource
+	{field} -schemaResourceFileBoundary : staatsbibliothek.berlin.hsp.importservice.domain.SchemaResourceFileBoundary
+	{method} +applyXMLFormat ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile ) : void
+	{method} -createStreamSource ( paramString1 : String ) : javax.xml.transform.stream.StreamSource
+	{method} -getMessage ( paramString1 : String ) : String
+	{method} -getMessage ( paramString1 : String , paramLocale2 : java.util.Locale ) : String
+	{method}  {static} -getPropertyMapWithErrorHandler () : com.thaiopensource.util.PropertyMap
+	{method} -handelSaxParseException ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile , paramSAXParseException2 : org.xml.sax.SAXParseException ) : void
+	{method} +hspValidateSchema ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile ) : boolean
+	{method} ~identifyXMLFormat ( paramFile1 : java.io.File ) : staatsbibliothek.berlin.hsp.importservice.domain.valueobject.DateiFormate
+	{method} +translate ( paramInputStream1 : java.io.InputStream , paramOutputStream2 : java.io.OutputStream , paramDateiFormate3 : staatsbibliothek.berlin.hsp.importservice.domain.valueobject.DateiFormate ) : void
+	{method} +validate ( paramString1 : String ) : boolean
+	{method} -validate ( paramString1 : String , paramString2 : String , paramString3 : String ) : boolean
+	{method} +validateSchema ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile ) : void
+	{method} ~validateSchema ( paramSchema1 : javax.xml.validation.Schema , paramFile2 : java.io.File ) : boolean
+	{method} -validateSchemaWithJingLib ( paramString1 : String , paramString2 : String ) : boolean
+	{method} +validateWithODD ( paramString1 : String ) : boolean
+	{method} +validateXML ( paramString1 : String , paramboolean2 : boolean , paramString3 : String ) : staatsbibliothek.berlin.hsp.importservice.domain.valueobject.ValidationResult
+	{method} #validateXMLUsingSchematron ( paramString1 : String ) : staatsbibliothek.berlin.hsp.importservice.domain.valueobject.ValidationResult
+	{method} +xsltToTEI ( paramImportFile1 : staatsbibliothek.berlin.hsp.importservice.domain.entity.ImportFile ) : void
+}
+
+
+class staatsbibliothek.berlin.hsp.importservice.domain.service.teimapper.XPATHTEIValues {
+	{field} +beschreibungBesitzendenEinrichtungBase : String
+	{field} +beschreibungBesitzendenEinrichtungName : String
+	{field} +beschreibungBesitzendenEinrichtungOrt : String
+	{field} +beschreibungDocuments : String
+	{field} +beschreibungIdentifikationCollection : String
+	{field} +beschreibungIdentifikationCollectionName : String
+	{field} +beschreibungIdentifikationIdent : String
+	{field} +beschreibungReferenzes : String
+	{field} +beschreibungTitel : String
+	{field} +beschreibungdokumentAeusseres : String
+	{field} +beschreibungdokumentAeusseresAbemessungBreite : String
+	{field} +beschreibungdokumentAeusseresAbemessungHoehe : String
+	{field} +beschreibungdokumentAeusseresAbemessungMasseinheit : String
+	{field} +beschreibungdokumentAeusseresAbemessungMaterial : String
+	{field} +beschreibungdokumentAeusseresAbemessungMaterialBase : String
+	{field} +beschreibungdokumentAeusseresAbemessungTiefe : String
+	{field} +beschreibungdokumentAeusseresAbemessungUmfangName : String
+	{field} +beschreibungdokumentAeusseresFormat : String
+	{field} +beschreibungdokumentAeusseresSpaltenzahl : String
+	{field} +beschreibungdokumentAeusseresZeilenzahl : String
+	{field} +beschreibungid : String
+	{field} +beschreibungsAenderungsDatum : String
+	{field} +beschreibungsBeteiligte : String
+	{field} +beschreibungsFreitextAll : String
+	{field} +beschreibungsGrundsprachen : String
+	{field} +beschreibungsGrundsprachenOthers : String
+	{field} +beschreibungsKomponenteGeschichteEntstehungsort : String
+	{field} +beschreibungsKomponenteGeschichteEntstehungszeit : String
+	{field} +beschreibungsKomponenteGeschichteEntstehungszeitFrom : String
+	{field} +beschreibungsKomponenteGeschichteEntstehungszeitNotAfter : String
+	{field} +beschreibungsKomponenteGeschichteEntstehungszeitNotBefore : String
+	{field} +beschreibungsKomponenteGeschichteEntstehungszeitPeriod : String
+	{field} +beschreibungsKomponenteGeschichteEntstehungszeitTo : String
+	{field} +beschreibungsKomponenteGeschichteEntstehungszeitWhen : String
+	{field} +beschreibungsKulturobjektTyp : String
+	{field} +beschreibungsRechte : String
+	{field} +beschreibungsSprache : String
+	{field} +kodDokumentTyp : String
+	{field} +kodGenerierungsDate : String
+	{field} +kodId : String
+	{field} +kodKulturObjektTyp : String
+	{method} #canEqual ( paramObject1 : Object ) : boolean
+	{method} +equals ( paramObject1 : Object ) : boolean
+	{method} +hashCode () : int
+	{method} +toString () : String
+}
+
+
+
+
+staatsbibliothek.berlin.hsp.importservice.domain.service.BeschreibungenImportService --|>  staatsbibliothek.berlin.hsp.importservice.domain.service.ImportServiceTemplate
+staatsbibliothek.berlin.hsp.importservice.domain.service.DigitalisateImportService --|>  staatsbibliothek.berlin.hsp.importservice.domain.service.ImportServiceTemplate
+staatsbibliothek.berlin.hsp.importservice.domain.service.ImportServiceTemplate -->  staatsbibliothek.berlin.hsp.importservice.domain.service.FileService : fileService
+staatsbibliothek.berlin.hsp.importservice.domain.service.ImportServiceTemplate -->  staatsbibliothek.berlin.hsp.importservice.domain.service.ImportJobConvert : importJobConvert
+staatsbibliothek.berlin.hsp.importservice.domain.service.ImportServiceTemplate -->  staatsbibliothek.berlin.hsp.importservice.domain.service.RDFService : rdfService
+staatsbibliothek.berlin.hsp.importservice.domain.service.ImportServiceTemplate -->  staatsbibliothek.berlin.hsp.importservice.domain.service.XMLService : xmlService
+staatsbibliothek.berlin.hsp.importservice.domain.service.KatalogeImportService --|>  staatsbibliothek.berlin.hsp.importservice.domain.service.ImportServiceTemplate
+staatsbibliothek.berlin.hsp.importservice.domain.service.KulturObjektDokumentImportService --|>  staatsbibliothek.berlin.hsp.importservice.domain.service.ImportServiceTemplate
+staatsbibliothek.berlin.hsp.importservice.domain.service.NormdatenImportService --|>  staatsbibliothek.berlin.hsp.importservice.domain.service.ImportServiceTemplate
+staatsbibliothek.berlin.hsp.importservice.domain.service.XMLService -->  staatsbibliothek.berlin.hsp.importservice.domain.service.XMLNamespaceSAXParserHandler : handler
+staatsbibliothek.berlin.hsp.importservice.domain.service.XMLService -->  staatsbibliothek.berlin.hsp.importservice.domain.service.teimapper.XPATHTEIValues : xpathteiValues
+
+
+@enduml

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<h1:DocumentSet xmlns:h1="http://www.startext.de/HiDA/DefService/XMLSchema">
+  <h1:ContentInfo>
+    <h1:Format>HIDA-DOC1-XML</h1:Format>
+    <h1:CreationDate>30.04.2019 11:21:45:520</h1:CreationDate>
+  </h1:ContentInfo>
+  <h1:Document DocKey="obj     31275200" FieldsCount="148">
+    <h1:Block Type="obj" CreationDate="21.02.2007 14:34:22" CreatorID="jg"
+      ChangeDate="04.11.2015 10:06:24" ChangerID="jg" OwnerID="jg" FieldsCount="23">
+      <h1:Field Type="5000" Value="31275200"/>
+      <h1:Field Type="par01"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red224\green224\blue224&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://bezsoz[0].4650/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat18 S 110}}}"/>
+      <h1:Field Type="par02"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;\red224\green224\blue224&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://5209/&quot;}{\fldrslt \plain \f0\b\fs22\chcbpat18 Quintus Horatius Flaccus}}}"/>
+      <h1:Field Type="par03"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}{\f1\fnil\fcharset0 Times New Roman&#x3b;}{\f2\fnil\fcharset0 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://5260[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Papier}}\plain \f0\fs22  \u183 \'b7 108 (Druck) + 36 + 93 (Drucke) Blatt \u183 \'b7 30 \u215 \'d7 21 \u183 \'b7 {\field{\*\fldinst HYPERLINK &quot;hida://5130[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Leipzig}}\plain \f0\fs22  \u183 \'b7 {\field{\*\fldinst HYPERLINK &quot;hida://5060[0].5064/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 1492}}}"/>
+      <h1:Field Type="par04"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 [VE]. - {\field{\*\fldinst HYPERLINK &quot;hida://5704[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Kursive}}\plain \f0\fs22 , eine Hand (Text und Glossen) \u183 \'b7 Eine rote Lombarde (2\plain \f0\super\fs28 v\plain \f0\fs22 ) \u183 \'b7 Teil I, 1\plain \f0\super\fs28 r\plain \f0\fs22  {\field{\*\fldinst HYPERLINK &quot;hida://5650[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Schenkungsvermerk}}\plain \f0\fs22 : \plain \f0\i\fs22 Dies Buch hat der Ehrnvehst und Hochw[eise] Her Michel Rosenberg, Rathisverwandter, der Bibliotheck im G\u253 \'fdmnasio verehredt den 6\plain \f0\i\super\fs28 ten\plain \f0\i\fs22  Aprill A\plain \f0\i\super\fs28 o\plain \f0\i\fs22  1601\plain \f0\fs22 , darunter fl\u252 \'fcchtige Zeichnung (Exlibris?, Baum mit zwei brezelf\u246 \'f6rmig gekreuzten H\u246 \'f6rnern)&#x3b; 2\plain \f0\super\fs28 r\plain \f0\fs22  Exlibris, [nach 1597]: \plain \f0\i\fs22 Ex Bibliotheca Senatus Gedanensis\plain \f0\fs22  (vgl. Otto G\u252 \'fcnther: Die Danziger Stadtbibliothek. Ihre Entwicklung und ihr Neubau. Danzig 1905, S. 4&#x3b; gestrichen&#x3b; nach Restaurierung (1999) entfernt)\plain \f0\i\fs22 .}"/>
+      <h1:Field Type="par05"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}{\f1\fnil\fcharset0 Times New Roman&#x3b;}{\f2\fnil\fcharset0 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 Zusammengesetzter Codex aus sechs Teilen: Der hs Teil II (1\plain \f0\super\fs28 r\plain \f0\fs22 -36\plain \f0\super\fs28 v\plain \f0\fs22 ) nach Kolophon (33\plain \f0\super\fs28 v\plain \f0\fs22 ) 1492 geschrieben, nach beigebundenen Drucken sowie Einband (s.u.) von einem humanistisch orientierten, nach Besitzprovenienz (s.u.) vermutlich aus Danzig stammenden Studenten der Artes in Leipzig. In dessen Auftrag dort um 1500 mit den gedruckten Teilen I (Basel, 1489) und III-VI (Leipzig, 1490-95&#x3b; die Teil III-IV und VI vom Schreiber von Teil II glossiert) zusammengebunden. Der Band nach Glosse (Teil I, 86\plain \f0\super\fs28 r\plain \f0\fs22 , s.u.) schon Anfang des 16. Jh.s in Preu\u223 \'dfen, wohl in Danzig. Nach Schenkungsvermerk und Exlibris (Teil I, 1\plain \f0\super\fs28 v\plain \f0\fs22 . 2\plain \f0\super\fs28 r\plain \f0\fs22 ) aus dem Besitz des Danzig Ratsherren {\field{\*\fldinst HYPERLINK &quot;hida://bezper[0].4100/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Michael Rosenberg}}\plain \f0\fs22  (\u8224 \'86 1610, vgl. Helmut Strehlau: Aus der Genealogie des Danziger Ratsgeschlechts Rosenberg. In: Ostdeutsche Familienkunde 10 (1962), S. 2-6, v.a. S. 2f.) 1601 in die dortige {\field{\*\fldinst HYPERLINK &quot;hida://bezsoz[1].4600/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Gymnasial- und Ratsbibliothek}}\plain \f0\fs22  gelangt. Dort 1822 anl\u228 \'e4\u223 \'dflich eines gr\u246 \'f6\u223 \'dferen Dublettenverkaufs ausgesondert (vgl. dazu Handbuch deutscher historischer Buchbest\u228 \'e4nde in Europa. Bd. 6: Polen/Bulgarien. Hildesheim u.a., S. 95) und in die Universit\u228 \'e4tsbibliothek Bonn gekommen (Acc.-Nr. 1822.123 (Nr. 18)\plain \f2\lang1033\fs22 &#x3b; fehlt Index mss. Bonn 1846\plain \f0\fs22 ).}"/>
+      <h1:Field Type="par06"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://bezlit[0].8330/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Handschriftenzensus Rheinland}}\plain \f0\fs22 , Nr. 110. - Fischer, s.v. 'S 110'. - Becker, [S. 11]. - {\field{\*\fldinst HYPERLINK &quot;hida://bezlit[1].8330/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Klette/St\u228 \'e4nder}}\plain \f0\fs22 , Nr. 110.}"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Bonn"/>
+        <h1:Field Type="4600" Value="Universitäts- und Landesbibliothek Bonn"/>
+        <h1:Field Type="4500" Value="31275073"/>
+        <h1:Field Type="4650" Value="S 110"/>
+        <h1:Field Type="4652" Value="S 14"/>
+        <h1:Field Type="4656" Value="1822.123 (Nr. 18)"/>
+        <h1:Field Type="4996" Value="seit 1822"/>
+      </h1:Field>
+      <h1:Field Type="bezsoz" Value="Vorbesitz">
+        <h1:Field Type="4564" Value="Danzig"/>
+        <h1:Field Type="4600" Value="Gymnasial- und Ratsbibliothek Danzig"/>
+        <h1:Field Type="4500" Value="31275136"/>
+        <h1:Field Type="4996" Value="1601-1822"/>
+      </h1:Field>
+      <h1:Field Type="bezper" Value="Vorbesitz">
+        <h1:Field Type="4000" Value="31275233"/>
+        <h1:Field Type="4100" Value="Rosenberg, Michael"/>
+        <h1:Field Type="4496" Value="bis 1601"/>
+      </h1:Field>
+      <h1:Field Type="5209" Value="Quintus Horatius Flaccus"/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="5060" Value="datiert">
+        <h1:Field Type="5064" Value="1492"/>
+      </h1:Field>
+      <h1:Field Type="5130" Value="Leipzig"/>
+      <h1:Field Type="5260" Value="Papier"/>
+      <h1:Field Type="5704" Value="Kursive, gotische"/>
+      <h1:Field Type="5710" Value="lateinisch"/>
+      <h1:Field Type="5650" Value="Schenkungsvermerk">
+        <h1:Field Type="5686"
+          Value="Dies Buch hat der Ehrnvehst und Hochw[eise] Her Michel Rosenberg Rathisverwandter der Bibliotheck im Gýmnasio verehredt den 6/ten Aprill A/o 1601"/>
+        <h1:Field Type="5694" Value="1recto"/>
+        <h1:Field Type="5664" Value="1601"/>
+      </h1:Field>
+      <h1:Field Type="6560">
+        <h1:Field Type="6568"
+          Value="Zwei Kreuze (Stadtwappen Danzig), gekrönt, rechts und links je ein steigender Löwe, darunter Inschrift: ^^EX BIBLIOTHECA SENATVS GEDANENSIS^^ [Danzig, Jonas Silber, 1597), vgl. Otto Günther: Die Danziger Stadtbibliothek. Ihre Entwicklung und ihr Neubau. Danzig 1905, S. 4"/>
+        <h1:Field Type="6694" Value="2recto"/>
+        <h1:Field Type="6740" Value="Danzig"/>
+      </h1:Field>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="Handschriftenzensus Rheinland"/>
+        <h1:Field Type="8334" Value="Nr. 110"/>
+      </h1:Field>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="Klette/Ständer"/>
+        <h1:Field Type="8334" Value="Nr. 110"/>
+      </h1:Field>
+      <h1:Field Type="8450" Value="digitale Reproduktion">
+        <h1:Field Type="8540" Value="hs_bn_ulb_s0110_i_1r"/>
+      </h1:Field>
+      <h1:Field Type="9904" Value="mailto:juergen.geiss@sbb.spk-berlin.de"/>
+      <h1:Block Type="t2" CreationDate="21.06.2007 16:22:24:287"
+        ChangeDate="21.06.2007 16:22:24:287" FieldsCount="11">
+        <h1:Field Type="par07"
+          Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}{\f1\fnil\fcharset0 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://5260[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Ledereinband auf Holz}}\plain \f0\fs22 , {\field{\*\fldinst HYPERLINK &quot;hida://bezsoz[0].4600/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Werkstatt &quot;Leipzig, Buchbinder f\u252 \'fcr Jakob Wei\u223 \'dfmantel / Loh 18&quot;}}\plain \f0\fs22 , {\field{\*\fldinst HYPERLINK &quot;hida://5060[0].5064/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 um 1500}}\plain \f0\fs22  (vgl. {\field{\*\fldinst HYPERLINK &quot;hida://bezlit[0].8330/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Loh, Leipziger Buchbinder, 1990}}\plain \f0\fs22 , S. 78 = EBDB w003708: &quot;\plain \f1\lang1033\fs22\cf1 M\u252 \'fcnchen 4\u186 \'ba Inc.c.a. 755&quot;\plain \f0\fs22 &#x3b; Einzelstempel, vgl. Loh, Leipziger Buchbinder, Tf. 24,3&#x3b; EBDB s029559 u.a.)&#x3b; zwei Schlie\u223 \'dfen (entfernt)&#x3b; auf VD/RD je vier Eck- und Kantenbeschl\u228 \'e4ge sowie je f\u252 \'fcnf Buckel (entfernt)&#x3b; hs Titel auf Ober- und Unterschnitt: \plain \f0\i\fs22 Isidorus\plain \f0\fs22 , Anf. 16. Jh.&#x3b; Spiegel RD hs Inhaltsverzeichnis \u252 \'fcber alle Teile des Codex, Anf. 16. Jh. (teilweise verloren)}"/>
+        <h1:Field Type="5001" Value="31275473"/>
+        <h1:Field Type="bezsoz" Value="Herstellung">
+          <h1:Field Type="4564" Value="Leipzig"/>
+          <h1:Field Type="4600" Value="Buchbinder für Jakob Weißmantel = Loh Werkstatt 18"/>
+          <h1:Field Type="4500" Value="31275137"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Einband"/>
+        <h1:Field Type="5240" Value="spätgotischer Einband mit Einzelstempeln"/>
+        <h1:Field Type="5060" Value="Materialbefund">
+          <h1:Field Type="5064" Value="um 1500"/>
+        </h1:Field>
+        <h1:Field Type="5260" Value="Leder : Holz"/>
+        <h1:Field Type="bezlit" Value="Sekundärliteratur">
+          <h1:Field Type="8330" Value="Loh, Leipziger Buchbinder, 1990"/>
+          <h1:Field Type="8334" Value="S. 78&#x3b; Tf. 24,3"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0110_vd"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0110_spiegelvd"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0110_rd"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" CreationDate="22.06.2007 12:19:00:039"
+        ChangeDate="22.06.2007 12:19:00:039">
+        <h1:Field Type="par09"
+          Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\qc\ri0\sb0\sa0\itap0 \plain \f0\fs22 I}"/>
+        <h1:Field Type="5001" Value="31275476"/>
+        <h1:Field Type="5230" Value="Faszikel &amp; Inkunabel"/>
+        <h1:Block Type="t3" CreationDate="22.06.2007 12:15:30:645"
+          ChangeDate="22.06.2007 12:15:30:645">
+          <h1:Field Type="par11"
+            Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 1\plain \f0\super\fs28 r\plain \f0\fs22 -108\plain \f0\super\fs28 r\plain \f0\fs22  Druck: \plain \f0\scaps\fs22 Isidorus Hispalensis: Etymologiae\plain \f0\fs22 . Basel: [Michael Furter], 8. April 1489: H 9274&#x3b; Voulli\u233 \'e9me, Bonn 679. Am Rand vereinzelt Glossierung, zwei H\u228 \'e4nde, Humanistica, E. 15. Jh. und Anf. 16. Jh., darunter Bl 86\plain \f0\super\fs28 r\plain \f0\fs22  (LXXXII\plain \f0\super\fs28 r\plain \f0\fs22 ) lat.-nd. Glosse (Vergleich des Minerals \plain \f0\i\fs22 electrum\plain \f0\fs22  mit \plain \f0\i\fs22 bornsteyn \plain \f0\fs22 [Bernstein] \plain \f0\i\fs22 ... pruthenicum\plain \f0\fs22 ). 108\plain \f0\super\fs28 v\plain \f0\fs22  leer.}"/>
+          <h1:Field Type="5002" Value="31275474"/>
+          <h1:Field Type="4665" Value="1recto-108recto"/>
+          <h1:Field Type="5230" Value="Text"/>
+          <h1:Field Type="8450" Value="digitale Reproduktion">
+            <h1:Field Type="8540" Value="hs_bn_ulb_s0110_i_1r"/>
+          </h1:Field>
+        </h1:Block>
+      </h1:Block>
+      <h1:Block Type="t2" CreationDate="22.06.2007 12:19:00:039"
+        ChangeDate="22.06.2007 12:19:00:039">
+        <h1:Field Type="par09"
+          Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\qc\ri0\sb0\sa0\itap0 \plain \f0\fs22 II}"/>
+        <h1:Field Type="5001" Value="31275479"/>
+        <h1:Field Type="5230" Value="Faszikel &amp; Handschrift"/>
+        <h1:Block Type="t3" CreationDate="22.06.2007 12:15:30:645"
+          ChangeDate="22.06.2007 12:15:30:645">
+          <h1:Field Type="par11"
+            Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red224\green224\blue224&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 1\plain \f0\super\fs28 rv\plain \f0\fs22  {\field{\*\fldinst HYPERLINK &quot;hida://bezwrk[0].6930/?u&quot;}{\fldrslt \plain \f0\scaps\fs22\chcbpat18 Vita Horatii}}\plain \f0\fs22 . {\field{\*\fldinst HYPERLINK &quot;hida://5650[0].5666l/?u&quot;}{\fldrslt \plain \f0\i\fs22\chcbpat18 Quintus Horatius Flaccus philozophice discipline poeticeque pericie doctor}}\plain \f0\i\fs22  ... - ... ibi cum tot sustineas.}"/>
+          <h1:Field Type="5002" Value="31275478"/>
+          <h1:Field Type="bezper" Value="Erwähnung">
+            <h1:Field Type="4100" Value="Horatius Flaccus, Quintus"/>
+            <h1:Field Type="z001" Value="100790267"/>
+          </h1:Field>
+          <h1:Field Type="4665" Value="1recto-verso"/>
+          <h1:Field Type="5230" Value="Text"/>
+          <h1:Field Type="5710" Value="lateinisch"/>
+          <h1:Field Type="bezwrk" Value="Abschrift">
+            <h1:Field Type="6930" Value="Vita Horatii"/>
+          </h1:Field>
+          <h1:Field Type="5650" Value="Initium">
+            <h1:Field Type="5666l"
+              Value="Quintus Horatius Flaccus philosophicae disciplinae poeticaeque peritiae doctor"/>
+            <h1:Field Type="5694" Value="1recto"/>
+          </h1:Field>
+          <h1:Field Type="8450" Value="digitale Reproduktion">
+            <h1:Field Type="8540" Value="hs_bn_ulb_s0110_ii_1r"/>
+          </h1:Field>
+        </h1:Block>
+        <h1:Block Type="t3" CreationDate="22.06.2007 12:15:30:645"
+          ChangeDate="22.06.2007 12:15:30:645">
+          <h1:Field Type="par11"
+            Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 2\plain \f0\super\fs28 r\plain \f0\fs22 -33\plain \f0\super\fs28 v\plain \f0\fs22  {\field{\*\fldinst HYPERLINK &quot;hida://bezper[0].4100/?u&quot;}{\fldrslt \plain \f0\scaps\fs22\chcbpat17 Quintus Horatius Flaccus}}\plain \f0\scaps\fs22 : {\field{\*\fldinst HYPERLINK &quot;hida://bezwrk[0].6930/?u&quot;}{\fldrslt \plain \f0\scaps\fs22\chcbpat17 Epistulae}}\plain \f0\fs22 . (33\plain \f0\super\fs28 v\plain \f0\fs22 ) Kolophon:\plain \f0\i\fs22  Laus Deo M\plain \f0\i\super\fs28 o\plain \f0\i\fs22 CCCCXCII\plain \f0\i\super\fs28 o\plain \f0\fs22 . Ed.: D. R. Shackleton Bailey (Hg.): Q. Horati Flacci Opera. 2. Aufl. Stuttgart 1991, S. 251-309. Am Rand sowie zwischen den Zeilen zahlreiche Glossen von Schreiberhand, E. 15. Jh. 34\plain \f0\super\fs28 r\plain \f0\fs22 -36\plain \f0\super\fs28 v\plain \f0\fs22  bis auf Blindspiegellinierung leer.}"/>
+          <h1:Field Type="5002" Value="31275488"/>
+          <h1:Field Type="bezper" Value="Autorschaft">
+            <h1:Field Type="4100" Value="Horatius Flaccus, Quintus"/>
+            <h1:Field Type="z001" Value="100790267"/>
+          </h1:Field>
+          <h1:Field Type="4665" Value="2recto-33verso"/>
+          <h1:Field Type="5230" Value="Text"/>
+          <h1:Field Type="5710" Value="lateinisch"/>
+          <h1:Field Type="bezwrk" Value="Abschrift">
+            <h1:Field Type="6900" Value="31275012"/>
+            <h1:Field Type="6930" Value="Epistulae (Horatius)"/>
+          </h1:Field>
+          <h1:Field Type="8450" Value="digitale Reproduktion">
+            <h1:Field Type="8540" Value="hs_bn_ulb_s0110_ii_2r"/>
+          </h1:Field>
+          <h1:Field Type="8450" Value="digitale Reproduktion">
+            <h1:Field Type="8540" Value="hs_bn_ulb_s0110_ii_33v"/>
+          </h1:Field>
+        </h1:Block>
+      </h1:Block>
+      <h1:Block Type="t2" CreationDate="22.06.2007 12:19:00:039"
+        ChangeDate="22.06.2007 12:19:00:039">
+        <h1:Field Type="par09"
+          Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\qc\ri0\sb0\sa0\itap0 \plain \f0\fs22 III}"/>
+        <h1:Field Type="5001" Value="31275481"/>
+        <h1:Field Type="5230" Value="Faszikel &amp; Inkunabel"/>
+        <h1:Block Type="t3" CreationDate="22.06.2007 12:15:30:645"
+          ChangeDate="22.06.2007 12:15:30:645">
+          <h1:Field Type="par11"
+            Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 1\plain \f0\super\fs28 r\plain \f0\fs22 -32\plain \f0\super\fs28 v\plain \f0\fs22  Druck: \plain \f0\scaps\fs22 Aristoteles: Parva naturalia\plain \f0\fs22 . Leipzig: [Martin Landsberg, 1490/1495]: GW 2425&#x3b; Voulli\u233 \'e9me, Bonn 91. Bll 14-15 (A6-C1) entfernt (Textverlust). Am Anfang am Rand sowie zwischen den Zeilen zahlreiche Glossen der Schreiberhand von Teil II (s.o.), E. 15. Jh., darunter auch (1\plain \f0\super\fs28 r\plain \f0\fs22 ) Einf\u252 \'fchrung in die 'Parva naturalia': {\field{\*\fldinst HYPERLINK &quot;hida://5650[0].5666l/?u&quot;}{\fldrslt \plain \f0\i\fs22\chcbpat17 Cognitio rerum naturalium nobis necessaria est propter intellectus nostri imperfectionem ...}}}"/>
+          <h1:Field Type="5002" Value="31275480"/>
+          <h1:Field Type="4665" Value="1recto-32verso"/>
+          <h1:Field Type="5230" Value="Text"/>
+          <h1:Field Type="5650" Value="Initium">
+            <h1:Field Type="5666l"
+              Value="Cognitio rerum naturalium nobis necessaria est propter intellectus nostri imperfectionem"/>
+            <h1:Field Type="5694" Value="1recto"/>
+          </h1:Field>
+          <h1:Field Type="8450" Value="digitale Reproduktion">
+            <h1:Field Type="8540" Value="hs_bn_ulb_s0110_iii_1v"/>
+          </h1:Field>
+          <h1:Field Type="8450" Value="digitale Reproduktion">
+            <h1:Field Type="8540" Value="hs_bn_ulb_s0110_iii_2r"/>
+          </h1:Field>
+        </h1:Block>
+      </h1:Block>
+      <h1:Block Type="t2" CreationDate="22.06.2007 12:19:00:039"
+        ChangeDate="22.06.2007 12:19:00:039">
+        <h1:Field Type="par09"
+          Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\qc\ri0\sb0\sa0\itap0 \plain \f0\fs22 IV}"/>
+        <h1:Field Type="5001" Value="31275483"/>
+        <h1:Field Type="5230" Value="Faszikel &amp; Inkunabel"/>
+        <h1:Block Type="t3" CreationDate="22.06.2007 12:15:30:645"
+          ChangeDate="22.06.2007 12:15:30:645">
+          <h1:Field Type="par11"
+            Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}{\f1\fnil\fcharset0 Times New Roman&#x3b;}{\f2\fnil\fcharset0 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 1\plain \f0\super\fs28 r\plain \f0\fs22 -18\plain \f0\super\fs28 v\plain \f0\fs22  Druck: \plain \f0\scaps\fs22 Johannes Andreae: Lectura super arboribus consanguinitatis et affinitatis. Lectura super arbore cognationis legalis\plain \f0\fs22 . Mit Kommentar von Heinrich Greve. Leipzig: [Martin Landsberg, nicht vor 1492]: GW 1711&#x3b; Voulli\u233 \'e9me, Bonn 50. Am Rand sowie zwischen den Zeilen zahlreiche Glossen der Schreiberhand von Teil II (s.o.), E. 15. Jh.}"/>
+          <h1:Field Type="5002" Value="31275482"/>
+          <h1:Field Type="4665" Value="1recto-18verso"/>
+          <h1:Field Type="5230" Value="Text"/>
+        </h1:Block>
+      </h1:Block>
+      <h1:Block Type="t2" CreationDate="22.06.2007 12:19:00:039"
+        ChangeDate="22.06.2007 12:19:00:039">
+        <h1:Field Type="par09"
+          Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\qc\ri0\sb0\sa0\itap0 \plain \f0\fs22 V}"/>
+        <h1:Field Type="5001" Value="31275485"/>
+        <h1:Field Type="5230" Value="Faszikel &amp; Inkunabel"/>
+        <h1:Block Type="t3" CreationDate="22.06.2007 12:15:30:645"
+          ChangeDate="22.06.2007 12:15:30:645">
+          <h1:Field Type="par11"
+            Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}{\f1\fnil\fcharset0 Times New Roman&#x3b;}{\f2\fnil\fcharset0 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 1\plain \f0\super\fs28 r\plain \f0\fs22 -12\plain \f0\super\fs28 v\plain \f0\fs22  Druck: \plain \f0\scaps\fs22 [Pseudo-]Aristoteles: Oeconomica\plain \f0\fs22 , lat. von \plain \f0\scaps\fs22 Leonardus Brunus Aretinus \plain \f0\fs22 und \plain \f0\scaps\fs22 durandus de Alvernia\plain \f0\fs22 . [Leipzig: Gregor Boettiger, um 1494]: GW 2437&#x3b; Voulli\u233 \'e9me, Bonn 93. Rote und blaue Rubrizierung (nur Lombarden). Am Rand Glossen, eine Hand, E. 15. Jh.}"/>
+          <h1:Field Type="5002" Value="31275484"/>
+          <h1:Field Type="4665" Value="1recto-12verso"/>
+          <h1:Field Type="5230" Value="Text"/>
+        </h1:Block>
+      </h1:Block>
+      <h1:Block Type="t2" CreationDate="22.06.2007 12:19:00:039"
+        ChangeDate="22.06.2007 12:19:00:039">
+        <h1:Field Type="par09"
+          Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\qc\ri0\sb0\sa0\itap0 \plain \f0\fs22 VI}"/>
+        <h1:Field Type="5001" Value="31275487"/>
+        <h1:Field Type="5230" Value="Faszikel &amp; Inkunabel"/>
+        <h1:Block Type="t3" CreationDate="22.06.2007 12:15:30:645"
+          ChangeDate="22.06.2007 12:15:30:645">
+          <h1:Field Type="par11"
+            Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 1\plain \f0\super\fs28 r\plain \f0\fs22 -31\plain \f0\super\fs28 v\plain \f0\fs22  Druck: \plain \f0\scaps\fs22 Aristoteles: Ethica ad Nicomachum\plain \f0\fs22 , lat. von \plain \f0\scaps\fs22 Robertus Grosseteste. \plain \f0\fs22 Gek\u252 \'fcrzte Fassung von \plain \f0\scaps\fs22 Arnold W\plain \f0\scaps\fs22 \u246 \'f6\plain \f0\scaps\fs22 stefeld\plain \f0\fs22 . [Leipzig: Martin Landsberg, 1492/1495]: GW 2379&#x3b; Voulli\u233 \'e9me, Bonn 88. Am Rand sowie zwischen den Zeilen zahlreiche Glossen der Schreiberhand von Teil II (s.o.), E. 15. Jh.&#x3b; am Ende Nachtrag in Rot: \plain \f0\i\fs22 Dulcisone tibi sint laudes, suavissime rector / Morumque finem ceperit iste liber\plain \f0\fs22 . (31\plain \f0\super\fs28 rv\plain \f0\fs22 ) leer. Bl 32 entfernt.}"/>
+          <h1:Field Type="5002" Value="31275486"/>
+          <h1:Field Type="4665" Value="1recto-30verso"/>
+          <h1:Field Type="5230" Value="Text"/>
+          <h1:Field Type="8450" Value="digitale Reproduktion">
+            <h1:Field Type="8540" Value="hs_bn_ulb_s0110_vi_30v"/>
+          </h1:Field>
+        </h1:Block>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+</h1:DocumentSet>

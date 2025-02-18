@@ -1,0 +1,35 @@
+target/
+.mvn/
+mvnw
+mvnw.cmd
+docker
+
+src/main/app/dist/
+src/main/app/build/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+out/
+Desktop.ini
+._sync_62ca0e06c122.db-wal
+._sync_62ca0e06c122.db-shm
+._sync_62ca0e06c122.db

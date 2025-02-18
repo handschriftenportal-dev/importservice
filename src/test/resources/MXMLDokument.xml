@@ -1,0 +1,996 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- http://www.manuscripta-mediaevalia.de/?xdbdtdn!%22obj%2031275348%22&dmode=doc#|4-->
+<h1:DocumentSet xmlns:h1="http://www.startext.de/HiDA/DefService/XMLSchema">
+  <h1:ContentInfo>
+    <h1:Format>HIDA-DOC1-XML</h1:Format>
+    <h1:CreationDate>30.06.2015 10:02:06:228</h1:CreationDate>
+  </h1:ContentInfo>
+  <h1:Document DocKey="obj     31275348" FieldsCount="172">
+    <h1:Block Type="obj" CreationDate="28.03.2007 16:55:28" CreatorID="jg" ChangeDate="03.06.2015 09:58:52" ChangerID="Admin" OwnerID="jg" FieldsCount="23">
+      <h1:Field Type="5000" Value="31275348"/>
+      <h1:Field Type="par01" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;\red224\green224\blue224&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://bezsoz[0].4650/&quot;}{\fldrslt \plain \f0\fs22\chcbpat18 S 1673}}}">
+        <RichTextValue>
+          <rvxml>
+          <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+          <font name="Normal text" />
+          <font color="clBlue" bold="1" name="Heading" />
+          <font color="clNavy" bold="1" name="Subheading" />
+          <font color="clMaroon" italic="1" name="Keywords" />
+          <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+          <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+          <font size="11" standard="0" />
+          <font size="7" standard="0" vshift="45" />
+          <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+          <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+          <font size="11" standard="0" smallcaps="1" />
+          <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+          <font size="11" standard="0" italic="1" />
+          <font backcolor="$00E0E0E0" jump="1" size="11" standard="0" />
+          <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" />
+          <para />
+          <para align="center" name="Centered" />
+          </style>
+          <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+          <text textstyleno="14" tag="hida://bezsoz[0].4650/">S 1673</text>
+          </document>
+          </rvxml>
+        </RichTextValue>
+      </h1:Field>
+      <h1:Field Type="par02" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red224\green224\blue224&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://5209/&quot;}{\fldrslt \plain \f0\b\fs22\chcbpat17 De horis canonicis et de celebratione missae \u183 \'b7 Ps.-Albertus Magnus}}}">
+        <RichTextValue>
+          <rvxml>
+          <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+          <font name="Normal text" />
+          <font color="clBlue" bold="1" name="Heading" />
+          <font color="clNavy" bold="1" name="Subheading" />
+          <font color="clMaroon" italic="1" name="Keywords" />
+          <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+          <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+          <font size="11" standard="0" />
+          <font size="7" standard="0" vshift="45" />
+          <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+          <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+          <font size="11" standard="0" smallcaps="1" />
+          <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+          <font size="11" standard="0" italic="1" />
+          <font backcolor="$00E0E0E0" jump="1" size="11" standard="0" bold="1" />
+          <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" bold="1" />
+          <para />
+          <para align="center" name="Centered" />
+          </style>
+          <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+          <text textstyleno="14" tag="hida://5209/">De horis canonicis et de celebratione missae · Ps.-Albertus Magnus</text>
+          </document>
+          </rvxml>
+        </RichTextValue>
+      </h1:Field>
+      <h1:Field Type="par03" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red224\green224\blue224&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://5260[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat18 Papier}}\plain \f0\fs22 , vereinzelt {\field{\*\fldinst HYPERLINK &quot;hida://5260[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat18 Pergament}}\plain \f0\fs22  (nur Teil II, Bll 1 und 14) \u183 \'b7 70 (Druck) + 48 (inkl. 1 Schaltzettel) + 20 (Druck) + 54 + 44 (Drucke) Blatt \u183 \'b7 21 \u215 \'d7 14 \u183 \'b7 {\field{\*\fldinst HYPERLINK &quot;hida://5130[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat18 Werden}}\plain \f0\fs22  \u183 \'b7 {\field{\*\fldinst HYPERLINK &quot;hida://5060[0].5064/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat18 1465}}}">
+        <RichTextValue>
+          <rvxml>
+          <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+          <font name="Normal text" />
+          <font color="clBlue" bold="1" name="Heading" />
+          <font color="clNavy" bold="1" name="Subheading" />
+          <font color="clMaroon" italic="1" name="Keywords" />
+          <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+          <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+          <font size="11" standard="0" />
+          <font size="7" standard="0" vshift="45" />
+          <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+          <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+          <font size="11" standard="0" smallcaps="1" />
+          <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+          <font size="11" standard="0" italic="1" />
+          <font backcolor="$00DDEECC" jump="1" size="11" standard="0" />
+          <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" />
+          <para />
+          <para align="center" name="Centered" />
+          </style>
+          <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+          <text textstyleno="14" tag="hida://5260[0]/?u">Papier</text>
+          <text textstyleno="6" br="0">, vereinzelt </text>
+          <text textstyleno="14" tag="hida://5260[0]/?u">Pergament</text>
+          <text textstyleno="6" br="0"> (nur Teil II, Bll 1 und 14) · 70 (Druck) + 48 (inkl. 1 Schaltzettel) + 20 (Druck) + 54 + 44 (Drucke) Blatt · 21 × 14 · </text>
+          <text textstyleno="14" tag="hida://5130[0]/?u">Werden</text>
+          <text textstyleno="6" br="0"> · </text>
+          <text textstyleno="14" tag="hida://5060[0].5064/?u">1465</text>
+          </document>
+          </rvxml>
+        </RichTextValue>
+      </h1:Field>
+      <h1:Field Type="par04" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red224\green224\blue224&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 [VE]. - {\field{\*\fldinst HYPERLINK &quot;hida://5704[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat18 Kursive}}\plain \f0\fs22 , eine Hand (Everardus vam Cast) \u183 \'b7 Rubrizierung \u183 \'b7 Teil I, 1\plain \f0\super\fs28 r\plain \f0\fs22  Besitzvermerk: \plain \f0\i\fs22 Liber Sancti Liudgeri in Werdena\plain \f0\fs22 , um 1500 (gestrichen) \u183 \'b7 Zwischen Teil II, Bl 41/42 ein Schaltzettel}">
+        <RichTextValue>
+          <rvxml>
+          <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+          <font name="Normal text" />
+          <font color="clBlue" bold="1" name="Heading" />
+          <font color="clNavy" bold="1" name="Subheading" />
+          <font color="clMaroon" italic="1" name="Keywords" />
+          <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+          <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+          <font size="11" standard="0" />
+          <font size="7" standard="0" vshift="45" />
+          <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+          <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+          <font size="11" standard="0" smallcaps="1" />
+          <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+          <font size="11" standard="0" italic="1" />
+          <font backcolor="$00DDEECC" jump="1" size="11" standard="0" />
+          <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" />
+          <para />
+          <para align="center" name="Centered" />
+          </style>
+          <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+          <text textstyleno="6">[VE]. - </text>
+          <text textstyleno="14" tag="hida://5704[0]/?u">Kursive</text>
+          <text textstyleno="6" br="0">, eine Hand (Everardus vam Cast) · Rubrizierung · Teil I, 1</text>
+          <text textstyleno="7" br="0">r</text>
+          <text textstyleno="6" br="0"> Besitzvermerk: </text>
+          <text textstyleno="12" br="0">Liber Sancti Liudgeri in Werdena</text>
+          <text textstyleno="6" br="0">, um 1500 (gestrichen) · Zwischen Teil II, Bl 41/42 ein Schaltzettel</text>
+          </document>
+          </rvxml>
+        </RichTextValue>
+      </h1:Field>
+      <h1:Field Type="par05" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}{\f1\fnil\fcharset0 Times New Roman&#x3b;}{\f2\fnil\fcharset0 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red224\green224\blue224&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 Zusammengesetzter Codex aus sechs Teilen: Die hs Teile II und IV nach Kolophon (Teil IV, 54\plain \f0\super\fs28 v\plain \f0\fs22 ) 1465 von dem Priester und Vikar {\field{\*\fldinst HYPERLINK &quot;hida://bezper[0].4100/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat18 Everardus vam Cast}}\plain \f0\fs22  im {\field{\*\fldinst HYPERLINK &quot;hida://bezsoz[1].4600/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat18 Benediktinerkloster Werden}}\plain \f0\fs22  mit leicht wechselndem Duktus geschrieben\plain \f1\lang1033\fs20  \plain \f2\lang1033\fs22 und nach Zu\-sammen\-bindung mit den gedruckten Teilen I, III, V und VI (K\u246 \'f6ln, nicht vor 1481&#x3b; um 1485 (2\u215 \'d7)&#x3b; um 1488) in kl\u246 \'f6sterlichem Umfeld Ende des 15. Jh.s in die dortige Bibliothek gekommen (vgl. auch Besitzvermerk, Teil I, 1\plain \f2\super\lang1033\fs28 r\plain \f2\lang1033\fs22 , s.o.). Nach Aufl\u246 \'f6sung des Klosters (1802) aus unbekanntem Vorbesitz\plain \f0\fs22  \u252 \'fcber das  {\field{\*\fldinst HYPERLINK &quot;hida://bezsoz[2].4600/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat18 Bonner Antiquariat Hanstein}}\plain \f0\fs22  1921 (Acc.-Nr. 1921.8736) in die Universit\u228 \'e4tsbibliothek Bonn gekommen.}">
+        <RichTextValue>
+          <rvxml>
+          <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+          <font name="Normal text" />
+          <font color="clBlue" bold="1" name="Heading" />
+          <font color="clNavy" bold="1" name="Subheading" />
+          <font color="clMaroon" italic="1" name="Keywords" />
+          <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+          <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+          <font size="11" standard="0" />
+          <font size="7" standard="0" vshift="45" />
+          <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+          <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+          <font size="11" standard="0" smallcaps="1" />
+          <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+          <font size="11" standard="0" italic="1" />
+          <font backcolor="$00DDEECC" jump="1" size="11" standard="0" />
+          <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" />
+          <font charset="ANSI_CHARSET" fontname="Times New Roman" standard="0" />
+          <para />
+          <para align="center" name="Centered" />
+          </style>
+          <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+          <text textstyleno="6">Zusammengesetzter Codex aus sechs Teilen: Die hs Teile II und IV nach Kolophon (Teil IV, 54</text>
+          <text textstyleno="7" br="0">v</text>
+          <text textstyleno="6" br="0">) 1465 von dem Priester und Vikar </text>
+          <text textstyleno="14" tag="hida://bezper[0].4100/?u">Everardus vam Cast</text>
+          <text textstyleno="6" br="0"> im </text>
+          <text textstyleno="14" tag="hida://bezsoz[1].4600/?u">Benediktinerkloster Werden</text>
+          <text textstyleno="6" br="0"> mit leicht wechselndem Duktus geschrieben</text>
+          <text textstyleno="15" br="0"> </text>
+          <text textstyleno="6" br="0">und nach Zu­sammen­bindung mit den gedruckten Teilen I, III, V und VI (Köln, nicht vor 1481; um 1485 (2×); um 1488) in klösterlichem Umfeld Ende des 15. Jh.s in die dortige Bibliothek gekommen (vgl. auch Besitzvermerk, Teil I, 1</text>
+          <text textstyleno="7" br="0">r</text>
+          <text textstyleno="6" br="0">, s.o.). Nach Auflösung des Klosters (1802) aus unbekanntem Vorbesitz über das  </text>
+          <text textstyleno="14" tag="hida://bezsoz[2].4600/?u">Bonner Antiquariat Hanstein</text>
+          <text textstyleno="6" br="0"> 1921 (Acc.-Nr. 1921.8736) in die Universitätsbibliothek Bonn gekommen.</text>
+          </document>
+          </rvxml>
+        </RichTextValue>
+      </h1:Field>
+      <h1:Field Type="par06" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://bezlit[0].8330/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Handschriftenzensus Rheinland}}\plain \f0\fs22 , Nr. 252-253. - Becker, S. [757f.].}">
+        <RichTextValue>
+          <rvxml>
+          <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+          <font name="Normal text" />
+          <font color="clBlue" bold="1" name="Heading" />
+          <font color="clNavy" bold="1" name="Subheading" />
+          <font color="clMaroon" italic="1" name="Keywords" />
+          <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+          <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+          <font size="11" standard="0" />
+          <font size="7" standard="0" vshift="45" />
+          <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+          <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+          <font size="11" standard="0" smallcaps="1" />
+          <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+          <font size="11" standard="0" italic="1" />
+          <font backcolor="$00DDEECC" jump="1" size="11" standard="0" />
+          <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" />
+          <para />
+          <para align="center" name="Centered" />
+          </style>
+          <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+          <text textstyleno="14" tag="hida://bezlit[0].8330/?u">Handschriftenzensus Rheinland</text>
+          <text textstyleno="6" br="0">, Nr. 252-253. - Becker, S. [757f.].</text>
+          </document>
+          </rvxml>
+        </RichTextValue>
+      </h1:Field>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Bonn"/>
+        <h1:Field Type="4600" Value="Universitäts- und Landesbibliothek Bonn"/>
+        <h1:Field Type="4500" Value="31275073"/>
+        <h1:Field Type="4650" Value="S 1673"/>
+        <h1:Field Type="4656" Value="1921.8736"/>
+        <h1:Field Type="4996" Value="seit 1921"/>
+      </h1:Field>
+      <h1:Field Type="bezsoz" Value="Vorbesitz">
+        <h1:Field Type="4564" Value="Werden"/>
+        <h1:Field Type="4600" Value="Benediktinerkloster Werden"/>
+        <h1:Field Type="4500" Value="31275102"/>
+        <h1:Field Type="4996" Value="1501/1515-1802"/>
+      </h1:Field>
+      <h1:Field Type="bezsoz" Value="Vorbesitz">
+        <h1:Field Type="4564" Value="Bonn"/>
+        <h1:Field Type="4600" Value="Antiquariat Hanstein"/>
+        <h1:Field Type="4500" Value="31275166"/>
+        <h1:Field Type="4996" Value="bis 1921"/>
+      </h1:Field>
+      <h1:Field Type="bezper" Value="Herstellung">
+        <h1:Field Type="4000" Value="31275288"/>
+        <h1:Field Type="4100" Value="Everardus &lt;vam Cast&gt;"/>
+        <h1:Field Type="4475" Value="Schreiber"/>
+      </h1:Field>
+      <h1:Field Type="5209" Value="De horis canonicis et de celebratione missae · Ps.-Albertus Magnus"/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="5060" Value="datiert">
+        <h1:Field Type="5064" Value="1465"/>
+      </h1:Field>
+      <h1:Field Type="5130" Value="Werden"/>
+      <h1:Field Type="5260" Value="Papier"/>
+      <h1:Field Type="5704" Value="Kursive"/>
+      <h1:Field Type="5710" Value="lateinisch"/>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="Handschriftenzensus Rheinland"/>
+        <h1:Field Type="8334" Value="Nr. 252"/>
+      </h1:Field>
+      <h1:Field Type="bezlit" Value="Katalogtext"/>
+      <h1:Field Type="bezlit" Value="Katalogtext"/>
+      <h1:Field Type="8450" Value="digitale Reproduktion">
+        <h1:Field Type="8540" Value="hs_bn_ulb_s1673_i_1r"/>
+      </h1:Field>
+      <h1:Field Type="9904" Value="Geiss, Juergen"/>
+      <h1:Block Type="t2" CreationDate="17.12.2008 12:26:44:028" ChangeDate="17.12.2008 12:26:44:028">
+        <h1:Field Type="par07" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://5260[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Ledereinband auf Holz}}\plain \f0\fs22 , {\field{\*\fldinst HYPERLINK &quot;hida://bezsoz[0].4600/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Werkstatt &quot;Werden / Riddagshausen&quot;}}\plain \f0\fs22 , {\field{\*\fldinst HYPERLINK &quot;hida://5060[0].5064/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 E. 15. Jh.}}\plain \f0\fs22  (Schunke, Schwenke-Sammlung 2, S. 229: \u8222 \'84Riddagshausen\ldblquote &#x3b; Einzelstempel: Schwenke-Schunke, Bd. 1, 23,31&#x3b; 147,13&#x3b; 261,289a u.a.&#x3b; Zuweisung nach Entstehungs- und Besitz\-provenienz, Stempelmotiven sowie mutma\u223 \'dflicher Besitzprovenienzen der aus glei\-cher Werk\-statt stammenden Hss D\u252 \'fcsseldorf, ULB, B 142 (D\u252 \'fcsseldorf, OSC?)&#x3b; C 1 (Werden, OSB?))&#x3b; zwei Schlie\u223 \'dfen (teilweise entfernt)&#x3b; BR ersetzt}">
+          <RichTextValue>
+            <rvxml>
+            <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+            <font name="Normal text" />
+            <font color="clBlue" bold="1" name="Heading" />
+            <font color="clNavy" bold="1" name="Subheading" />
+            <font color="clMaroon" italic="1" name="Keywords" />
+            <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+            <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+            <font size="11" standard="0" />
+            <font size="7" standard="0" vshift="45" />
+            <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+            <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+            <font size="11" standard="0" smallcaps="1" />
+            <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+            <font size="11" standard="0" italic="1" />
+            <font backcolor="$00DDEECC" jump="1" size="11" standard="0" />
+            <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" />
+            <font size="11" standard="0" unicode="1" />
+            <para />
+            <para align="center" name="Centered" />
+            </style>
+            <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+            <text textstyleno="14" tag="hida://5260[0]/?u">Ledereinband auf Holz</text>
+            <text textstyleno="6" br="0">, </text>
+            <text textstyleno="14" tag="hida://bezsoz[0].4600/?u">Werkstatt "Werden / Riddagshausen"</text>
+            <text textstyleno="6" br="0">, </text>
+            <text textstyleno="14" tag="hida://5060[0].5064/?u">E. 15. Jh.</text>
+            <text textstyleno="6" br="0"> (Schunke, Schwenke-Sammlung 2, S. 229: „Riddagshausen</text>
+            <utext textstyleno="15" br="0">&#8220;</utext>
+            <text textstyleno="6" br="0">; Einzelstempel: Schwenke-Schunke, Bd. 1, 23,31; 147,13; 261,289a u.a.; Zuweisung nach Entstehungs- und Besitz</text>
+            <utext textstyleno="15" br="0">­</utext>
+            <text textstyleno="6" br="0">provenienz, Stempelmotiven sowie mutmaßlicher Besitzprovenienzen der aus glei</text>
+            <utext textstyleno="15" br="0">­</utext>
+            <text textstyleno="6" br="0">cher Werk</text>
+            <utext textstyleno="15" br="0">­</utext>
+            <text textstyleno="6" br="0">statt stammenden Hss Düsseldorf, ULB, B 142 (Düsseldorf, OSC?); C 1 (Werden, OSB?)); zwei Schließen (teilweise entfernt); BR ersetzt</text>
+            </document>
+            </rvxml>
+          </RichTextValue>
+        </h1:Field>
+        <h1:Field Type="5001" Value="31276219"/>
+        <h1:Field Type="bezsoz" Value="Herstellung">
+          <h1:Field Type="4564" Value="Niederrhein"/>
+          <h1:Field Type="4600" Value="Buchbinder Werden / Riddagshausen"/>
+          <h1:Field Type="4500" Value="31275165"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Einband"/>
+        <h1:Field Type="5240" Value="spätgotischer Einband mit Einzelstempeln"/>
+        <h1:Field Type="5060" Value="Materialbefund">
+          <h1:Field Type="5064" Value="1486/1500"/>
+        </h1:Field>
+        <h1:Field Type="5260" Value="Leder : Holz"/>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s1673_vd"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s1673_rd"/>
+        </h1:Field>
+        <h1:Block Type="t3" CreationDate="17.12.2008 12:29:00:586" ChangeDate="17.12.2008 12:29:00:586">
+          <h1:Field Type="par08" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://5260[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Pergament}}\plain \f0\fs22  \u183 \'b7 2 Blatt \u183 \'b7 {\field{\*\fldinst HYPERLINK &quot;hida://5060[0].5064/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 2. H. 12. Jh.}}}">
+            <RichTextValue>
+              <rvxml>
+              <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+              <font name="Normal text" />
+              <font color="clBlue" bold="1" name="Heading" />
+              <font color="clNavy" bold="1" name="Subheading" />
+              <font color="clMaroon" italic="1" name="Keywords" />
+              <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+              <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+              <font size="11" standard="0" />
+              <font size="7" standard="0" vshift="45" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" italic="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" />
+              <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" />
+              <para />
+              <para align="center" name="Centered" />
+              </style>
+              <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+              <text textstyleno="14" tag="hida://5260[0]/?u">Pergament</text>
+              <text textstyleno="6" br="0"> · 2 Blatt · </text>
+              <text textstyleno="14" tag="hida://5060[0].5064/?u">2. H. 12. Jh.</text>
+              </document>
+              </rvxml>
+            </RichTextValue>
+          </h1:Field>
+          <h1:Field Type="5002" Value="31276220"/>
+          <h1:Field Type="5230" Value="Handschrift"/>
+          <h1:Field Type="5210" Value="Fragment"/>
+          <h1:Field Type="5060" Value="Schriftbefund">
+            <h1:Field Type="5064" Value="1151/1200"/>
+          </h1:Field>
+          <h1:Field Type="5260" Value="Pergament"/>
+          <h1:Block Type="t4" CreationDate="17.12.2008 12:30:37:645" ChangeDate="17.12.2008 12:30:37:645">
+            <h1:Field Type="par11" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red224\green224\blue224&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 Spiegel VD/RD Fragment: {\field{\*\fldinst HYPERLINK &quot;hida://bezwrk[0].6930/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat18 [}}{\field{\*\fldinst HYPERLINK &quot;hida://bezwrk[0].6930/?u&quot;}{\fldrslt \plain \f0\scaps\fs22\chcbpat18 Missale]}}\plain \f0\fs22 . {\field{\*\fldinst HYPERLINK &quot;hida://5705[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat18 Unlinierte deutsche Neumen}}\plain \f0\fs22 .}">
+              <RichTextValue>
+                <rvxml>
+                <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+                <font name="Normal text" />
+                <font color="clBlue" bold="1" name="Heading" />
+                <font color="clNavy" bold="1" name="Subheading" />
+                <font color="clMaroon" italic="1" name="Keywords" />
+                <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+                <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+                <font size="11" standard="0" />
+                <font size="7" standard="0" vshift="45" />
+                <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+                <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+                <font size="11" standard="0" smallcaps="1" />
+                <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+                <font size="11" standard="0" italic="1" />
+                <font backcolor="$00DDEECC" jump="1" size="11" standard="0" />
+                <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" />
+                <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+                <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+                <para />
+                <para align="center" name="Centered" />
+                </style>
+                <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+                <text textstyleno="6">Spiegel VD/RD Fragment: </text>
+                <text textstyleno="14" tag="hida://bezwrk[0].6930/?u">[Missale]</text>
+                <text textstyleno="6" br="0">. </text>
+                <text textstyleno="14" tag="hida://5705[0]/?u">Unlinierte deutsche Neumen</text>
+                <text textstyleno="6" br="0">.</text>
+                </document>
+                </rvxml>
+              </RichTextValue>
+            </h1:Field>
+            <h1:Field Type="5003" Value="31276221"/>
+            <h1:Field Type="4665" Value="Spiegel VD/RD"/>
+            <h1:Field Type="5230" Value="Text"/>
+            <h1:Field Type="5210" Value="Fragment"/>
+            <h1:Field Type="5705" Value="Neumen, deutsche, unliniert"/>
+            <h1:Field Type="5710" Value="lateinisch"/>
+            <h1:Field Type="bezwrk" Value="Abschrift">
+              <h1:Field Type="6930gi" Value="Missale"/>
+            </h1:Field>
+            <h1:Field Type="8450" Value="digitale Reproduktion">
+              <h1:Field Type="8540" Value="hs_bn_ulb_s1673_spiegelvd"/>
+            </h1:Field>
+            <h1:Field Type="8450" Value="digitale Reproduktion">
+              <h1:Field Type="8540" Value="hs_bn_ulb_s1673_spiegelrd"/>
+            </h1:Field>
+          </h1:Block>
+        </h1:Block>
+        <h1:Block Type="t3" CreationDate="17.12.2008 12:29:00:586" ChangeDate="17.12.2008 12:29:00:586">
+          <h1:Field Type="par08" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://5260[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Pergament}}\plain \f0\fs22  \u183 \'b7 1 Blatt (stark beschnitten) \u183 \'b7 {\field{\*\fldinst HYPERLINK &quot;hida://5060[0].5064/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 2. H. 13. Jh.}}}">
+            <RichTextValue>
+              <rvxml>
+              <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+              <font name="Normal text" />
+              <font color="clBlue" bold="1" name="Heading" />
+              <font color="clNavy" bold="1" name="Subheading" />
+              <font color="clMaroon" italic="1" name="Keywords" />
+              <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+              <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+              <font size="11" standard="0" />
+              <font size="7" standard="0" vshift="45" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" italic="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" />
+              <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" />
+              <para />
+              <para align="center" name="Centered" />
+              </style>
+              <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+              <text textstyleno="14" tag="hida://5260[0]/?u">Pergament</text>
+              <text textstyleno="6" br="0"> · 1 Blatt (stark beschnitten) · </text>
+              <text textstyleno="14" tag="hida://5060[0].5064/?u">2. H. 13. Jh.</text>
+              </document>
+              </rvxml>
+            </RichTextValue>
+          </h1:Field>
+          <h1:Field Type="5002" Value="31276239"/>
+          <h1:Field Type="5230" Value="Handschrift"/>
+          <h1:Field Type="5210" Value="Fragment"/>
+          <h1:Field Type="5060" Value="Schriftbefund">
+            <h1:Field Type="5064" Value="1251/1300"/>
+          </h1:Field>
+          <h1:Field Type="5260" Value="Pergament"/>
+          <h1:Block Type="t4" CreationDate="17.12.2008 12:30:37:645" ChangeDate="17.12.2008 12:30:37:645">
+            <h1:Field Type="par11" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}{\f1\fnil\fcharset0 Times New Roman&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red224\green224\blue224&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 Spiegel RD Fragment: \plain \f0\scaps\fs22 [{\field{\*\fldinst HYPERLINK &quot;hida://bezwrk[0].6930/?u&quot;}{\fldrslt \plain \f0\scaps\fs22\chcbpat18 De philosophia naturali secundum Aristotelem}}\plain \f0\scaps\fs22 ]\plain \f0\fs22 . Mit Glossierung von zwei H\u228 \'e4nden, E. 14. und Anf. 15. Jh.}">
+              <RichTextValue>
+                <rvxml>
+                <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+                <font name="Normal text" />
+                <font color="clBlue" bold="1" name="Heading" />
+                <font color="clNavy" bold="1" name="Subheading" />
+                <font color="clMaroon" italic="1" name="Keywords" />
+                <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+                <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+                <font size="11" standard="0" />
+                <font size="7" standard="0" vshift="45" />
+                <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+                <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+                <font size="11" standard="0" smallcaps="1" />
+                <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+                <font size="11" standard="0" italic="1" />
+                <font size="11" standard="0" smallcaps="1" />
+                <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+                <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+                <font size="11" standard="0" smallcaps="1" />
+                <para />
+                <para align="center" name="Centered" />
+                </style>
+                <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+                <text textstyleno="6">Spiegel RD Fragment: </text>
+                <text textstyleno="13" br="0">[</text>
+                <text textstyleno="15" tag="hida://bezwrk[0].6930/?u">De philosophia naturali secundum Aristotelem</text>
+                <text textstyleno="16" br="0">]</text>
+                <text textstyleno="6" br="0">. Mit Glossierung von zwei Händen, E. 14. und Anf. 15. Jh.</text>
+                </document>
+                </rvxml>
+              </RichTextValue>
+            </h1:Field>
+            <h1:Field Type="5003" Value="31276238"/>
+            <h1:Field Type="bezper" Value="Rezeption">
+              <h1:Field Type="4100" Value="Aristoteles"/>
+              <h1:Field Type="z001" Value="100015468"/>
+            </h1:Field>
+            <h1:Field Type="4665" Value="Spiegel RD"/>
+            <h1:Field Type="5230" Value="Text"/>
+            <h1:Field Type="5210" Value="Fragment"/>
+            <h1:Field Type="5710" Value="lateinisch"/>
+            <h1:Field Type="bezwrk" Value="Abschrift">
+              <h1:Field Type="6930gi" Value="De philosophia naturali secundum Aristotelem"/>
+            </h1:Field>
+            <h1:Field Type="8450" Value="digitale Reproduktion">
+              <h1:Field Type="8540" Value="hs_bn_ulb_s1673_falzrd"/>
+            </h1:Field>
+          </h1:Block>
+        </h1:Block>
+      </h1:Block>
+      <h1:Block Type="t2" CreationDate="17.12.2008 12:32:10:455" ChangeDate="17.12.2008 12:32:10:455">
+        <h1:Field Type="par09" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\qc\ri0\sb0\sa0\itap0 \plain \f0\fs22 I}">
+          <RichTextValue>
+            <rvxml>
+            <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+            <font name="Normal text" />
+            <font color="clBlue" bold="1" name="Heading" />
+            <font color="clNavy" bold="1" name="Subheading" />
+            <font color="clMaroon" italic="1" name="Keywords" />
+            <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+            <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+            <font size="11" standard="0" />
+            <font size="7" standard="0" vshift="45" />
+            <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+            <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+            <font size="11" standard="0" smallcaps="1" />
+            <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+            <font size="11" standard="0" italic="1" />
+            <para />
+            <para align="center" name="Centered" />
+            </style>
+            <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+            <text textstyleno="6" parastyleno="1">I</text>
+            </document>
+            </rvxml>
+          </RichTextValue>
+        </h1:Field>
+        <h1:Field Type="5001" Value="31276222"/>
+        <h1:Field Type="5230" Value="Faszikel &amp; Inkunabel"/>
+        <h1:Block Type="t3" CreationDate="17.12.2008 12:32:41:079" ChangeDate="17.12.2008 12:32:41:079">
+          <h1:Field Type="par11" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 1\plain \f0\super\fs28 r\plain \f0\fs22 -70\plain \f0\super\fs28 v\plain \f0\fs22  Druck: \plain \f0\scaps\fs22 Werner Rolevinck: De regimine rusticorum\plain \f0\fs22 . [K\u246 \'f6ln: Bartolomaeus de Unkel, nicht vor 1481]: H 13727 = C 5044&#x3b; fehlt Voulli\u233 \'e9me, Bonn [Inc. 1027,f]. Rubrizierung. Am Rand vereinzelt Glossierung, zwei H\u228 \'e4nde, E. 15. Jh.&#x3b; 1. H. 16. Jh.}">
+            <RichTextValue>
+              <rvxml>
+              <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+              <font name="Normal text" />
+              <font color="clBlue" bold="1" name="Heading" />
+              <font color="clNavy" bold="1" name="Subheading" />
+              <font color="clMaroon" italic="1" name="Keywords" />
+              <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+              <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+              <font size="11" standard="0" />
+              <font size="7" standard="0" vshift="45" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" italic="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <para />
+              <para align="center" name="Centered" />
+              </style>
+              <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+              <text textstyleno="6">1</text>
+              <text textstyleno="7" br="0">r</text>
+              <text textstyleno="6" br="0">-70</text>
+              <text textstyleno="7" br="0">v</text>
+              <text textstyleno="6" br="0"> Druck: </text>
+              <text textstyleno="13" br="0">Werner Rolevinck: De regimine rusticorum</text>
+              <text textstyleno="6" br="0">. [Köln: Bartolomaeus de Unkel, nicht vor 1481]: H 13727 = C 5044; fehlt Voulliéme, Bonn [Inc. 1027,f]. Rubrizierung. Am Rand vereinzelt Glossierung, zwei Hände, E. 15. Jh.; 1. H. 16. Jh.</text>
+              </document>
+              </rvxml>
+            </RichTextValue>
+          </h1:Field>
+          <h1:Field Type="5002" Value="31276223"/>
+          <h1:Field Type="5230" Value="Text"/>
+        </h1:Block>
+      </h1:Block>
+      <h1:Block Type="t2" CreationDate="17.12.2008 12:32:10:455" ChangeDate="17.12.2008 12:32:10:455">
+        <h1:Field Type="par09" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\qc\ri0\sb0\sa0\itap0 \plain \f0\fs22 II}">
+          <RichTextValue>
+            <rvxml>
+            <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+            <font name="Normal text" />
+            <font color="clBlue" bold="1" name="Heading" />
+            <font color="clNavy" bold="1" name="Subheading" />
+            <font color="clMaroon" italic="1" name="Keywords" />
+            <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+            <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+            <font size="11" standard="0" />
+            <font size="7" standard="0" vshift="45" />
+            <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+            <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+            <font size="11" standard="0" smallcaps="1" />
+            <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+            <font size="11" standard="0" italic="1" />
+            <para />
+            <para align="center" name="Centered" />
+            </style>
+            <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+            <text textstyleno="6" parastyleno="1">II</text>
+            </document>
+            </rvxml>
+          </RichTextValue>
+        </h1:Field>
+        <h1:Field Type="5001" Value="31276225"/>
+        <h1:Field Type="5230" Value="Faszikel &amp; Handschrift"/>
+        <h1:Block Type="t3" CreationDate="22.12.2008 14:29:36:009" ChangeDate="22.12.2008 14:29:36:009">
+          <h1:Field Type="par11" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 1\plain \f0\super\fs28 r\plain \f0\fs22 -46\plain \f0\super\fs28 v\plain \f0\fs22  {\field{\*\fldinst HYPERLINK &quot;hida://bezwrk[0].6930/?u&quot;}{\fldrslt \plain \f0\scaps\fs22\chcbpat17 De horis canonicis et de celebratione missae}}\plain \f0\fs22 . \plain \f0\i\fs22 &gt;Hora&lt;. {\field{\*\fldinst HYPERLINK &quot;hida://5650[0].5666l/?u&quot;}{\fldrslt \plain \f0\i\fs22\chcbpat17 De horis canonicis sunt duo principaliter videnda, videlicet qui ad horas obligentur et qualiter eas persolvere teneantur}}\plain \f0\i\fs22  ... - ... si sacerdos solus celebraret. Hec fere omnia, que de negligenciis \plain \f0\fs22 (!) \plain \f0\i\fs22 circa sacramentum eukaristie contingentibus &gt;hic posita sunt accepi de Summa Johannis Erphordensis \plain \f0\fs22 [Johannes de Erfordia, gest. 1320]\plain \f0\i\fs22  li. i parte v ti.  ii&lt;.\plain \f0\fs22  47\plain \f0\super\fs28 rv\plain \f0\fs22  leer.}">
+            <RichTextValue>
+              <rvxml>
+              <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+              <font name="Normal text" />
+              <font color="clBlue" bold="1" name="Heading" />
+              <font color="clNavy" bold="1" name="Subheading" />
+              <font color="clMaroon" italic="1" name="Keywords" />
+              <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+              <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+              <font size="11" standard="0" />
+              <font size="7" standard="0" vshift="45" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" italic="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" italic="1" />
+              <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" italic="1" />
+              <para />
+              <para align="center" name="Centered" />
+              </style>
+              <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+              <text textstyleno="6">1</text>
+              <text textstyleno="7" br="0">r</text>
+              <text textstyleno="6" br="0">-46</text>
+              <text textstyleno="7" br="0">v</text>
+              <text textstyleno="6" br="0"> </text>
+              <text textstyleno="14" tag="hida://bezwrk[0].6930/?u">De horis canonicis et de celebratione missae</text>
+              <text textstyleno="6" br="0">. </text>
+              <text textstyleno="12" br="0">&gt;Hora&lt;. </text>
+              <text textstyleno="14" tag="hida://5650[0].5666l/?u">De horis canonicis sunt duo principaliter videnda, videlicet qui ad horas obligentur et qualiter eas persolvere teneantur</text>
+              <text textstyleno="12" br="0"> ... - ... si sacerdos solus celebraret. Hec fere omnia, que de negligenciis </text>
+              <text textstyleno="6" br="0">(!) </text>
+              <text textstyleno="12" br="0">circa sacramentum eukaristie contingentibus &gt;hic posita sunt accepi de Summa Johannis Erphordensis </text>
+              <text textstyleno="6" br="0">[Johannes de Erfordia, gest. 1320]</text>
+              <text textstyleno="12" br="0"> li. i parte v ti.  ii&lt;.</text>
+              <text textstyleno="6" br="0"> 47</text>
+              <text textstyleno="7" br="0">rv</text>
+              <text textstyleno="6" br="0"> leer.</text>
+              </document>
+              </rvxml>
+            </RichTextValue>
+          </h1:Field>
+          <h1:Field Type="5002" Value="31276240"/>
+          <h1:Field Type="4665" Value="1recto-46verso"/>
+          <h1:Field Type="5230" Value="Text"/>
+          <h1:Field Type="5710" Value="lateinisch"/>
+          <h1:Field Type="bezwrk" Value="Abschrift">
+            <h1:Field Type="6930gi" Value="De horis canonicis et de celebratione missae"/>
+          </h1:Field>
+          <h1:Field Type="5650" Value="Initium">
+            <h1:Field Type="5666l" Value="De horis canonicis sunt duo principaliter videnda, videlicet qui ad horas obligentur et qualiter eas persolvere teneantur"/>
+            <h1:Field Type="5694" Value="Teil II, 1recto"/>
+          </h1:Field>
+          <h1:Field Type="8450" Value="digitale Reproduktion">
+            <h1:Field Type="8540" Value="hs_bn_ulb_s1673_ii_1r"/>
+          </h1:Field>
+          <h1:Field Type="8450" Value="digitale Reproduktion">
+            <h1:Field Type="8540" Value="hs_bn_ulb_s1673_ii_46v"/>
+          </h1:Field>
+        </h1:Block>
+      </h1:Block>
+      <h1:Block Type="t2" CreationDate="17.12.2008 12:32:10:455" ChangeDate="17.12.2008 12:32:10:455">
+        <h1:Field Type="par09" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\qc\ri0\sb0\sa0\itap0 \plain \f0\fs22 III}">
+          <RichTextValue>
+            <rvxml>
+            <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+            <font name="Normal text" />
+            <font color="clBlue" bold="1" name="Heading" />
+            <font color="clNavy" bold="1" name="Subheading" />
+            <font color="clMaroon" italic="1" name="Keywords" />
+            <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+            <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+            <font size="11" standard="0" />
+            <font size="7" standard="0" vshift="45" />
+            <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+            <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+            <font size="11" standard="0" smallcaps="1" />
+            <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+            <font size="11" standard="0" italic="1" />
+            <para />
+            <para align="center" name="Centered" />
+            </style>
+            <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+            <text textstyleno="6" parastyleno="1">III</text>
+            </document>
+            </rvxml>
+          </RichTextValue>
+        </h1:Field>
+        <h1:Field Type="5001" Value="31276229"/>
+        <h1:Field Type="5230" Value="Faszikel &amp; Inkunabel"/>
+        <h1:Block Type="t3" CreationDate="17.12.2008 12:32:41:079" ChangeDate="17.12.2008 12:32:41:079">
+          <h1:Field Type="par11" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 1\plain \f0\super\fs28 r\plain \f0\fs22 -20\plain \f0\super\fs28 v\plain \f0\fs22  Druck: \plain \f0\scaps\fs22 Pseudo-Thomas de Aquino: De sacrosancto sacramento altaris ad modum decem praedicamentorum sive De quiddidate et efficacia sacramenti eucharistiae. Nicolaus de Lyra: De sacramento eucharistiae. Expositio super orationem dominicam\plain \f0\fs22 . K\u246 \'f6ln: [Ulrich Zell, um 1485]: C 544&#x3b; fehlt Voulli\u233 \'e9me, Bonn [Inc. 1133,f].}">
+            <RichTextValue>
+              <rvxml>
+              <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+              <font name="Normal text" />
+              <font color="clBlue" bold="1" name="Heading" />
+              <font color="clNavy" bold="1" name="Subheading" />
+              <font color="clMaroon" italic="1" name="Keywords" />
+              <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+              <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+              <font size="11" standard="0" />
+              <font size="7" standard="0" vshift="45" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" italic="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <para />
+              <para align="center" name="Centered" />
+              </style>
+              <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+              <text textstyleno="6">1</text>
+              <text textstyleno="7" br="0">r</text>
+              <text textstyleno="6" br="0">-20</text>
+              <text textstyleno="7" br="0">v</text>
+              <text textstyleno="6" br="0"> Druck: </text>
+              <text textstyleno="13" br="0">Pseudo-Thomas de Aquino: De sacrosancto sacramento altaris ad modum decem praedicamentorum sive De quiddidate et efficacia sacramenti eucharistiae. Nicolaus de Lyra: De sacramento eucharistiae. Expositio super orationem dominicam</text>
+              <text textstyleno="6" br="0">. Köln: [Ulrich Zell, um 1485]: C 544; fehlt Voulliéme, Bonn [Inc. 1133,f].</text>
+              </document>
+              </rvxml>
+            </RichTextValue>
+          </h1:Field>
+          <h1:Field Type="5002" Value="31276228"/>
+          <h1:Field Type="5230" Value="Text"/>
+          <h1:Field Type="8450" Value="digitale Reproduktion">
+            <h1:Field Type="8540" Value="hs_bn_ulb_s1673_iv_1r"/>
+          </h1:Field>
+          <h1:Field Type="8450" Value="digitale Reproduktion">
+            <h1:Field Type="8540" Value="hs_bn_ulb_s1673_iv_54v"/>
+          </h1:Field>
+        </h1:Block>
+      </h1:Block>
+      <h1:Block Type="t2" CreationDate="17.12.2008 12:32:10:455" ChangeDate="17.12.2008 12:32:10:455">
+        <h1:Field Type="par09" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\qc\ri0\sb0\sa0\itap0 \plain \f0\fs22 IV}">
+          <RichTextValue>
+            <rvxml>
+            <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+            <font name="Normal text" />
+            <font color="clBlue" bold="1" name="Heading" />
+            <font color="clNavy" bold="1" name="Subheading" />
+            <font color="clMaroon" italic="1" name="Keywords" />
+            <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+            <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+            <font size="11" standard="0" />
+            <font size="7" standard="0" vshift="45" />
+            <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+            <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+            <font size="11" standard="0" smallcaps="1" />
+            <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+            <font size="11" standard="0" italic="1" />
+            <para />
+            <para align="center" name="Centered" />
+            </style>
+            <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+            <text textstyleno="6" parastyleno="1">IV</text>
+            </document>
+            </rvxml>
+          </RichTextValue>
+        </h1:Field>
+        <h1:Field Type="5001" Value="31276233"/>
+        <h1:Field Type="5230" Value="Faszikel &amp; Handschrift"/>
+        <h1:Block Type="t3" CreationDate="17.12.2008 12:32:41:079" ChangeDate="17.12.2008 12:32:41:079">
+          <h1:Field Type="par11" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}{\f1\fnil\fcharset0 Times New Roman&#x3b;}{\f2\fnil\fcharset0 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red224\green224\blue224&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 1\plain \f0\super\fs28 r\plain \f0\fs22 -54\plain \f0\super\fs28 v\plain \f0\fs22  \plain \f0\scaps\fs22 [{\field{\*\fldinst HYPERLINK &quot;hida://bezper[0].4100/?u&quot;}{\fldrslt \plain \f0\scaps\fs22\chcbpat18 Pseudo-?]Albertus Magnus}}\plain \f0\scaps\fs22  [{\field{\*\fldinst HYPERLINK &quot;hida://bezper[1].4100/?u&quot;}{\fldrslt \plain \f0\scaps\fs22\chcbpat18 Thomas de Aquino}}\plain \f0\scaps\fs22 , {\field{\*\fldinst HYPERLINK &quot;hida://bezper[2].4100/?u&quot;}{\fldrslt \plain \f0\scaps\fs22\chcbpat18 Bonaventura}}\plain \f0\scaps\fs22  sive {\field{\*\fldinst HYPERLINK &quot;hida://bezper[3].4100/?u&quot;}{\fldrslt \plain \f0\scaps\fs22\chcbpat18 Aegidius Romanus}}\plain \f0\scaps\fs22  (?)]: {\field{\*\fldinst HYPERLINK &quot;hida://bezwrk[0].6930/?u&quot;}{\fldrslt \plain \f0\scaps\fs22\chcbpat18 Sermones de sacrosancto eucharistiae sacramento}}\plain \f0\scaps\fs22 .\plain \f0\fs22  Sermones 1-16, 19, 18, 20-32&#x3b; 17 fehlen. (1\plain \f0\super\fs28 r\plain \f0\fs22 -2\plain \f0\super\fs28 r\plain \f0\fs22 ) Tabula. (2\plain \f0\super\fs28 v\plain \f0\fs22 -3\plain \f0\super\fs28 v\plain \f0\fs22 ) Register. (54\plain \f0\super\fs28 v\plain \f0\fs22 ) Kolophon: \plain \f0\i\fs22 &gt;Expliciunt Sermones Alberti Magni de sacramento corporis et sanguinis domini scriptas per manus Everhardi vam Cast presbyteri vicarii Werdensis Coloniensis diocesis anno domini Mcccclxv octava die Innocentii&lt;\plain \f0\fs22  [4. Jan. 1456]. Ed.: Albert Borgnet (Hg.): Beati Alberti Magni Opera omnia. Paris 1891, Bd. 13, S. 667-797. Zum Verfasser (Albertus Magnus, Thomas de Aquino, Bonaventura oder Aegidius Romanus) vgl. {\field{\*\fldinst HYPERLINK &quot;hida://bezlit[0].8330/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat18 A UB Kat. 1.1}}\plain \f0\fs22 , S. 260 (Lit.). Am Rand vereinzelt Glossierung, eine Hand, 1. V. 16. Jh.}">
+            <RichTextValue>
+              <rvxml>
+              <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+              <font name="Normal text" />
+              <font color="clBlue" bold="1" name="Heading" />
+              <font color="clNavy" bold="1" name="Subheading" />
+              <font color="clMaroon" italic="1" name="Keywords" />
+              <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+              <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+              <font size="11" standard="0" />
+              <font size="7" standard="0" vshift="45" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" italic="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" />
+              <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" />
+              <para />
+              <para align="center" name="Centered" />
+              </style>
+              <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+              <text textstyleno="6">1</text>
+              <text textstyleno="7" br="0">r</text>
+              <text textstyleno="6" br="0">-54</text>
+              <text textstyleno="7" br="0">v</text>
+              <text textstyleno="6" br="0"> </text>
+              <text textstyleno="13" br="0">[</text>
+              <text textstyleno="15" tag="hida://bezper[0].4100/?u">Pseudo-?]Albertus Magnus</text>
+              <text textstyleno="16" br="0"> [</text>
+              <text textstyleno="15" tag="hida://bezper[1].4100/?u">Thomas de Aquino</text>
+              <text textstyleno="18" br="0">, </text>
+              <text textstyleno="15" tag="hida://bezper[2].4100/?u">Bonaventura</text>
+              <text textstyleno="20" br="0"> sive </text>
+              <text textstyleno="15" tag="hida://bezper[3].4100/?u">Aegidius Romanus</text>
+              <text textstyleno="22" br="0"> (?)]: </text>
+              <text textstyleno="15" tag="hida://bezwrk[0].6930/?u">Sermones de sacrosancto eucharistiae sacramento</text>
+              <text textstyleno="24" br="0">.</text>
+              <text textstyleno="6" br="0"> Sermones 1-16, 19, 18, 20-32; 17 fehlen. (1</text>
+              <text textstyleno="7" br="0">r</text>
+              <text textstyleno="6" br="0">-2</text>
+              <text textstyleno="7" br="0">r</text>
+              <text textstyleno="6" br="0">) Tabula. (2</text>
+              <text textstyleno="7" br="0">v</text>
+              <text textstyleno="6" br="0">-3</text>
+              <text textstyleno="7" br="0">v</text>
+              <text textstyleno="6" br="0">) Register. (54</text>
+              <text textstyleno="7" br="0">v</text>
+              <text textstyleno="6" br="0">) Kolophon: </text>
+              <text textstyleno="12" br="0">&gt;Expliciunt Sermones Alberti Magni de sacramento corporis et sanguinis domini scriptas per manus Everhardi vam Cast presbyteri vicarii Werdensis Coloniensis diocesis anno domini Mcccclxv octava die Innocentii&lt;</text>
+              <text textstyleno="6" br="0"> [4. Jan. 1456]. Ed.: Albert Borgnet (Hg.): Beati Alberti Magni Opera omnia. Paris 1891, Bd. 13, S. 667-797. Zum Verfasser (Albertus Magnus, Thomas de Aquino, Bonaventura oder Aegidius Romanus) vgl. </text>
+              <text textstyleno="15" tag="hida://bezlit[0].8330/?u">A UB Kat. 1.1</text>
+              <text textstyleno="6" br="0">, S. 260 (Lit.). Am Rand vereinzelt Glossierung, eine Hand, 1. V. 16. Jh.</text>
+              </document>
+              </rvxml>
+            </RichTextValue>
+          </h1:Field>
+          <h1:Field Type="5002" Value="31276230"/>
+          <h1:Field Type="bezper" Value="Autorschaft">
+            <h1:Field Type="4100" Value="Albertus &lt;Magnus&gt;"/>
+            <h1:Field Type="z001" Value="100935826"/>
+            <h1:Field Type="4470" Value="Pseudo?"/>
+          </h1:Field>
+          <h1:Field Type="bezper" Value="Autorschaft">
+            <h1:Field Type="4100" Value="Thomas &lt;de Aquino&gt;"/>
+            <h1:Field Type="z001" Value="100962912"/>
+            <h1:Field Type="4470" Value="fraglich"/>
+          </h1:Field>
+          <h1:Field Type="bezper" Value="Autorschaft">
+            <h1:Field Type="4100" Value="Bonaventura &lt;Sanctus&gt;"/>
+            <h1:Field Type="z001" Value="100938159"/>
+            <h1:Field Type="4470" Value="fraglich"/>
+          </h1:Field>
+          <h1:Field Type="bezper" Value="Autorschaft">
+            <h1:Field Type="4100" Value="Aegidius &lt;Romanus&gt;"/>
+            <h1:Field Type="z001" Value="100937136"/>
+            <h1:Field Type="4470" Value="fraglich"/>
+          </h1:Field>
+          <h1:Field Type="5230" Value="Text"/>
+          <h1:Field Type="5710" Value="lateinisch"/>
+          <h1:Field Type="bezwrk" Value="Abschrift">
+            <h1:Field Type="6930gi" Value="Sermones de sacrosancto eucharistiae sacramento"/>
+          </h1:Field>
+          <h1:Field Type="bezlit" Value="Katalogtext">
+            <h1:Field Type="8330" Value="A UB Kat. 1.1"/>
+            <h1:Field Type="8334" Value="S. 260"/>
+          </h1:Field>
+        </h1:Block>
+      </h1:Block>
+      <h1:Block Type="t2" CreationDate="17.12.2008 12:32:10:455" ChangeDate="17.12.2008 12:32:10:455">
+        <h1:Field Type="par09" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\qc\ri0\sb0\sa0\itap0 \plain \f0\fs22 V}">
+          <RichTextValue>
+            <rvxml>
+            <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+            <font name="Normal text" />
+            <font color="clBlue" bold="1" name="Heading" />
+            <font color="clNavy" bold="1" name="Subheading" />
+            <font color="clMaroon" italic="1" name="Keywords" />
+            <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+            <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+            <font size="11" standard="0" />
+            <font size="7" standard="0" vshift="45" />
+            <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+            <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+            <font size="11" standard="0" smallcaps="1" />
+            <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+            <font size="11" standard="0" italic="1" />
+            <para />
+            <para align="center" name="Centered" />
+            </style>
+            <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+            <text textstyleno="6" parastyleno="1">V</text>
+            </document>
+            </rvxml>
+          </RichTextValue>
+        </h1:Field>
+        <h1:Field Type="5001" Value="31276235"/>
+        <h1:Field Type="5230" Value="Faszikel &amp; Inkunabel"/>
+        <h1:Block Type="t3" CreationDate="17.12.2008 12:32:41:079" ChangeDate="17.12.2008 12:32:41:079">
+          <h1:Field Type="par11" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 1\plain \f0\super\fs28 r\plain \f0\fs22 -24\plain \f0\super\fs28 v\plain \f0\fs22  Druck: \plain \f0\scaps\fs22 Alphonus Bonihominis: \plain \f0\scaps\fs22 Epistula Rabbi Samuelis ad Rabbi Isaac de adventu Messiae sive contra Judaeorum errores\plain \f0\fs22 , Fassung B, Auszug (cap. 1-25). K\u246 \'f6ln: [Ulrich Zell, um 1485]: HC 14266&#x3b; fehlt Voulli\u233 \'e9me, Bonn [Inc. 1034,f?].}">
+            <RichTextValue>
+              <rvxml>
+              <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+              <font name="Normal text" />
+              <font color="clBlue" bold="1" name="Heading" />
+              <font color="clNavy" bold="1" name="Subheading" />
+              <font color="clMaroon" italic="1" name="Keywords" />
+              <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+              <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+              <font size="11" standard="0" />
+              <font size="7" standard="0" vshift="45" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" italic="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <para />
+              <para align="center" name="Centered" />
+              </style>
+              <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+              <text textstyleno="6">1</text>
+              <text textstyleno="7" br="0">r</text>
+              <text textstyleno="6" br="0">-24</text>
+              <text textstyleno="7" br="0">v</text>
+              <text textstyleno="6" br="0"> Druck: </text>
+              <text textstyleno="13" br="0">Alphonus Bonihominis: </text>
+              <text textstyleno="14" br="0">Epistula Rabbi Samuelis ad Rabbi Isaac de adventu Messiae sive contra Judaeorum errores</text>
+              <text textstyleno="6" br="0">, Fassung B, Auszug (cap. 1-25). Köln: [Ulrich Zell, um 1485]: HC 14266; fehlt Voulliéme, Bonn [Inc. 1034,f?].</text>
+              </document>
+              </rvxml>
+            </RichTextValue>
+          </h1:Field>
+          <h1:Field Type="5002" Value="31276234"/>
+          <h1:Field Type="5230" Value="Text"/>
+        </h1:Block>
+        <h1:Block Type="t3" CreationDate="17.12.2008 12:32:10:455" ChangeDate="17.12.2008 12:32:10:455">
+          <h1:Field Type="par09" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\qc\ri0\sb0\sa0\itap0 \plain \f0\fs22 VI}">
+            <RichTextValue>
+              <rvxml>
+              <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+              <font name="Normal text" />
+              <font color="clBlue" bold="1" name="Heading" />
+              <font color="clNavy" bold="1" name="Subheading" />
+              <font color="clMaroon" italic="1" name="Keywords" />
+              <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+              <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+              <font size="11" standard="0" />
+              <font size="7" standard="0" vshift="45" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" smallcaps="1" />
+              <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+              <font size="11" standard="0" italic="1" />
+              <para />
+              <para align="center" name="Centered" />
+              </style>
+              <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+              <text textstyleno="6" parastyleno="1">VI</text>
+              </document>
+              </rvxml>
+            </RichTextValue>
+          </h1:Field>
+          <h1:Field Type="5002" Value="31276237"/>
+          <h1:Field Type="5230" Value="Faszikel &amp; Inkunabel"/>
+          <h1:Block Type="t4" CreationDate="17.12.2008 12:32:41:079" ChangeDate="17.12.2008 12:32:41:079">
+            <h1:Field Type="par11" Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 1\plain \f0\super\fs28 r\plain \f0\fs22 -20\plain \f0\super\fs28 v\plain \f0\fs22  Druck: \plain \f0\scaps\fs22 Articuli in Anglia et Parisius condemnati\plain \f0\fs22 . [K\u246 \'f6ln: Heinrich Quentell, um 1488]: H 1075 = 1076&#x3b; fehlt Voulli\u233 \'e9me, Bonn [Inc. 105,m]. Rubrizierung.}">
+              <RichTextValue>
+                <rvxml>
+                <style inactiveselcolor="clHighlight" inactiveseltextcolor="clHighlightText">
+                <font name="Normal text" />
+                <font color="clBlue" bold="1" name="Heading" />
+                <font color="clNavy" bold="1" name="Subheading" />
+                <font color="clMaroon" italic="1" name="Keywords" />
+                <font color="clGreen" jump="1" underline="1" name="Jump 1" />
+                <font color="clGreen" jump="1" underline="1" name="Jump 2" />
+                <font size="11" standard="0" />
+                <font size="7" standard="0" vshift="45" />
+                <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+                <font backcolor="$00E0E0E0" jump="1" hoverbackcolor="$00E0E0E0" size="11" standard="0" smallcaps="1" />
+                <font size="11" standard="0" smallcaps="1" />
+                <font backcolor="$00DDEECC" jump="1" size="11" standard="0" smallcaps="1" />
+                <font size="11" standard="0" italic="1" />
+                <font size="11" standard="0" smallcaps="1" />
+                <para />
+                <para align="center" name="Centered" />
+                </style>
+                <document stringtags="1" backstyle="color" backcolor="clNone" hscrollbarvisible="1" vscrollbarvisible="1" vsmallstep="10" maxtextwidth="0" mintextwidth="0" leftmargin="5" rightmargin="5" topmargin="5" bottommargin="5" scrolltoend="1" singleclick="0" clienttextwidth="0" showcheckpoints="0" showpagebreaks="1" autocopytext="1" autocopyunitext="0" autocopyrtf="1" autocopyrvf="1" autocopyimage="1" formatinvalidate="1" dblclickselectword="1" rightclickdeselect="1" checkevent="none" bidimode="none" rtfsavestylesheet="0" rtfunicodetoansi="1" rtfemftowmf="1" rtftransformjpeg="0" rtfdefaultimgformat="wmf" rvfautosaveimages="1" rvfautosavecontrols="1" rvfusestylenames="0" rvfsavetextstyles="1" rvfsaveparastyles="1" rvfsavebinary="1" rvfsavebackground="0" rvfsavelayout="0" cleartagbystylechange="0" ctrljump="1" ignoreenter="0" ignoretab="0" langautoswitch="0">
+                <text textstyleno="6">1</text>
+                <text textstyleno="7" br="0">r</text>
+                <text textstyleno="6" br="0">-20</text>
+                <text textstyleno="7" br="0">v</text>
+                <text textstyleno="6" br="0"> Druck: </text>
+                <text textstyleno="13" br="0">Articuli in Anglia et Parisius condemnati</text>
+                <text textstyleno="6" br="0">. [Köln: Heinrich Quentell, um 1488]: H 1075 = 1076; fehlt Voulliéme, Bonn [Inc. 105,m]. Rubrizierung.</text>
+                </document>
+                </rvxml>
+              </RichTextValue>
+            </h1:Field>
+            <h1:Field Type="5003" Value="31276236"/>
+            <h1:Field Type="5230" Value="Text"/>
+          </h1:Block>
+        </h1:Block>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+</h1:DocumentSet>

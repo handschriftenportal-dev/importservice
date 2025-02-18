@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="de" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Handschriftenportal Datenimport</title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description"
+        content="XML Import Service Handschriftenportal Staatsbibliothek zu Berlin">
+
+  <link rel="stylesheet" th:href="@{/css/material.min.css}" href="../../css/material.min.css"/>
+  <link rel="stylesheet" th:href="@{/css/import.css}" href="../../css/import.css"/>
+  <link rel="stylesheet" th:href="@{/css/icon.css}" href="../../css/icon.css"/>
+  <link rel="stylesheet" th:href="@{/css/google.woff2}" href="../../css/google.woff2"/>
+</head>
+<body>
+<div id="hsp-data-import">
+  <div class="mdl-grid">
+    <div class="mdl-cell mdl-cell--12-col">
+      <h6>Bitte laden Sie Ihre XML Dateien (TEI / MXML / MARC21 ) hoch.</h6>
+      <form method="POST" enctype="multipart/form-data"
+            action="import" id="importform">
+        <!-- COMPONENT START -->
+        <div id="progressbar" class="mdl-progress mdl-js-progress mdl-progress__indeterminate"
+             style="visibility: hidden">
+        </div>
+
+        <div class="mdl-textfield mdl-js-textfield mdl-textfield--file">
+          <label style="visibility: hidden" for="uploadFile">XML Datei Upload</label>
+          <input class="mdl-textfield__input" title="&nbsp;" name="datei" placeholder="XML Datei"
+                 type="file"
+                 aria-label="XML Datei Upload"
+                 id="uploadFile"
+                 readonly/>
+          <div class="mdl-button mdl-button--primary mdl-button--icon mdl-button--file">
+            <i class="material-icons">attach_file</i>
+            <label style="visibility: hidden" for="uploadBtn">Datei Upload Button</label><input
+              type="file"
+              aria-label="Datei Upload Button"
+              id="uploadBtn">
+          </div>
+        </div>
+        <!-- COMPONENT END -->
+        <div class="form-group">
+          <button type="submit"
+                  class="mdl-button mdl-js-button mdl-button--raised mdl-button--accent">
+            Hochladen
+          </button>
+          <button type="reset"
+                  class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored"
+                  th:text="#{label.import.reset}">
+            Zurücksetzen
+          </button>
+        </div>
+      </form>
+    </div>
+    <div th:if="${message}">
+      <h4 th:text="${message}"/>
+    </div>
+  </div>
+  <div th:fragment="result">
+    <div class="mdl-grid">
+      <div class="mdl-cell mdl-cell--12-col">
+        <h4 th:text="#{label.import.filesheader}">Import Dateien</h4>
+        <div class="table-responsive">
+          <table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+            <thead class="mdl-data-table__cell--non-numeric">
+            <tr>
+              <th th:text="#{label.import.filename}" scope="col">Dateiname</th>
+              <th th:text="#{label.import.filetyp}" scope="col">Dateityp</th>
+              <th th:text="#{label.import.format}" scope="col">Format</th>
+              <th th:text="#{label.import.result}" scope="col">Ergebnis</th>
+              <th th:text="#{label.import.message}" scope="col">Bemerkung</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr th:each="result : ${importfiles}">
+              <td th:text="${result.getPath().toFile().getName()}"></td>
+              <td th:text="${result.dateiTyp}"></td>
+              <td th:text="${result.dateiFormat}"></td>
+              <td th:text="${result.isError() ? 'Fehler' : 'OK'}"></td>
+              <td th:text="${result.message}"></td>
+            </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    <div class="mdl-grid">
+      <div class="mdl-cell mdl-cell--12-col">
+        <h4 th:text="#{label.import.jobheader}">Import Aufträge</h4>
+        <div class="table-responsive">
+          <table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+            <thead class="mdl-data-table__cell--non-numeric">
+            <tr>
+              <th th:text="#{label.import.created}" scope="col">Erstell am</th>
+              <th th:text="#{label.import.user}" scope="col">Benutzer</th>
+              <th th:text="#{label.import.importfile}" scope="col">Importdatei</th>
+              <th th:text="#{label.import.result}" scope="col">Ergebnis</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr th:each="job : ${importjobs}">
+              <td><a th:href="@{|${requestURL}/job/${job.id}|}"
+                     th:text="${#temporals.format(job.creationDate, 'dd.MM.yyyy HH:mm:ss')}"></a>
+
+              </td>
+              <td th:text="${job.benutzerName}"></td>
+              <td th:text="${job.name}"></td>
+              <td th:text="${job.result}"></td>
+            </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<script th:src="@{/js/material.min.js}" src="../../js/material.min.js"></script>
+<script th:src="@{/js/progress.js}" src="../../js/progress.js"></script>
+</body>
+</html>

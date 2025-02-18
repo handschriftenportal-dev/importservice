@@ -1,0 +1,2208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<h1:DocumentSet xmlns:h1="http://www.startext.de/HiDA/DefService/XMLSchema">
+  <h1:ContentInfo>
+    <h1:Format>HIDA-DOC1-XML</h1:Format>
+    <h1:CreationDate>05.04.2019 11:56:13:742</h1:CreationDate>
+  </h1:ContentInfo>
+  <h1:Document DocKey="obj     90226680,T" FieldsCount="269">
+    <h1:Block Type="obj" CreationDate="14.10.2009 17:29:17" CreatorID="Admin" ChangeDate="30.11.2017 19:15:43" ChangerID="HidaAdmin2" OwnerID="Retro" FieldsCount="11">
+      <h1:Field Type="5000" Value="90226680,T"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Stuttgart"/>
+        <h1:Field Type="4600" Value="Württembergische Landesbibliothek"/>
+        <h1:Field Type="4650" Value="HB XV 80"/>
+        <h1:Field Type="4590" Value="öffentliche Bibliothek"/>
+        <h1:Field Type="4604" Value="LB"/>
+      </h1:Field>
+      <h1:Field Type="4643" Value="HB"/>
+      <h1:Field Type="4645" Value="HB XV 1-127"/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="S LB, HB Kat. 5"/>
+      </h1:Field>
+      <h1:Field Type="8265" Value="FISCHER, Magda: Die Handschriften der ehemaligen Hofbibliothek Stuttgart: Bd. 5. Codices Wirtembergici (HB XV 1-127). Codices militares (HB XVI 1-2). - Wiesbaden: Harrassowitz, 1975. - (Die Handschriften der Württembergischen Landesbibliothek Stuttgart&#x3b; R. 2: Die Handschriften der ehemaligen königlichen Hofbibliothek&#x3b; Bd. 5)"/>
+      <h1:Field Type="8450" Value="Katalogreproduktion">
+        <h1:Field Type="8540" Value="HSK0073_b050"/>
+      </h1:Field>
+      <h1:Field Type="99hs" Value="Retrokonversionsdokument"/>
+      <h1:Field Type="9902" Value="FM &amp; SBB-PK &amp; BSB"/>
+      <h1:Field Type="1903" Value="073"/>
+      <h1:Block Type="t2" FieldsCount="15">
+        <h1:Field Type="5001" Value="90226681,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Zeichnung"/>
+        <h1:Field Type="5300" Value="Feder"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130046"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Buchschmuck"/>
+        <h1:Field Type="1210gi" Value="Federzeichnungen"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15">
+        <h1:Field Type="5001" Value="90226682,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Zeichnung"/>
+        <h1:Field Type="5300" Value="koloriert"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130049"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Buchschmuck"/>
+        <h1:Field Type="1210gi" Value="Kolorierte Zeichnungen"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226683,KRZ"/>
+        <h1:Field Type="bezper" Value="Autorschaft">
+          <h1:Field Type="4100" Value="Matthisson, Friedrich von"/>
+          <h1:Field Type="4475" Value="Autor"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6930gi" Value="Gutachten"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131070"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Matthisson, Friedrich"/>
+        <h1:Field Type="1210gi" Value="Gutachten"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15">
+        <h1:Field Type="5001" Value="90226684,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5140" Value="Herkunftsort">
+          <h1:Field Type="5145" Value="Schwäbisch Hall"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131565"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Schwäbisch Hall"/>
+        <h1:Field Type="1210gi" Value="Provenienz"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226685,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130352"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200" Value="Gaupp, Louis von"/>
+        <h1:Field Type="1210" Value="Die Oberamtsstadt Schwäbisch Hall"/>
+        <h1:Field Type="1200gi" Value="Gaupp, Louis von"/>
+        <h1:Field Type="1210gi" Value="Die Oberamtsstadt Schwäbisch Hall"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="18">
+        <h1:Field Type="5001" Value="90226686,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Stadtadel"/>
+        </h1:Field>
+        <h1:Field Type="6560" Value="Wappen"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131570"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Schwäbisch Hall"/>
+        <h1:Field Type="1210gi" Value="Stadtadel"/>
+        <h1:Field Type="1220gi" Value="Wappen"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80"/>
+        <h1:Field Type="205a" Value="Schwäbisch Hall"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226687,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="6560" Value="Wappen"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131863"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Wappen"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80">
+          <h1:Field Type="1961" Value="S. 0041"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226688,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Karte"/>
+        <h1:Field Type="5500" Value="25 A 3">
+          <h1:Field Type="5502" Value="25 A 3 * Landkarten verschiedener Länder oder Regionen"/>
+          <h1:Field Type="5504" Value="Land &amp; Gebiet &amp; Karte &amp; Landkarte"/>
+        </h1:Field>
+        <h1:Field Type="5500" Value="61 D (HALL, OBERAMT)">
+          <h1:Field Type="5502" Value="61 D (HALL, OBERAMT) * geographische Bezeichnungen von Ländern, Regionen, Bergen, Flüssen, etc. (ausgenommen Städte und Dörfer) (mit NAMEN)"/>
+          <h1:Field Type="5504" Value="Name &amp; Land &amp; Gebiet &amp; Berg &amp; Meer &amp; See &amp; Provinz &amp; Fluss"/>
+        </h1:Field>
+        <h1:Field Type="550d" Value="HALL, OBERAMT"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130831"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Karte des Oberamts Hall"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80">
+          <h1:Field Type="1961" Value="S. 0185"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226689,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Oberamt"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131568"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Schwäbisch Hall"/>
+        <h1:Field Type="1210gi" Value="Oberamt"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80">
+          <h1:Field Type="1961" Value="S. 0185"/>
+        </h1:Field>
+        <h1:Field Type="205a" Value="Schwäbisch Hall"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226690,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5500" Value="61 B 2 (BÜSCHLER, Konrad)">
+          <h1:Field Type="5502" Value="61 B 2 (BÜSCHLER, Konrad) * historische Personen, deren Name bekannt ist (mit NAMEN)"/>
+          <h1:Field Type="5504" Value="Person &amp; historisch &amp; Name &amp; männlich"/>
+        </h1:Field>
+        <h1:Field Type="550b" Value="BÜSCHLER, Konrad"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="129924"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Bildnisse"/>
+        <h1:Field Type="1210gi" Value="Büschler, Konrad"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80">
+          <h1:Field Type="1961" Value="S. IV"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226691,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5500" Value="61 B 2 (BÜSCHLER, Konrad)">
+          <h1:Field Type="5502" Value="61 B 2 (BÜSCHLER, Konrad) * historische Personen, deren Name bekannt ist (mit NAMEN)"/>
+          <h1:Field Type="5504" Value="Person &amp; historisch &amp; Name &amp; männlich"/>
+        </h1:Field>
+        <h1:Field Type="550b" Value="BÜSCHLER, Konrad"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130066"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Büschler, Konrad"/>
+        <h1:Field Type="1210gi" Value="bildliche Darstellung"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80">
+          <h1:Field Type="1961" Value="S. IV"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="18">
+        <h1:Field Type="5001" Value="90226692,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5500" Value="25 H 21 43">
+          <h1:Field Type="5502" Value="25 H 21 43 * Teich, Tümpel"/>
+          <h1:Field Type="5504" Value="Teich &amp; See"/>
+        </h1:Field>
+        <h1:Field Type="5500" Value="61 E (SCHWÄBISCH HALL)">
+          <h1:Field Type="5502" Value="61 E (SCHWÄBISCH HALL) * Namen von Städten und Dörfern (mit NAMEN)"/>
+          <h1:Field Type="5504" Value="Stadt &amp; Dorf &amp; Name"/>
+        </h1:Field>
+        <h1:Field Type="550e" Value="SCHWÄBISCH HALL"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="129735"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Ansichten"/>
+        <h1:Field Type="1210gi" Value="Schwäbisch Hall"/>
+        <h1:Field Type="1220gi" Value="Sammelteich"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80">
+          <h1:Field Type="1961" Value="S. V"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="18">
+        <h1:Field Type="5001" Value="90226693,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5500" Value="25 H 21 43">
+          <h1:Field Type="5502" Value="25 H 21 43 * Teich, Tümpel"/>
+          <h1:Field Type="5504" Value="Teich &amp; See"/>
+        </h1:Field>
+        <h1:Field Type="5500" Value="61 E (SCHWÄBISCH HALL)">
+          <h1:Field Type="5502" Value="61 E (SCHWÄBISCH HALL) * Namen von Städten und Dörfern (mit NAMEN)"/>
+          <h1:Field Type="5504" Value="Stadt &amp; Dorf &amp; Name"/>
+        </h1:Field>
+        <h1:Field Type="550e" Value="SCHWÄBISCH HALL"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131569"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Schwäbisch Hall"/>
+        <h1:Field Type="1210gi" Value="Sammelteich"/>
+        <h1:Field Type="1220gi" Value="bildliche Darstellung"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80">
+          <h1:Field Type="1961" Value="S. V"/>
+        </h1:Field>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+  <h1:Document DocKey="obj     90226694,T" FieldsCount="155">
+    <h1:Block Type="obj" CreationDate="14.10.2009 17:29:17" CreatorID="Admin" ChangeDate="30.11.2017 19:15:43" ChangerID="HidaAdmin2" OwnerID="Retro" FieldsCount="11">
+      <h1:Field Type="5000" Value="90226694,T"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Stuttgart"/>
+        <h1:Field Type="4600" Value="Württembergische Landesbibliothek"/>
+        <h1:Field Type="4650" Value="HB XV 81"/>
+        <h1:Field Type="4590" Value="öffentliche Bibliothek"/>
+        <h1:Field Type="4604" Value="LB"/>
+      </h1:Field>
+      <h1:Field Type="4643" Value="HB"/>
+      <h1:Field Type="4645" Value="HB XV 1-127"/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="S LB, HB Kat. 5"/>
+      </h1:Field>
+      <h1:Field Type="8265" Value="FISCHER, Magda: Die Handschriften der ehemaligen Hofbibliothek Stuttgart: Bd. 5. Codices Wirtembergici (HB XV 1-127). Codices militares (HB XVI 1-2). - Wiesbaden: Harrassowitz, 1975. - (Die Handschriften der Württembergischen Landesbibliothek Stuttgart&#x3b; R. 2: Die Handschriften der ehemaligen königlichen Hofbibliothek&#x3b; Bd. 5)"/>
+      <h1:Field Type="8450" Value="Katalogreproduktion">
+        <h1:Field Type="8540" Value="HSK0073_b050"/>
+      </h1:Field>
+      <h1:Field Type="99hs" Value="Retrokonversionsdokument"/>
+      <h1:Field Type="9902" Value="FM &amp; SBB-PK &amp; BSB"/>
+      <h1:Field Type="1903" Value="073"/>
+      <h1:Block Type="t2" FieldsCount="15">
+        <h1:Field Type="5001" Value="90226695,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Druck"/>
+        <h1:Field Type="5300" Value="Stahlstich"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130052"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Buchschmuck"/>
+        <h1:Field Type="1210gi" Value="Stahlstich"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 81"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226696,KRZ"/>
+        <h1:Field Type="bezper" Value="Registereintrag">
+          <h1:Field Type="4100gi" Value="Friedrich II. (Friedrich Wilhelm Karl), &amp; Herzog, später Kurfürst bzw. König Friedrich I. von &amp; Württemberg"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130321"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Friedrich II. (Friedrich Wilhelm Karl), Herzog, später Kurfürst bzw. König Friedrich I. von Württemberg"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 81"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226697,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="6560" Value="Siegel">
+          <h1:Field Type="6568" Value="Papiersiegel"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131274"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Papiersiegel"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 81"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15">
+        <h1:Field Type="5001" Value="90226698,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5140" Value="Herkunftsort">
+          <h1:Field Type="5145" Value="Paris"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131281"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Paris"/>
+        <h1:Field Type="1210gi" Value="Provenienz"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 81"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226699,KRZ"/>
+        <h1:Field Type="bezper" Value="Autorschaft">
+          <h1:Field Type="4100gi" Value="Saint-Allais, Nicolas Viton, dit de"/>
+          <h1:Field Type="4475" Value="Autor"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6930gi" Value="Les Fastes du Royaume et de la Maison de Wurtemberg"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_1 &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131475"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Saint-Allais, Nicolas Viton, dit de"/>
+        <h1:Field Type="1210gi" Value="Les Fastes du Royaume et de la Maison de Wurtemberg"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 81"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226700,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Genealogische Tafel"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131642"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Stammtafeln"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 81">
+          <h1:Field Type="1961" Value="0249recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226701,KRZ"/>
+        <h1:Field Type="bezper" Value="Registereintrag">
+          <h1:Field Type="4100gi" Value="Württemberg"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="6560" Value="Wappen"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130322"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Friedrich II. (Friedrich Wilhelm Karl), Herzog, später Kurfürst bzw. König Friedrich I. von Württemberg"/>
+        <h1:Field Type="1210gi" Value="Wappen"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 81">
+          <h1:Field Type="1961" Value="S. VI"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226702,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="6560" Value="Wappen"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131863"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Wappen"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 81">
+          <h1:Field Type="1961" Value="S. VI"/>
+        </h1:Field>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+  <h1:Document DocKey="obj     90226703,T" FieldsCount="54">
+    <h1:Block Type="obj" CreationDate="14.10.2009 17:29:17" CreatorID="Admin" ChangeDate="30.11.2017 19:15:43" ChangerID="HidaAdmin2" OwnerID="Retro" FieldsCount="11">
+      <h1:Field Type="5000" Value="90226703,T"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Stuttgart"/>
+        <h1:Field Type="4600" Value="Württembergische Landesbibliothek"/>
+        <h1:Field Type="4650" Value="HB XV 82"/>
+        <h1:Field Type="4590" Value="öffentliche Bibliothek"/>
+        <h1:Field Type="4604" Value="LB"/>
+      </h1:Field>
+      <h1:Field Type="4643" Value="HB"/>
+      <h1:Field Type="4645" Value="HB XV 1-127"/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="S LB, HB Kat. 5"/>
+      </h1:Field>
+      <h1:Field Type="8265" Value="FISCHER, Magda: Die Handschriften der ehemaligen Hofbibliothek Stuttgart: Bd. 5. Codices Wirtembergici (HB XV 1-127). Codices militares (HB XVI 1-2). - Wiesbaden: Harrassowitz, 1975. - (Die Handschriften der Württembergischen Landesbibliothek Stuttgart&#x3b; R. 2: Die Handschriften der ehemaligen königlichen Hofbibliothek&#x3b; Bd. 5)"/>
+      <h1:Field Type="8450" Value="Katalogreproduktion">
+        <h1:Field Type="8540" Value="HSK0073_b051"/>
+      </h1:Field>
+      <h1:Field Type="99hs" Value="Retrokonversionsdokument"/>
+      <h1:Field Type="9902" Value="FM &amp; SBB-PK &amp; BSB"/>
+      <h1:Field Type="1903" Value="073"/>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226704,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b051"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130147"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200" Value="Denkschriften"/>
+        <h1:Field Type="1210" Value="Verbesserung des württ. Staatswesens"/>
+        <h1:Field Type="1200gi" Value="Denkschriften"/>
+        <h1:Field Type="1210gi" Value="Verbesserung des württ. Staatswesens"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 82"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="18">
+        <h1:Field Type="5001" Value="90226705,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b051"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131632"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200" Value="Staatsverwaltung"/>
+        <h1:Field Type="1210" Value="württ."/>
+        <h1:Field Type="1220" Value="Denkschrift"/>
+        <h1:Field Type="1200gi" Value="Staatsverwaltung"/>
+        <h1:Field Type="1210gi" Value="württ."/>
+        <h1:Field Type="1220gi" Value="Denkschrift"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 82"/>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+  <h1:Document DocKey="obj     90226706,T" FieldsCount="55">
+    <h1:Block Type="obj" CreationDate="14.10.2009 17:29:17" CreatorID="Admin" ChangeDate="30.11.2017 19:15:43" ChangerID="HidaAdmin2" OwnerID="Retro" FieldsCount="11">
+      <h1:Field Type="5000" Value="90226706,T"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Stuttgart"/>
+        <h1:Field Type="4600" Value="Württembergische Landesbibliothek"/>
+        <h1:Field Type="4650" Value="HB XV 86"/>
+        <h1:Field Type="4590" Value="öffentliche Bibliothek"/>
+        <h1:Field Type="4604" Value="LB"/>
+      </h1:Field>
+      <h1:Field Type="4643" Value="HB"/>
+      <h1:Field Type="4645" Value="HB XV 1-127"/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="S LB, HB Kat. 5"/>
+      </h1:Field>
+      <h1:Field Type="8265" Value="FISCHER, Magda: Die Handschriften der ehemaligen Hofbibliothek Stuttgart: Bd. 5. Codices Wirtembergici (HB XV 1-127). Codices militares (HB XVI 1-2). - Wiesbaden: Harrassowitz, 1975. - (Die Handschriften der Württembergischen Landesbibliothek Stuttgart&#x3b; R. 2: Die Handschriften der ehemaligen königlichen Hofbibliothek&#x3b; Bd. 5)"/>
+      <h1:Field Type="8450" Value="Katalogreproduktion">
+        <h1:Field Type="8540" Value="HSK0073_b052"/>
+      </h1:Field>
+      <h1:Field Type="99hs" Value="Retrokonversionsdokument"/>
+      <h1:Field Type="9902" Value="FM &amp; SBB-PK &amp; BSB"/>
+      <h1:Field Type="1903" Value="073"/>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226707,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Lehen"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b052"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130940"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Lehen"/>
+        <h1:Field Type="1210gi" Value="württ."/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 86"/>
+        <h1:Field Type="205c" Value="Württemberg"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226708,KRZ"/>
+        <h1:Field Type="bezper" Value="x">
+          <h1:Field Type="4100gi" Value="Lohbauer, Philipp Gottfried"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Württ. Aktiv- und Passivlehen"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b052"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131002"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Lohbauer, Philipp Gottfried"/>
+        <h1:Field Type="1210gi" Value="Württ. Aktiv- und Passivlehen"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 86"/>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+  <h1:Document DocKey="obj     90226709,T" FieldsCount="50">
+    <h1:Block Type="obj" CreationDate="14.10.2009 17:29:17" CreatorID="Admin" ChangeDate="30.11.2017 19:15:43" ChangerID="HidaAdmin2" OwnerID="Retro" FieldsCount="11">
+      <h1:Field Type="5000" Value="90226709,T"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Stuttgart"/>
+        <h1:Field Type="4600" Value="Württembergische Landesbibliothek"/>
+        <h1:Field Type="4650" Value="HB XV 89"/>
+        <h1:Field Type="4590" Value="öffentliche Bibliothek"/>
+        <h1:Field Type="4604" Value="LB"/>
+      </h1:Field>
+      <h1:Field Type="4643" Value="HB"/>
+      <h1:Field Type="4645" Value="HB XV 1-127"/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="S LB, HB Kat. 5"/>
+      </h1:Field>
+      <h1:Field Type="8265" Value="FISCHER, Magda: Die Handschriften der ehemaligen Hofbibliothek Stuttgart: Bd. 5. Codices Wirtembergici (HB XV 1-127). Codices militares (HB XVI 1-2). - Wiesbaden: Harrassowitz, 1975. - (Die Handschriften der Württembergischen Landesbibliothek Stuttgart&#x3b; R. 2: Die Handschriften der ehemaligen königlichen Hofbibliothek&#x3b; Bd. 5)"/>
+      <h1:Field Type="8450" Value="Katalogreproduktion">
+        <h1:Field Type="8540" Value="HSK0073_b053"/>
+      </h1:Field>
+      <h1:Field Type="99hs" Value="Retrokonversionsdokument"/>
+      <h1:Field Type="9902" Value="FM &amp; SBB-PK &amp; BSB"/>
+      <h1:Field Type="1903" Value="073"/>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226710,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b053"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_1 &amp; Berlin, unfertig-gesperrt"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131309"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200" Value="Pistorius, Christoph Gottlieb"/>
+        <h1:Field Type="1210" Value="Reichsfalkenmeisteramt"/>
+        <h1:Field Type="1200gi" Value="Pistorius, Christoph Gottlieb"/>
+        <h1:Field Type="1210gi" Value="Reichsfalkenmeisteramt"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 89"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226711,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b053"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131395"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200" Value="Reichsfalkenmeisteramt"/>
+        <h1:Field Type="1200gi" Value="Reichsfalkenmeisteramt"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 89"/>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+  <h1:Document DocKey="obj     90226712,T" FieldsCount="37">
+    <h1:Block Type="obj" CreationDate="14.10.2009 17:29:17" CreatorID="Admin" ChangeDate="30.11.2017 19:15:43" ChangerID="HidaAdmin2" OwnerID="Retro" FieldsCount="11">
+      <h1:Field Type="5000" Value="90226712,T"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Stuttgart"/>
+        <h1:Field Type="4600" Value="Württembergische Landesbibliothek"/>
+        <h1:Field Type="4650" Value="HB XV 91"/>
+        <h1:Field Type="4590" Value="öffentliche Bibliothek"/>
+        <h1:Field Type="4604" Value="LB"/>
+      </h1:Field>
+      <h1:Field Type="4643" Value="HB"/>
+      <h1:Field Type="4645" Value="HB XV 1-127"/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="S LB, HB Kat. 5"/>
+      </h1:Field>
+      <h1:Field Type="8265" Value="FISCHER, Magda: Die Handschriften der ehemaligen Hofbibliothek Stuttgart: Bd. 5. Codices Wirtembergici (HB XV 1-127). Codices militares (HB XVI 1-2). - Wiesbaden: Harrassowitz, 1975. - (Die Handschriften der Württembergischen Landesbibliothek Stuttgart&#x3b; R. 2: Die Handschriften der ehemaligen königlichen Hofbibliothek&#x3b; Bd. 5)"/>
+      <h1:Field Type="8450" Value="Katalogreproduktion">
+        <h1:Field Type="8540" Value="HSK0073_b053"/>
+      </h1:Field>
+      <h1:Field Type="99hs" Value="Retrokonversionsdokument"/>
+      <h1:Field Type="9902" Value="FM &amp; SBB-PK &amp; BSB"/>
+      <h1:Field Type="1903" Value="073"/>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226713,KRZ"/>
+        <h1:Field Type="bezper" Value="x">
+          <h1:Field Type="4100gi" Value="Renz, Günther Albrecht"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Württembergische Geschichte"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b053"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_1 &amp; Berlin, unfertig-gesperrt"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131410"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Renz, Günther Albrecht"/>
+        <h1:Field Type="1210gi" Value="Württembergische Geschichte"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 91"/>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+  <h1:Document DocKey="obj     90226714,T" FieldsCount="35">
+    <h1:Block Type="obj" CreationDate="14.10.2009 17:29:17" CreatorID="Admin" ChangeDate="30.11.2017 19:15:43" ChangerID="HidaAdmin2" OwnerID="Retro" FieldsCount="11">
+      <h1:Field Type="5000" Value="90226714,T"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Stuttgart"/>
+        <h1:Field Type="4600" Value="Württembergische Landesbibliothek"/>
+        <h1:Field Type="4650" Value="HB XV 92"/>
+        <h1:Field Type="4590" Value="öffentliche Bibliothek"/>
+        <h1:Field Type="4604" Value="LB"/>
+      </h1:Field>
+      <h1:Field Type="4643" Value="HB"/>
+      <h1:Field Type="4645" Value="HB XV 1-127"/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="S LB, HB Kat. 5"/>
+      </h1:Field>
+      <h1:Field Type="8265" Value="FISCHER, Magda: Die Handschriften der ehemaligen Hofbibliothek Stuttgart: Bd. 5. Codices Wirtembergici (HB XV 1-127). Codices militares (HB XVI 1-2). - Wiesbaden: Harrassowitz, 1975. - (Die Handschriften der Württembergischen Landesbibliothek Stuttgart&#x3b; R. 2: Die Handschriften der ehemaligen königlichen Hofbibliothek&#x3b; Bd. 5)"/>
+      <h1:Field Type="8450" Value="Katalogreproduktion">
+        <h1:Field Type="8540" Value="HSK0073_b054"/>
+      </h1:Field>
+      <h1:Field Type="99hs" Value="Retrokonversionsdokument"/>
+      <h1:Field Type="9902" Value="FM &amp; SBB-PK &amp; BSB"/>
+      <h1:Field Type="1903" Value="073"/>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226715,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b054"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130942"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200" Value="Lehr, Friedrich"/>
+        <h1:Field Type="1210" Value="Gutachten"/>
+        <h1:Field Type="1200gi" Value="Lehr, Friedrich"/>
+        <h1:Field Type="1210gi" Value="Gutachten"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 92"/>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+  <h1:Document DocKey="obj     90226716,T" FieldsCount="37">
+    <h1:Block Type="obj" CreationDate="14.10.2009 17:29:17" CreatorID="Admin" ChangeDate="30.11.2017 19:15:43" ChangerID="HidaAdmin2" OwnerID="Retro" FieldsCount="11">
+      <h1:Field Type="5000" Value="90226716,T"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Stuttgart"/>
+        <h1:Field Type="4600" Value="Württembergische Landesbibliothek"/>
+        <h1:Field Type="4650" Value="HB XV 93"/>
+        <h1:Field Type="4590" Value="öffentliche Bibliothek"/>
+        <h1:Field Type="4604" Value="LB"/>
+      </h1:Field>
+      <h1:Field Type="4643" Value="HB"/>
+      <h1:Field Type="4645" Value="HB XV 1-127"/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="S LB, HB Kat. 5"/>
+      </h1:Field>
+      <h1:Field Type="8265" Value="FISCHER, Magda: Die Handschriften der ehemaligen Hofbibliothek Stuttgart: Bd. 5. Codices Wirtembergici (HB XV 1-127). Codices militares (HB XVI 1-2). - Wiesbaden: Harrassowitz, 1975. - (Die Handschriften der Württembergischen Landesbibliothek Stuttgart&#x3b; R. 2: Die Handschriften der ehemaligen königlichen Hofbibliothek&#x3b; Bd. 5)"/>
+      <h1:Field Type="8450" Value="Katalogreproduktion">
+        <h1:Field Type="8540" Value="HSK0073_b054"/>
+      </h1:Field>
+      <h1:Field Type="99hs" Value="Retrokonversionsdokument"/>
+      <h1:Field Type="9902" Value="FM &amp; SBB-PK &amp; BSB"/>
+      <h1:Field Type="1903" Value="073"/>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226717,KRZ"/>
+        <h1:Field Type="bezper" Value="x">
+          <h1:Field Type="4100gi" Value="Seubert, Georg Christian von"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6930gi" Value="Historische Notizen über Freudental, Rechentshofen und Kirbach"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b054"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_1 &amp; Berlin, unfertig-gesperrt"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131596"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Seubert, Georg Christian von"/>
+        <h1:Field Type="1210gi" Value="Historische Notizen über Freudental, Rechentshofen und Kirbach"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 93"/>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+  <h1:Document DocKey="obj     90226718,T" FieldsCount="55">
+    <h1:Block Type="obj" CreationDate="14.10.2009 17:29:17" CreatorID="Admin" ChangeDate="30.11.2017 19:15:43" ChangerID="HidaAdmin2" OwnerID="Retro" FieldsCount="11">
+      <h1:Field Type="5000" Value="90226718,T"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Stuttgart"/>
+        <h1:Field Type="4600" Value="Württembergische Landesbibliothek"/>
+        <h1:Field Type="4650" Value="HB XV 94"/>
+        <h1:Field Type="4590" Value="öffentliche Bibliothek"/>
+        <h1:Field Type="4604" Value="LB"/>
+      </h1:Field>
+      <h1:Field Type="4643" Value="HB"/>
+      <h1:Field Type="4645" Value="HB XV 1-127"/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="S LB, HB Kat. 5"/>
+      </h1:Field>
+      <h1:Field Type="8265" Value="FISCHER, Magda: Die Handschriften der ehemaligen Hofbibliothek Stuttgart: Bd. 5. Codices Wirtembergici (HB XV 1-127). Codices militares (HB XVI 1-2). - Wiesbaden: Harrassowitz, 1975. - (Die Handschriften der Württembergischen Landesbibliothek Stuttgart&#x3b; R. 2: Die Handschriften der ehemaligen königlichen Hofbibliothek&#x3b; Bd. 5)"/>
+      <h1:Field Type="8450" Value="Katalogreproduktion">
+        <h1:Field Type="8540" Value="HSK0073_b054"/>
+      </h1:Field>
+      <h1:Field Type="99hs" Value="Retrokonversionsdokument"/>
+      <h1:Field Type="9902" Value="FM &amp; SBB-PK &amp; BSB"/>
+      <h1:Field Type="1903" Value="073"/>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226719,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b054"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130916"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200" Value="Landbuch"/>
+        <h1:Field Type="1210" Value="württ."/>
+        <h1:Field Type="1200gi" Value="Landbuch"/>
+        <h1:Field Type="1210gi" Value="württ."/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 94"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226720,KRZ"/>
+        <h1:Field Type="bezper" Value="x">
+          <h1:Field Type="4100" Value="Eberhard &lt;Württemberg, Herzog, I.&gt;"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Erhebung zum Herzog"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b054"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130200"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Eberhard I. im Bart, Herzog von Württemberg"/>
+        <h1:Field Type="1210gi" Value="Erhebung zum Herzog"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 94">
+          <h1:Field Type="1961" Value="0019recto"/>
+        </h1:Field>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+  <h1:Document DocKey="obj     90226721,T" FieldsCount="55">
+    <h1:Block Type="obj" CreationDate="14.10.2009 17:29:18" CreatorID="Admin" ChangeDate="30.11.2017 19:15:44" ChangerID="HidaAdmin2" OwnerID="Retro" FieldsCount="11">
+      <h1:Field Type="5000" Value="90226721,T"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Stuttgart"/>
+        <h1:Field Type="4600" Value="Württembergische Landesbibliothek"/>
+        <h1:Field Type="4650" Value="HB XV 95"/>
+        <h1:Field Type="4590" Value="öffentliche Bibliothek"/>
+        <h1:Field Type="4604" Value="LB"/>
+      </h1:Field>
+      <h1:Field Type="4643" Value="HB"/>
+      <h1:Field Type="4645" Value="HB XV 1-127"/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="S LB, HB Kat. 5"/>
+      </h1:Field>
+      <h1:Field Type="8265" Value="FISCHER, Magda: Die Handschriften der ehemaligen Hofbibliothek Stuttgart: Bd. 5. Codices Wirtembergici (HB XV 1-127). Codices militares (HB XVI 1-2). - Wiesbaden: Harrassowitz, 1975. - (Die Handschriften der Württembergischen Landesbibliothek Stuttgart&#x3b; R. 2: Die Handschriften der ehemaligen königlichen Hofbibliothek&#x3b; Bd. 5)"/>
+      <h1:Field Type="8450" Value="Katalogreproduktion">
+        <h1:Field Type="8540" Value="HSK0073_b055"/>
+      </h1:Field>
+      <h1:Field Type="99hs" Value="Retrokonversionsdokument"/>
+      <h1:Field Type="9902" Value="FM &amp; SBB-PK &amp; BSB"/>
+      <h1:Field Type="1903" Value="073"/>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226722,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Lehen"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130940"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Lehen"/>
+        <h1:Field Type="1210gi" Value="württ."/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 95"/>
+        <h1:Field Type="205c" Value="Württemberg"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226723,KRZ"/>
+        <h1:Field Type="bezper" Value="x">
+          <h1:Field Type="4100gi" Value="Lohbauer, Philipp Gottfried"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Württ. Vasallen und Lehensgüter"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131003"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Lohbauer, Philipp Gottfried"/>
+        <h1:Field Type="1210gi" Value="Württ. Vasallen und Lehensgüter"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 95"/>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+  <h1:Document DocKey="obj     90226724,T" FieldsCount="688">
+    <h1:Block Type="obj" CreationDate="14.10.2009 17:29:18" CreatorID="Admin" ChangeDate="30.11.2017 19:15:44" ChangerID="HidaAdmin2" OwnerID="Retro" FieldsCount="11">
+      <h1:Field Type="5000" Value="90226724,T"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Stuttgart"/>
+        <h1:Field Type="4600" Value="Württembergische Landesbibliothek"/>
+        <h1:Field Type="4650" Value="HB XV 96"/>
+        <h1:Field Type="4590" Value="öffentliche Bibliothek"/>
+        <h1:Field Type="4604" Value="LB"/>
+      </h1:Field>
+      <h1:Field Type="4643" Value="HB"/>
+      <h1:Field Type="4645" Value="HB XV 1-127"/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="S LB, HB Kat. 5"/>
+      </h1:Field>
+      <h1:Field Type="8265" Value="FISCHER, Magda: Die Handschriften der ehemaligen Hofbibliothek Stuttgart: Bd. 5. Codices Wirtembergici (HB XV 1-127). Codices militares (HB XVI 1-2). - Wiesbaden: Harrassowitz, 1975. - (Die Handschriften der Württembergischen Landesbibliothek Stuttgart&#x3b; R. 2: Die Handschriften der ehemaligen königlichen Hofbibliothek&#x3b; Bd. 5)"/>
+      <h1:Field Type="8450" Value="Katalogreproduktion">
+        <h1:Field Type="8540" Value="HSK0073_b055"/>
+      </h1:Field>
+      <h1:Field Type="99hs" Value="Retrokonversionsdokument"/>
+      <h1:Field Type="9902" Value="FM &amp; SBB-PK &amp; BSB"/>
+      <h1:Field Type="1903" Value="073"/>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226725,KRZ"/>
+        <h1:Field Type="bezper" Value="Registereintrag">
+          <h1:Field Type="4100" Value="Arger, Burkhard"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, bearbeitet &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="129752"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Arger, Burkhard"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226726,KRZ"/>
+        <h1:Field Type="bezper" Value="Registereintrag">
+          <h1:Field Type="4100" Value="Bitlschies, Jerg"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, bearbeitet &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="129977"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Bitlschies, Jerg"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226727,KRZ"/>
+        <h1:Field Type="bezper" Value="Registereintrag">
+          <h1:Field Type="4100" Value="Ebertz, Konrad"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, bearbeitet &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130214"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Ebertz, Konrad"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226728,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Einband"/>
+        <h1:Field Type="5260" Value="Leder"/>
+        <h1:Field Type="6560" Value="Stempel"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130229"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Einbände, bemerkenswerte"/>
+        <h1:Field Type="1210gi" Value="Lederbände mit Stempeln"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15">
+        <h1:Field Type="5001" Value="90226729,KRZ"/>
+        <h1:Field Type="bezsoz" Value="Registereintrag">
+          <h1:Field Type="4564" Value="Weingarten Kreis Ravensburg?"/>
+          <h1:Field Type="4600" Value="Benediktinerkloster Weingarten"/>
+          <h1:Field Type="4590" Value="Kloster"/>
+          <h1:Field Type="4594" Value="Benediktiner"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131878"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Weingarten"/>
+        <h1:Field Type="1210gi" Value="Benediktinerkloster"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226730,KRZ"/>
+        <h1:Field Type="bezsoz" Value="Vorbesitz">
+          <h1:Field Type="4564" Value="Weingarten Kreis Ravensburg?"/>
+          <h1:Field Type="4600" Value="Benediktinerkloster Weingarten"/>
+          <h1:Field Type="4590" Value="Kloster"/>
+          <h1:Field Type="4594" Value="Benediktiner"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131879"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Weingarten"/>
+        <h1:Field Type="1210gi" Value="Benediktinerkloster"/>
+        <h1:Field Type="1220gi" Value="Provenienz"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226731,KRZ"/>
+        <h1:Field Type="bezsoz" Value="Registereintrag">
+          <h1:Field Type="4564" Value="Weingarten Kreis Ravensburg?"/>
+          <h1:Field Type="4600" Value="Benediktinerkloster Weingarten"/>
+          <h1:Field Type="4590" Value="Kloster"/>
+          <h1:Field Type="4594" Value="Benediktiner"/>
+          <h1:Field Type="4610" Value="König, ?"/>
+          <h1:Field Type="4614" Value="Syndikus"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_4 &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131885"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Weingarten"/>
+        <h1:Field Type="1210gi" Value="Benediktinerkloster"/>
+        <h1:Field Type="1220gi" Value="Syndikus König"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226732,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5007" Value="Handschrift im Katalog zitiert">
+          <h1:Field Type="501k" Value="Cambridge, Fitzwilliam Mus"/>
+          <h1:Field Type="501m" Value="Mc Clean Collection 101"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130461"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Handschriften, zitierte"/>
+        <h1:Field Type="1210gi" Value="Cambridge, Fitzwilliam Museum"/>
+        <h1:Field Type="1220gi" Value="Mc Clean Collection 101"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226733,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5007" Value="Handschrift im Katalog zitiert">
+          <h1:Field Type="501k" Value="Fulda, LB?"/>
+          <h1:Field Type="501m" Value="Aa 48"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130462"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Handschriften, zitierte"/>
+        <h1:Field Type="1210gi" Value="Fulda"/>
+        <h1:Field Type="1220gi" Value="Aa 48"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226734,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5007" Value="Handschrift im Katalog zitiert">
+          <h1:Field Type="501k" Value="Fulda, LB?"/>
+          <h1:Field Type="501m" Value="D 11"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130463"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Handschriften, zitierte"/>
+        <h1:Field Type="1210gi" Value="Fulda"/>
+        <h1:Field Type="1220gi" Value="D 11"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226735,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5007" Value="Handschrift im Katalog zitiert">
+          <h1:Field Type="501k" Value="Stuttgart, HSA"/>
+          <h1:Field Type="501m" Value="B 515 Hs 5a. b"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130470"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Handschriften, zitierte"/>
+        <h1:Field Type="1210gi" Value="Stuttgart, HSA"/>
+        <h1:Field Type="1220gi" Value="B 515 Hs 5a. b"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226736,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5007" Value="Handschrift im Katalog zitiert">
+          <h1:Field Type="501k" Value="Stuttgart, HSA"/>
+          <h1:Field Type="501m" Value="B 515 Bü 31"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130471"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Handschriften, zitierte"/>
+        <h1:Field Type="1210gi" Value="Stuttgart, HSA"/>
+        <h1:Field Type="1220gi" Value="B 515 Bü 31"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226737,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5007" Value="Handschrift im Katalog zitiert">
+          <h1:Field Type="501k" Value="Stuttgart, LB"/>
+          <h1:Field Type="501m" Value="Cod. hist. quart 584"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130540"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Handschriften, zitierte"/>
+        <h1:Field Type="1210gi" Value="Stuttgart, LB"/>
+        <h1:Field Type="1220gi" Value="Cod. hist. quart 584"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226738,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5007" Value="Handschrift im Katalog zitiert">
+          <h1:Field Type="501k" Value="Stuttgart, LB"/>
+          <h1:Field Type="501m" Value="Cod. theol. et phil. oct. 127"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130568"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Handschriften, zitierte"/>
+        <h1:Field Type="1210gi" Value="Stuttgart, LB"/>
+        <h1:Field Type="1220gi" Value="Cod. theol. et phil. oct. 127"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15">
+        <h1:Field Type="5001" Value="90226739,KRZ"/>
+        <h1:Field Type="bezper" Value="Vorbesitz">
+          <h1:Field Type="4100gi" Value="König (Künig), Karl"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Handschrift"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_1 &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130876"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="König (Künig), Karl"/>
+        <h1:Field Type="1210gi" Value="Provenienz"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="17">
+        <h1:Field Type="5001" Value="90226740,KRZ"/>
+        <h1:Field Type="bezsoz">
+          <h1:Field Type="4590" Value="Kloster"/>
+          <h1:Field Type="4594" Value="Benediktiner"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Heilig-Blut-Verehrung"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131884"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Weingarten"/>
+        <h1:Field Type="1210gi" Value="Benediktinerkloster"/>
+        <h1:Field Type="1220gi" Value="Heilig-Blut-Verehrung"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226741,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6930gi" Value="Historia Welforum"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130665"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Historia Welforum"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0004recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226742,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="129683"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200" Value="Altdorf"/>
+        <h1:Field Type="1210" Value="Chroniken"/>
+        <h1:Field Type="1200gi" Value="Altdorf"/>
+        <h1:Field Type="1210gi" Value="Chroniken"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0004recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226743,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130103"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200" Value="Chroniken"/>
+        <h1:Field Type="1210" Value="Altdorf"/>
+        <h1:Field Type="1200gi" Value="Chroniken"/>
+        <h1:Field Type="1210gi" Value="Altdorf"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0004recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226744,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130109"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200" Value="Chroniken"/>
+        <h1:Field Type="1210" Value="Welfen"/>
+        <h1:Field Type="1200gi" Value="Chroniken"/>
+        <h1:Field Type="1210gi" Value="Welfen"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0004recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226745,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131899"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200" Value="Welfen"/>
+        <h1:Field Type="1210" Value="Chronik"/>
+        <h1:Field Type="1200gi" Value="Welfen"/>
+        <h1:Field Type="1210gi" Value="Chronik"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0004recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226746,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Gedicht"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130355"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="*Gedichte"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0004verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226747,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6930gi" Value="Annales Weingartenses"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="129709"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Annales Weingartenses"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0032recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226748,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Gedicht"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130355"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="*Gedichte"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0036verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226749,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Heiligbluttraktat"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130600"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Heilig-Blut-Traktate"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0036verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15">
+        <h1:Field Type="5001" Value="90226750,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Exzerpt">
+          <h1:Field Type="6930gi" Value="Martyrologium Usuardi"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131067"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Martyrologium Usuardi"/>
+        <h1:Field Type="1210gi" Value="Auszug"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0048recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="17">
+        <h1:Field Type="5001" Value="90226751,KRZ"/>
+        <h1:Field Type="bezper" Value="Autorschaft">
+          <h1:Field Type="4100" Value="Usuardus &lt;Sangermanensis&gt;"/>
+          <h1:Field Type="z001" Value="100963684"/>
+          <h1:Field Type="4475" Value="Autor"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Exzerpt">
+          <h1:Field Type="6930gi" Value="Martyrologium"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, fertig &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131820"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Usuardus"/>
+        <h1:Field Type="1210gi" Value="Martyrologium"/>
+        <h1:Field Type="1220gi" Value="Auszug"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0048recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226752,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130375"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200" Value="Gerardus dictus Saxo"/>
+        <h1:Field Type="1210" Value="Heilig-Blut-Traktat"/>
+        <h1:Field Type="1200gi" Value="Gerardus dictus Saxo"/>
+        <h1:Field Type="1210gi" Value="Heilig-Blut-Traktat"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0048recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226753,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Gebetsverbrüderung"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130353"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Gebetsverbrüderungen"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0059verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15">
+        <h1:Field Type="5001" Value="90226754,KRZ"/>
+        <h1:Field Type="bezsoz" Value="Registereintrag">
+          <h1:Field Type="4564" Value="Mantua"/>
+          <h1:Field Type="4600" Value="Sankt Andreas"/>
+          <h1:Field Type="4590" Value="Kloster"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131049"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Mantua"/>
+        <h1:Field Type="1210gi" Value="Kloster St. Andreas"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0059verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226755,KRZ"/>
+        <h1:Field Type="bezper" Value="Registereintrag">
+          <h1:Field Type="4100gi" Value="Johannes I. von Essendorf, Abt von Weingarten"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130805"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Johannes I. von Essendorf, Abt von Weingarten"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0060recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226756,KRZ"/>
+        <h1:Field Type="bezper" Value="Autorschaft">
+          <h1:Field Type="4100gi" Value="Johannes, Abt von St. Andreas in Mantua"/>
+          <h1:Field Type="4475" Value="Autor"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6930gi" Value="Brief an Abt Johannes von Weingarten"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_1 &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130806"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Johannes, Abt von St. Andreas in Mantua"/>
+        <h1:Field Type="1210gi" Value="Brief an Abt Johannes von Weingarten"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0060recto"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="18">
+        <h1:Field Type="5001" Value="90226757,KRZ"/>
+        <h1:Field Type="bezper" Value="Autorschaft">
+          <h1:Field Type="4100" Value="Sixtus &lt;Papa, IV.&gt;"/>
+          <h1:Field Type="z001" Value="100961010"/>
+          <h1:Field Type="4475" Value="Autor"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="5710" Value="deutsch"/>
+        <h1:Field Type="bezwrk" Value="Exzerpt">
+          <h1:Field Type="6930gi" Value="Tractatus de Sanguine Christi"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, fertig &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131609"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Sixtus IV. papa"/>
+        <h1:Field Type="1210gi" Value="Tractatus de Sanguine Christi"/>
+        <h1:Field Type="1220gi" Value="Auszug, dt."/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0060verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226758,KRZ"/>
+        <h1:Field Type="bezper" Value="Autorschaft">
+          <h1:Field Type="4100gi" Value="Xanthopulos, Nikephoros Kallistos"/>
+          <h1:Field Type="4475" Value="Autor"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6930gi" Value="Heilig-Blut-Traktat"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_1 &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="132023"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Xanthopulos, Nikephoros Kallistos"/>
+        <h1:Field Type="1210gi" Value="Heilig-Blut-Traktat"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="0060verso"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15">
+        <h1:Field Type="5001" Value="90226759,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="6560" Value="Wappen">
+          <h1:Field Type="6565" Value="Stadtwappen Ravensburg"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131382"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Ravensburg"/>
+        <h1:Field Type="1210gi" Value="Stadtwappen"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="Einband"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226760,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="6560" Value="Wappen"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b055"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131863"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Wappen"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 96">
+          <h1:Field Type="1961" Value="Einband"/>
+        </h1:Field>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+  <h1:Document DocKey="obj     90226761,T" FieldsCount="262">
+    <h1:Block Type="obj" CreationDate="14.10.2009 17:29:18" CreatorID="Admin" ChangeDate="30.11.2017 19:15:44" ChangerID="HidaAdmin2" OwnerID="Retro" FieldsCount="11">
+      <h1:Field Type="5000" Value="90226761,T"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Stuttgart"/>
+        <h1:Field Type="4600" Value="Württembergische Landesbibliothek"/>
+        <h1:Field Type="4650" Value="HB XV 97"/>
+        <h1:Field Type="4590" Value="öffentliche Bibliothek"/>
+        <h1:Field Type="4604" Value="LB"/>
+      </h1:Field>
+      <h1:Field Type="4643" Value="HB"/>
+      <h1:Field Type="4645" Value="HB XV 1-127"/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="S LB, HB Kat. 5"/>
+      </h1:Field>
+      <h1:Field Type="8265" Value="FISCHER, Magda: Die Handschriften der ehemaligen Hofbibliothek Stuttgart: Bd. 5. Codices Wirtembergici (HB XV 1-127). Codices militares (HB XVI 1-2). - Wiesbaden: Harrassowitz, 1975. - (Die Handschriften der Württembergischen Landesbibliothek Stuttgart&#x3b; R. 2: Die Handschriften der ehemaligen königlichen Hofbibliothek&#x3b; Bd. 5)"/>
+      <h1:Field Type="8450" Value="Katalogreproduktion">
+        <h1:Field Type="8540" Value="HSK0073_b057"/>
+      </h1:Field>
+      <h1:Field Type="99hs" Value="Retrokonversionsdokument"/>
+      <h1:Field Type="9902" Value="FM &amp; SBB-PK &amp; BSB"/>
+      <h1:Field Type="1903" Value="073"/>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226762,KRZ"/>
+        <h1:Field Type="bezper" Value="Registereintrag">
+          <h1:Field Type="4100gi" Value="Christoph, Herzog von Württemberg"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b057"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130098"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Christoph, Herzog von Württemberg"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 97"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226763,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Formelbuch"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b057"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130300"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Formularbuch"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 97"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226764,KRZ"/>
+        <h1:Field Type="bezper" Value="Registereintrag">
+          <h1:Field Type="4100gi" Value="Hoyoul (Hoyu), Balduin"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b057"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_1 &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130717"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Hoyoul (Hoyu), Balduin"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 97"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226765,KRZ"/>
+        <h1:Field Type="bezper" Value="Registereintrag">
+          <h1:Field Type="4100gi" Value="Ludwig, Herzog von Württemberg"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b057"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131009"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Ludwig, Herzog von Württemberg"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 97"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226766,KRZ"/>
+        <h1:Field Type="bezper" Value="Registereintrag">
+          <h1:Field Type="4100gi" Value="Ochsenbach, Johann Hermann d.Ä."/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b057"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131209"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Ochsenbach, Johann Hermann d.Ä."/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 97"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226767,KRZ"/>
+        <h1:Field Type="bezper" Value="Registereintrag">
+          <h1:Field Type="4100gi" Value="Ochsenbach, Johann Hermann d.J."/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b057"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131210"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Ochsenbach, Johann Hermann d.J."/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 97"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15">
+        <h1:Field Type="5001" Value="90226768,KRZ"/>
+        <h1:Field Type="bezsoz" Value="Registereintrag">
+          <h1:Field Type="4564" Value="Stuttgart"/>
+          <h1:Field Type="4600" Value="Hofkapelle"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b057"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131691"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Stuttgart"/>
+        <h1:Field Type="1210gi" Value="Hofkapelle"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 97"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226769,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Titulaturbuch"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b057"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131739"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Titularbuch"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 97"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226770,KRZ"/>
+        <h1:Field Type="bezsoz" Value="Vorbesitz">
+          <h1:Field Type="4564" Value="Weingarten Kreis Ravensburg?"/>
+          <h1:Field Type="4600" Value="Benediktinerkloster Weingarten"/>
+          <h1:Field Type="4590" Value="Kloster"/>
+          <h1:Field Type="4594" Value="Benediktiner"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b057"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131879"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Weingarten"/>
+        <h1:Field Type="1210gi" Value="Benediktinerkloster"/>
+        <h1:Field Type="1220gi" Value="Provenienz"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 97"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15">
+        <h1:Field Type="5001" Value="90226771,KRZ"/>
+        <h1:Field Type="bezper" Value="Vorbesitz">
+          <h1:Field Type="4100" Value="Carray, Karl"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Handschrift"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b057"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, bearbeitet &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130085"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Carray, Karl"/>
+        <h1:Field Type="1210gi" Value="Provenienz"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 97"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226772,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5007" Value="Handschrift im Katalog zitiert">
+          <h1:Field Type="501k" Value="Stuttgart, LB"/>
+          <h1:Field Type="501m" Value="Cod. misc. fol. 34"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b057"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130562"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Handschriften, zitierte"/>
+        <h1:Field Type="1210gi" Value="Stuttgart, LB"/>
+        <h1:Field Type="1220gi" Value="Cod. misc. fol. 34"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 97"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226773,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5007" Value="Handschrift im Katalog zitiert">
+          <h1:Field Type="501k" Value="Stuttgart, LB"/>
+          <h1:Field Type="501m" Value="Cod. poet. et phil. fol. 80"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b057"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130567"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Handschriften, zitierte"/>
+        <h1:Field Type="1210gi" Value="Stuttgart, LB"/>
+        <h1:Field Type="1220gi" Value="Cod. poet. et phil. fol. 80"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 97"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15">
+        <h1:Field Type="5001" Value="90226774,KRZ"/>
+        <h1:Field Type="bezper" Value="Vorbesitz">
+          <h1:Field Type="4100gi" Value="Ochsenbach, Familie"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Handschrift"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b057"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131198"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Ochsenbach, Familie"/>
+        <h1:Field Type="1210gi" Value="Provenienz"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 97"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226775,KRZ"/>
+        <h1:Field Type="bezper" Value="Autorschaft">
+          <h1:Field Type="4100" Value="Marot, Clément"/>
+          <h1:Field Type="4475" Value="Autor"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6930gi" Value="Pseaume III"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b057"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_1 &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131063"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Marot, Clément"/>
+        <h1:Field Type="1210gi" Value="Pseaume III"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 97">
+          <h1:Field Type="1961" Value="0002recto"/>
+        </h1:Field>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+</h1:DocumentSet>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="UTF-8">
+  <title>Handschriftenportal Import Fehlerseite</title>
+</head>
+<body>
+<table>
+  <tr>
+    <td>Datum</td>
+    <td th:text="${timestamp}"/>
+  </tr>
+  <tr>
+    <td>Pfad</td>
+    <td th:text="${path}"/>
+  </tr>
+  <tr>
+    <td>Es ist folgender Fehler aufgetreten</td>
+    <td th:text="${error}"/>
+  </tr>
+  <tr>
+    <td>Status</td>
+    <td th:text="${status}"/>
+  </tr>
+  <tr>
+    <td>Message</td>
+    <td th:text="${message}"/>
+  </tr>
+  <tr>
+    <td>Exception</td>
+    <td th:text="${exception}"/>
+  </tr>
+</table>
+</body>
+</html>

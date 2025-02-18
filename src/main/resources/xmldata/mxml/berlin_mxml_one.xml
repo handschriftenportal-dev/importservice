@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<h1:DocumentSet xmlns:h1="http://www.startext.de/HiDA/DefService/XMLSchema">
+  <h1:ContentInfo>
+    <h1:Format>HIDA-DOC1-XML</h1:Format>
+    <h1:CreationDate>05.04.2019 11:56:13:742</h1:CreationDate>
+  </h1:ContentInfo>
+  <h1:Document DocKey="obj     90226680,T" FieldsCount="269">
+    <h1:Block Type="obj" CreationDate="14.10.2009 17:29:17" CreatorID="Admin"
+      ChangeDate="30.11.2017 19:15:43" ChangerID="HidaAdmin2" OwnerID="Retro" FieldsCount="11">
+      <h1:Field Type="par01"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://bezsoz[0].4650/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 S 67}}}"/>
+      <h1:Field Type="par02"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red224\green224\blue224&#x3b;\red204\green238\blue221&#x3b;\red255\green204\blue153&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://5209/&quot;}{\fldrslt \plain \f0\b\fs22\chcbpat17 Johannes Versor \u183 \'b7 Johannes Tinctoris}}}"/>
+      <h1:Field Type="par03"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 Papier \u183 \'b7 III + 139 + 62 (Druck) + 168 + II Blatt \u183 \'b7 29 \u215 \'d7 21 \u183 \'b7 {\field{\*\fldinst HYPERLINK &quot;hida://5130[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 K\u246 \'f6ln}}\plain \f0\fs22  (I-II, IV), {\field{\*\fldinst HYPERLINK &quot;hida://5130[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Trier}}\plain \f0\fs22  (IV) \u183 \'b7 {\field{\*\fldinst HYPERLINK &quot;hida://5060[0].5064/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 1460}}\plain \f0\fs22  (I), {\field{\*\fldinst HYPERLINK &quot;hida://5060[2].5064/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 1471-1473}}\plain \f0\fs22  (II, IV)}"/>
+      <h1:Field Type="par04"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 [TE]. - Teil I: VII\plain \f0\super\fs28 14\plain \f0\fs22  + 4 VI\plain \f0\super\fs28 62\plain \f0\fs22  + (IV+1)\plain \f0\super\fs28 71\plain \f0\fs22  + (II+1)\plain \f0\super\fs28 76\plain \f0\fs22  + VI\plain \f0\super\fs28 88\plain \f0\fs22  + (V+1)\plain \f0\super\fs28 99\plain \f0\fs22  + VI\plain \f0\super\fs28 111\plain \f0\fs22  + II\plain \f0\super\fs28 115\plain \f0\fs22  + (V+1)\plain \f0\super\fs28 126\plain \f0\fs22  + (VI+1)\plain \f0\super\fs28 139\plain \f0\fs22 . Teil II (Druck). Teil III: VI\plain \f0\super\fs28 151\plain \f0\fs22  + (VII+1)\plain \f0\super\fs28 166\plain \f0\fs22  + VI\plain \f0\super\fs28 178\plain \f0\fs22  + (III+2)\plain \f0\super\fs28 186\plain \f0\fs22  + 2 VI\plain \f0\super\fs28 210\plain \f0\fs22  + V\plain \f0\super\fs28 220\plain \f0\fs22  + (IV+1)\plain \f0\super\fs28 229\plain \f0\fs22  + 4 VI\plain \f0\super\fs28 277\plain \f0\fs22  + 4\plain \f0\super\fs28 281\plain \f0\fs22  + VI\plain \f0\super\fs28 293\plain \f0\fs22  + VII\plain \f0\super\fs28 307\plain \f0\fs22 . Reklamanten \u8729 \'b7 Schriftraum 20 \u215 \'d7 14 (I)&#x3b; 22 \u215 \'d7 14 (II, IV) \u8729 \'b7 2 Sp. \u183 \'b7 48-57 Z. \u183 \'b7 {\field{\*\fldinst HYPERLINK &quot;hida://5704[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Kursive}}\plain \f0\fs22 , drei H\u228 \'e4nde (Werner Wacker, Theodericus Billinger, Johannes Dinck) \u8729 \'b7 Rubrizierung&#x3b; Lombarden vereinzelt mit Aussparungen \u8729 \'b7 Mehrere {\field{\*\fldinst HYPERLINK &quot;hida://5270[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Schemata}}\plain \f0\fs22  \u8729 \'b7 1\plain \f0\super\fs28 r\plain \f0\fs22  Schenkungsvermerk (verwischt, weitgehend nur unter Quarzlampe lesbar und zeitgen\u246 \'f6ssisch erg\u228 \'e4nzt): \plain \f0\i\fs22 Notandum quod ego frater Wernherus de Hirzhorn \plain \f0\fs22 [Werner Wacker de Welstatt de Hirschhorn, stud. K\u246 \'f6ln 1464-1472 und 1474-1476 sowie Trier 1473-1474, vgl. Franz-Bernhard Lickteig: The German Carmelites at the Medieval Universities. Roma 1981 (Textus et studia historica Carmelitana 13), S. 454&#x3b; 484] \plain \f0\i\fs22 pro tempore anno LXXVI lector conventus Bopardiensis promisi me concessurum \plain \f0\fs22 (?) \plain \f0\i\fs22 librum istum phisicalem fratri Jacobo Bonner de Kerlich Juniori \plain \f0\fs22 [de Boppardia, stud. K\u246 \'f6ln 1486-1488 und 1494 und Mainz 1495-1496, vgl. Lickteig, S. 459&#x3b; 490f.] \plain \f0\i\fs22 eo [...] studens in Colonia cum [...] conventus \plain \f0\fs22 (?) \plain \f0\i\fs22 concessione ... Testes sunt venerabiles patres: Jacobus Bonner Senior \plain \f0\fs22 [de Boppardia, stud. K\u246 \'f6ln 1458-1462, vgl. ebd., S. 452]\plain \f0\i\fs22  \plain \f0\fs22 (\u252 \'fcbergeschrieben: \plain \f0\i\fs22 Idem magister dicit), Johannes Lemsucher, Georgius de Aquis\plain \f0\fs22  [wohl Georgius Scriptoris de Aquis, stud. K\u246 \'f6ln 1469-1470, 1474-1475 und 1477, Toulouse 1470-1472 und Trier 1474-1475, vgl., ebd., S. 455&#x3b; 484&#x3b; 506] \plain \f0\i\fs22 [...]. \plain \f0\fs22 II\plain \f0\super\fs28 r\plain \f0\fs22  Besitzvermerk (teilweise nur unter Quarzlampe lesbar): \plain \f0\i\fs22 Anno domini millesimo qu[in]g[en]t[e]s[imo] et t[erci]o [...] ego frater Herbordus veni Colonia in ipso die [...].\plain \f0\fs22  73\plain \f0\super\fs28 vb\plain \f0\fs22  Besitzvermerk: \plain \f0\i\fs22 Frater Herbordus Wormacie licet tunc temporis \plain \f0\fs22 (!) \plain \f0\i\fs22 indignus studens Coloniensi. 1503 \plain \f0\fs22 \u183 \'b7 Bll 5a, 6a, 22a (lose beiliegend), 46a und 153a Schaltzettel. Vorsatz I und Nachsatz II ehemalige Spiegel VD/RD. Nachsatz mit Blattz\u228 \'e4hlung IV-V&#x3b; Teil II (Druck) nicht foliiert, stattdessen durchlaufende Blattz\u228 \'e4hlung der hs Teile I (1-139) und III (140-307). Bll 116-123 anf\u228 \'e4nglich mit separater, aber l\u252 \'fccken- und fehlerhafter Lagenz\u228 \'e4hlung in Rot.}"/>
+      <h1:Field Type="par05"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 Zusammengesetzter Codex aus vier Teilen: Die Teile II (77\plain \f0\super\fs28 r\plain \f0\fs22 -139\plain \f0\super\fs28 v\plain \f0\fs22 ) und IV (140\plain \f0\super\fs28 r\plain \f0\fs22 -307\plain \f0\super\fs28 v\plain \f0\fs22 ) nach \u252 \'fcbergreifender Haupthand, teilweise \u252 \'fcbergreifenden Wzz sowie Kolophonen (104\plain \f0\super\fs28 vb\plain \f0\fs22 . 162\plain \f0\super\fs28 rb\plain \f0\fs22 . 171\plain \f0\super\fs28 ra\plain \f0\fs22 . 279\plain \f0\super\fs28 ra\plain \f0\fs22 . 281\plain \f0\super\fs28 va\plain \f0\fs22 ) von dem Karmeliter {\field{\*\fldinst HYPERLINK &quot;hida://bezper[0].4100/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Werner Wacker (de Welstatt, de Hirschhorn)}}\plain \f0\fs22  (s.o.) 1471-1472 w\u228 \'e4hrend seines Studiums in K\u246 \'f6ln (s.o.) sowie 1473 als Lektor in Trier geschrieben (vgl. auch Besitzvermerk 140\plain \f0\super\fs28 r\plain \f0\fs22 ) und nach Kolophon (143\plain \f0\super\fs28 vb\plain \f0\fs22 ) von einem Frater {\field{\*\fldinst HYPERLINK &quot;hida://bezper[2].4100/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Johannes Dinck}}\plain \f0\fs22 , wohl von dem Karmeliter Johannes de Boppardia (stud. K\u246 \'f6ln 1473-1474, vgl. Lickteig, S. 455), auf 140\plain \f0\super\fs28 ra\plain \f0\fs22 -146\plain \f0\super\fs28 vb\plain \f0\fs22  erg\u228 \'e4nzt. Teil I (1\plain \f0\super\fs28 r\plain \f0\fs22 -76\plain \f0\super\fs28 v\plain \f0\fs22 ) nach Kolophonen (34\plain \f0\super\fs28 ra \plain \f0\fs22 . 45\plain \f0\super\fs28 va\plain \f0\fs22 . 50\plain \f0\super\fs28 vb\plain \f0\fs22 . 58\plain \f0\super\fs28 rb\plain \f0\fs22 . 62\plain \f0\super\fs28 vb\plain \f0\fs22 . 72\plain \f0\super\fs28 va\plain \f0\fs22 . 73\plain \f0\super\fs28 ra\plain \f0\fs22 ) 1460 von dem Wormser Karmeliter {\field{\*\fldinst HYPERLINK &quot;hida://bezper[1].4100/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Theodericus Billinger de Darmstadt}}\plain \f0\fs22  (stud. K\u246 \'f6ln 1463-1464 und 1467-1468, vgl. Lickteig, S. 453) im K\u246 \'f6lner Konvent geschrieben und dort in den fr\u252 \'fchen 1470er-Jahren ebenfalls in den Besitz von Werner Wacker gekommen (73\plain \f0\super\fs28 ra\plain \f0\fs22  Besitzvermerk&#x3b; Glossierung). Nach Schenkungs- und Besitzvermerken (1\plain \f0\super\fs28 r\plain \f0\fs22 . 140\plain \f0\super\fs28 r\plain \f0\fs22 ) von diesem in das Karmeliterkloster Boppard mitgenommen und dort 1486 w\u228 \'e4hrend seiner Zeit als Lektor an seinen in K\u246 \'f6ln studierenden Mitbruder {\field{\*\fldinst HYPERLINK &quot;hida://bezper[4].4100/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Jacobus Bonner de Kerlich}}\plain \f0\fs22  (Junior, s.o.) weitergegeben. Nach weiteren Besitzvermerken und Monogramm (II\plain \f0\super\fs28 r\plain \f0\fs22 . 1\plain \f0\super\fs28 r\plain \f0\fs22 . 89\plain \f0\super\fs28 rb\plain \f0\fs22 . 140\plain \f0\super\fs28 r\plain \f0\fs22 ) sowie Erg\u228 \'e4nzungen (73\plain \f0\super\fs28 ra\plain \f0\fs22 -73\plain \f0\super\fs28 vb\plain \f0\fs22 . 89\plain \f0\super\fs28 rb\plain \f0\fs22 ) 1490-1491 von dem (Bopparder?) Karmeliter {\field{\*\fldinst HYPERLINK &quot;hida://bezper[5].4100/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Wendelinus Bischofsheim (de Hirschhorn,}}\plain \f0\fs22  stud. K\u246 \'f6ln 1485-1488 und 1496, Heidelberg 1488-1489, Erfurt 1489-1492, bacc. art. 1492, Trier 1492-1495, vgl. Lickteig, S. 459&#x3b; 486&#x3b; 491&#x3b; 495&#x3b; 497) w\u228 \'e4hrend seines Studiums in Erfurt benutzt. Die hs Teile I-II und IV mit dem gedruckten Teil III (Venedig 1472) im Auftrag Bischofsheims (vgl. II\plain \f0\super\fs28 r\plain \f0\fs22  Namensmonogramm und Hirschwappen, vgl. auch Hirschwappen auf Einbandschlie\u223 \'dfe) Ende des 15. Jh.s gebunden, sehr wahrscheinlich im Karmelitenkloster Boppard. Danach nach Namensmonogramm (IV\plain \f0\super\fs28 v\plain \f0\fs22 ) im Besitz eines gewissen Michael, wahrscheinlich des Karmeliters {\field{\*\fldinst HYPERLINK &quot;hida://bezper[6].4100/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Michael Beke de Boppardia}}\plain \f0\fs22  (stud. K\u246 \'f6ln 1482-1488 und 1491-1492 sowie Trier 1488-1489, vgl. Lickteig, S. 458&#x3b; 486). Nach zus\u228 \'e4tzlichen Besitzvermerken und Monogramm (II\plain \f0\super\fs28 r\plain \f0\fs22 . 73\plain \f0\super\fs28 vb\plain \f0\fs22 . 140\plain \f0\super\fs28 rv\plain \f0\fs22 . Nachsatz IV\plain \f0\super\fs28 v\plain \f0\fs22 . Spiegel RD) 1503-1507 von dem Karmeliter {\field{\*\fldinst HYPERLINK &quot;hida://bezper[7].4100/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Herbordus de Wormatia}}\plain \f0\fs22  (stud. K\u246 \'f6ln 1503-1506, Toulouse 1506-1507, Erfurt 1507-1509, bacc. art. 1508/09, vgl. Lickteig, S. 462&#x3b; 496f.&#x3b; 507) in K\u246 \'f6ln und Toulouse benutzt. Um 1510 in die Bibliothek des {\field{\*\fldinst HYPERLINK &quot;hida://bezsoz[1].4600/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Karmelitenklosters Boppard}}\plain \f0\fs22  gekommen (Spiegel VD Besitzvermerk und Signaturen \plain \f0\i\fs22 Lin. 10 N. 11\plain \f0\fs22  (gestrichen) und \plain \f0\i\fs22 Classis 8\plain \f0\i\super\fs28 nae\plain \f0\fs22  (korr. in \plain \f0\i\fs22 9\plain \f0\i\super\fs28 nae\plain \f0\fs22 )\plain \f0\i\fs22  Lin. I N. 5\plain \f0\fs22 , 17./18. Jh.&#x3b; auch auf BR). Nach dessen Aufl\u246 \'f6sung (1802/03) \u252 \'fcber die {\field{\*\fldinst HYPERLINK &quot;hida://bezsoz[2].4600/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Gymnasialbibliothek Koblenz}}\plain \f0\fs22  (2\plain \f0\super\fs28 r\plain \f0\fs22  Bleistiftsignatur \plain \f0\i\fs22 C.41\plain \f0\fs22 ) 1821 (Acc.-Nr. 1821.518 (Nr. 988)) in die Universit\u228 \'e4tsbibliothek Bonn gekommen.}"/>
+      <h1:Field Type="par06"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://bezlit[0].8330/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Handschriftenzensus Rheinland}}\plain \f0\fs22 , Nr. 107. - {\field{\*\fldinst HYPERLINK &quot;hida://bezlit[1].8330/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Kr\u228 \'e4mer, Handschriftenerbe, 1989-1990}}\plain \f0\fs22 , Bd. 1, S. 95. - Fischer, s.v. 'S 67'. - Becker, S. [3-6]. - {\field{\*\fldinst HYPERLINK &quot;hida://bezlit[2].8330/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Rheinische Handschriften Bonn}}\plain \f0\fs22 , S. 10&#x3b; 16. - {\field{\*\fldinst HYPERLINK &quot;hida://bezlit[3].8330/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Klette/St\u228 \'e4nder}}\plain \f0\fs22 , Nr. 67.}"/>
+      <h1:Field Type="5000" Value="90226680,T"/>
+      <h1:Field Type="5210" Value="verschollen"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Stuttgart"/>
+        <h1:Field Type="4600" Value="Württembergische Landesbibliothek"/>
+        <h1:Field Type="4500" Value="HB XV 80"/>
+        <h1:Field Type="4650" Value="31275073"/>
+        <h1:Field Type="4590" Value="öffentliche Bibliothek"/>
+        <h1:Field Type="4604" Value="LB"/>
+      </h1:Field>
+      <h1:Field Type="4643" Value="HB"/>
+      <h1:Field Type="5260" Value="Leder"/>
+      <h1:Field Type="5706" Value="100 Blatt"/>
+      <h1:Field Type="5706norm" Value="100"/>
+      <h1:Field Type="5704" Value="Kursive, gotische"/>
+      <h1:Field Type="5710" Value="deutsch"/>
+      <h1:Field Type="4645" Value="HB XV 1-127"/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="5360norm" Value="20 x 50"/>
+      <h1:Field Type="5382norm" Value="A4"/>
+      <h1:Field Type="5060" Value="Datierung">
+        <h1:Field Type="5064" Value="11. Jahrh."/>
+        <h1:Field Type="5071" Value="1001"/>
+        <h1:Field Type="5077" Value="1100"/>
+      </h1:Field>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="S LB, HB Kat. 5"/>
+      </h1:Field>
+      <h1:Field Type="8265"
+        Value="FISCHER, Magda: Die Handschriften der ehemaligen Hofbibliothek Stuttgart: Bd. 5. Codices Wirtembergici (HB XV 1-127). Codices militares (HB XVI 1-2). - Wiesbaden: Harrassowitz, 1975. - (Die Handschriften der Württembergischen Landesbibliothek Stuttgart&#x3b; R. 2: Die Handschriften der ehemaligen königlichen Hofbibliothek&#x3b; Bd. 5)"/>
+      <h1:Field Type="8450" Value="Katalogreproduktion">
+        <h1:Field Type="8540" Value="HSK0073_b050"/>
+      </h1:Field>
+      <h1:Field Type="99hs" Value="Retrokonversionsdokument"/>
+      <h1:Field Type="9902" Value="FM &amp; SBB-PK &amp; BSB"/>
+      <h1:Field Type="1903" Value="073"/>
+      <h1:Block Type="t2" FieldsCount="15">
+        <h1:Field Type="5001" Value="90226681,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Zeichnung"/>
+        <h1:Field Type="5300" Value="Feder"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130046"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Buchschmuck"/>
+        <h1:Field Type="1210gi" Value="Federzeichnungen"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15">
+        <h1:Field Type="5001" Value="90226682,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Zeichnung"/>
+        <h1:Field Type="5300" Value="koloriert"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130049"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Buchschmuck"/>
+        <h1:Field Type="1210gi" Value="Kolorierte Zeichnungen"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226683,KRZ"/>
+        <h1:Field Type="bezper" Value="Autorschaft">
+          <h1:Field Type="4100" Value="Matthisson, Friedrich von"/>
+          <h1:Field Type="4475" Value="Autor"/>
+        </h1:Field>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Text"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6930gi" Value="Gutachten"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs"
+          Value="KRZ-Dokument mit Signaturangabe &amp; München, unfertig_2 &amp; Berlin, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131070"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Matthisson, Friedrich"/>
+        <h1:Field Type="1210gi" Value="Gutachten"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="15">
+        <h1:Field Type="5001" Value="90226684,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5140" Value="Herkunftsort">
+          <h1:Field Type="5145" Value="Schwäbisch Hall"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131565"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Schwäbisch Hall"/>
+        <h1:Field Type="1210gi" Value="Provenienz"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226685,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130352"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200" Value="Gaupp, Louis von"/>
+        <h1:Field Type="1210" Value="Die Oberamtsstadt Schwäbisch Hall"/>
+        <h1:Field Type="1200gi" Value="Gaupp, Louis von"/>
+        <h1:Field Type="1210gi" Value="Die Oberamtsstadt Schwäbisch Hall"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="18">
+        <h1:Field Type="5001" Value="90226686,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Stadtadel"/>
+        </h1:Field>
+        <h1:Field Type="6560" Value="Wappen"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131570"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Schwäbisch Hall"/>
+        <h1:Field Type="1210gi" Value="Stadtadel"/>
+        <h1:Field Type="1220gi" Value="Wappen"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80"/>
+        <h1:Field Type="205a" Value="Schwäbisch Hall"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="14">
+        <h1:Field Type="5001" Value="90226687,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="6560" Value="Wappen"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131863"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Wappen"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80">
+          <h1:Field Type="1961" Value="S. 0041"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226688,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag &amp; Karte"/>
+        <h1:Field Type="5500" Value="25 A 3">
+          <h1:Field Type="5502" Value="25 A 3 * Landkarten verschiedener Länder oder Regionen"/>
+          <h1:Field Type="5504" Value="Land &amp; Gebiet &amp; Karte &amp; Landkarte"/>
+        </h1:Field>
+        <h1:Field Type="5500" Value="61 D (HALL, OBERAMT)">
+          <h1:Field Type="5502"
+            Value="61 D (HALL, OBERAMT) * geographische Bezeichnungen von Ländern, Regionen, Bergen, Flüssen, etc. (ausgenommen Städte und Dörfer) (mit NAMEN)"/>
+          <h1:Field Type="5504"
+            Value="Name &amp; Land &amp; Gebiet &amp; Berg &amp; Meer &amp; See &amp; Provinz &amp; Fluss"/>
+        </h1:Field>
+        <h1:Field Type="550d" Value="HALL, OBERAMT"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130831"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Karte des Oberamts Hall"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80">
+          <h1:Field Type="1961" Value="S. 0185"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226689,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6922" Value="Oberamt"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Berlin, unfertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131568"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Schwäbisch Hall"/>
+        <h1:Field Type="1210gi" Value="Oberamt"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80">
+          <h1:Field Type="1961" Value="S. 0185"/>
+        </h1:Field>
+        <h1:Field Type="205a" Value="Schwäbisch Hall"/>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226690,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5500" Value="61 B 2 (BÜSCHLER, Konrad)">
+          <h1:Field Type="5502"
+            Value="61 B 2 (BÜSCHLER, Konrad) * historische Personen, deren Name bekannt ist (mit NAMEN)"/>
+          <h1:Field Type="5504" Value="Person &amp; historisch &amp; Name &amp; männlich"/>
+        </h1:Field>
+        <h1:Field Type="550b" Value="BÜSCHLER, Konrad"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="129924"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Bildnisse"/>
+        <h1:Field Type="1210gi" Value="Büschler, Konrad"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80">
+          <h1:Field Type="1961" Value="S. IV"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="16">
+        <h1:Field Type="5001" Value="90226691,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5500" Value="61 B 2 (BÜSCHLER, Konrad)">
+          <h1:Field Type="5502"
+            Value="61 B 2 (BÜSCHLER, Konrad) * historische Personen, deren Name bekannt ist (mit NAMEN)"/>
+          <h1:Field Type="5504" Value="Person &amp; historisch &amp; Name &amp; männlich"/>
+        </h1:Field>
+        <h1:Field Type="550b" Value="BÜSCHLER, Konrad"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="130066"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Büschler, Konrad"/>
+        <h1:Field Type="1210gi" Value="bildliche Darstellung"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80">
+          <h1:Field Type="1961" Value="S. IV"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="18">
+        <h1:Field Type="5001" Value="90226692,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5500" Value="25 H 21 43">
+          <h1:Field Type="5502" Value="25 H 21 43 * Teich, Tümpel"/>
+          <h1:Field Type="5504" Value="Teich &amp; See"/>
+        </h1:Field>
+        <h1:Field Type="5500" Value="61 E (SCHWÄBISCH HALL)">
+          <h1:Field Type="5502"
+            Value="61 E (SCHWÄBISCH HALL) * Namen von Städten und Dörfern (mit NAMEN)"/>
+          <h1:Field Type="5504" Value="Stadt &amp; Dorf &amp; Name"/>
+        </h1:Field>
+        <h1:Field Type="550e" Value="SCHWÄBISCH HALL"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="129735"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Ansichten"/>
+        <h1:Field Type="1210gi" Value="Schwäbisch Hall"/>
+        <h1:Field Type="1220gi" Value="Sammelteich"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80">
+          <h1:Field Type="1961" Value="S. V"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" FieldsCount="18">
+        <h1:Field Type="5001" Value="90226693,KRZ"/>
+        <h1:Field Type="5230" Value="Registereintrag"/>
+        <h1:Field Type="5500" Value="25 H 21 43">
+          <h1:Field Type="5502" Value="25 H 21 43 * Teich, Tümpel"/>
+          <h1:Field Type="5504" Value="Teich &amp; See"/>
+        </h1:Field>
+        <h1:Field Type="5500" Value="61 E (SCHWÄBISCH HALL)">
+          <h1:Field Type="5502"
+            Value="61 E (SCHWÄBISCH HALL) * Namen von Städten und Dörfern (mit NAMEN)"/>
+          <h1:Field Type="5504" Value="Stadt &amp; Dorf &amp; Name"/>
+        </h1:Field>
+        <h1:Field Type="550e" Value="SCHWÄBISCH HALL"/>
+        <h1:Field Type="8450" Value="Katalogreproduktion">
+          <h1:Field Type="8540" Value="HSK0073_b050"/>
+        </h1:Field>
+        <h1:Field Type="99hs" Value="KRZ-Dokument mit Signaturangabe &amp; Marburg, fertig"/>
+        <h1:Field Type="99kk" Value="Dok publiziert"/>
+        <h1:Field Type="1103" Value="131569"/>
+        <h1:Field Type="1104" Value="HK"/>
+        <h1:Field Type="1105" Value="L:12/11/91"/>
+        <h1:Field Type="1200gi" Value="Schwäbisch Hall"/>
+        <h1:Field Type="1210gi" Value="Sammelteich"/>
+        <h1:Field Type="1220gi" Value="bildliche Darstellung"/>
+        <h1:Field Type="1943" Value="HB"/>
+        <h1:Field Type="1945" Value="HB XV 1-127"/>
+        <h1:Field Type="1903" Value="073"/>
+        <h1:Field Type="1950" Value="HB XV 80">
+          <h1:Field Type="1961" Value="S. V"/>
+        </h1:Field>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+</h1:DocumentSet>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:dcr="http://www.isocat.org/ns/dcr" xmlns:egXML="http://www.tei-c.org/ns/Examples" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title>Kulturobjektdokument von Berlin, Staatsbibliothek zu Berlin, Ms. germ. fol. 1413</title>
+        <respStmt>
+          <resp>Herausgegeben vom</resp>
+          <name type="org">Handschriftenportal</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <name type="org">Handschriftenportal</name>
+          <ptr target="http://www.handschriftenportal.de"/>
+        </publisher>
+        <date when="2021-06-22" type="issued">2021-06-22</date>
+        <distributor>Handschriftenportal</distributor>
+        <availability status="free">
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">
+            <p>Für das Kulturobjektdokument verzichtet das Handschriftenportal auf alle
+              Nutzungsrechte.
+            </p>
+            <p>Für die Nutzung weiterer Daten wie Digitalisaten gelten gegebenenfalls andere
+              Lizenzen. Vgl. die
+              <ref target="http://www.handschriftenportal.de">Copyright
+                Information
+              </ref> des Handschriftenportals.
+            </p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="HSP-9939a66e-bf59-3299-8f28-e468d974fc5b" xml:lang="de" type="hsp:object">
+          <msIdentifier>
+            <settlement key="ee1611b6-1f56-38e7-8c12-b40684dbb395">Berlin</settlement>
+            <repository key="6790851b-9519-3874-a9fd-0839d494a3c9">Staatsbibliothek zu Berlin</repository>
+            <idno>Ms. germ. fol. 1413</idno>
+            <altIdentifier type="alternative">
+              <idno>Ms.germ.fol. 1413</idno>
+            </altIdentifier>
+            <altIdentifier type="alternative">
+              <idno>Germ.fol.1413</idno>
+            </altIdentifier>
+            <altIdentifier type="alternative">
+              <idno>Germ.fol. 1413</idno>
+            </altIdentifier>
+            <altIdentifier type="alternative">
+              <idno>Germ. fol. 1413</idno>
+            </altIdentifier>
+            <altIdentifier type="alternative">
+              <idno>Mgf 1413</idno>
+            </altIdentifier>
+            <altIdentifier type="alternative">
+              <idno>Ms.germ.fol.1413</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <additional>
+            <adminInfo>
+              <availability status="free">
+                <licence target="https://creativecommons.org/publicdomain/zero/1.0/deed.de">
+                  <p>Für das Kulturobjektdokument verzichtet das Handschriftenportal auf alle
+                    Nutzungsrechte.
+                  </p>
+                  <p>Für die Nutzung weiterer Daten wie Digitalisaten gelten gegebenenfalls andere
+                    Lizenzen. Vgl. die
+                    <ref target="http://www.handschriftenportal.de">Copyright
+                      Information
+                    </ref> des Handschriftenportals.
+                  </p>
+                </licence>
+              </availability>
+            </adminInfo>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p/>
+    </body>
+  </text>
+</TEI>

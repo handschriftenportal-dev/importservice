@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xi="http://www.w3.org/2001/XInclude"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/mss/v1.0/cataloguing.xsd"
+     xml:id="HAB_mss_64-weiss_tei-msDesc_Koch"
+     xml:lang="de"
+     version="5.031">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Beschreibung von Cod. Guelf. 64 Weiss. (Dr. K. Koch, Das Wolfenbüttler Palimpsest von Galens Schrift περὶ τῶν ἐν ταῖς τροφαῖς δυνάμεων. Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften. Gesammtsitzung vom 31. Januar. 1907.V., S. 103 - 111.)</title>
+            <respStmt>
+               <resp>Verfasst von / Vorgelegt von</resp>
+               <name>Dr. Konrad Koch, Eisenach</name>
+               <name>Hrn. Diels</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Elektronische Ausgabe nach TEI P5</edition>
+            <respStmt>
+               <resp>TEI-P5 konforme Kodierung durch </resp>
+               <name>Stefanie Gehrke</name>
+               <name type="org">Herzog August Bibliothek</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name type="org">Herzog August Bibliothek</name>
+               <ptr target="http://www.hab.de"/>
+            </publisher>
+            <date when="2009" type="issued">2009</date>
+            <date when="2009" type="digitised">2009</date>
+            <distributor>Herzog August Bibliothek</distributor>
+            <availability status="restricted">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/de/"
+                        notBefore="2013-03-01">
+                  <p>Dieses Dokument steht seit dem 1.März 2013 unter einer Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz (CC BY-SA).</p>
+                  <p>Herzog August Bibliothek Wolfenbüttel (<ref target="http://diglib.hab.de/?link=012">Copyright Information</ref>)</p>
+               </licence>
+            </availability>
+            <pubPlace>
+               <ptr type="purl" target="http://diglib.hab.de/mss/64-weiss/start.htm"/>
+               <ptr type="thumbnailForPresentations"
+                    target="http://diglib.hab.de/mss/64-weiss/thumbs/00554.jpg"/>
+            </pubPlace>
+            <idno type="URN">urn:nbn:de:gbv:23-mss/64-weiss8</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="mss_64-weiss_tei-msDesc_Koch" xml:lang="de">
+               <msIdentifier>
+                  <country>Deutschland</country>
+                  <settlement>Wolfenbüttel</settlement>
+                  <repository>Herzog August Bibliothek</repository>
+                  <collection>Weissenburger Handschriften</collection>
+                  <idno sortKey="wf_hab_weiss-0064">Cod. Guelf. 64 Weiss.</idno>
+               </msIdentifier>
+               <head>
+                  <title>Das Wolfenbüttler Palimpsest von Galens Schrift περὶ τῶν ἐν ταῖς τροφαῖς δυνάμεων</title>
+                  <origDate notBefore="0701" notAfter="0750">VIII. Jh., 1. H. <note>Die Datierung der palimpsestierten Teile s. u.</note>
+                  </origDate>
+                  <origPlace>Bobbio</origPlace>
+               </head>
+               <msContents>
+                  <msItem n="1">
+                     <author>Galen</author>
+                     <textLang mainLang="grc">griechisch</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>
+                           <p>Wie völlig die Schrift zum Teil verblaßt ist, geht schon daraus hervor, daß dem gründliche <persName>Knittel</persName> ein Blatt ganz entgangen ist, <locus>fol. 58</locus>, das darum in den Katalogen nachzutragen ist. Ein weiteres Blatt habe ich nicht gefunden; wo sonst ein Palimpsest in der Handschrift steckt, hat <persName>Tischendorf</persName> eine Probe lesbar gemacht.</p>
+                           <p>die Buchstaben erscheinen meist nur als gelbliche Schatten oder haben auf ihren früheren Stellen als Spur einen gewissen Glanz hinterlassen. Die saubere schwarze Isidorschrift stört freilich fast gar nicht, dagegen ist unter ihren zahlreichen roten Initialen nichts zu erkennen. Einmal, <locus>fol. 124 a</locus>, sind 6 Zeilen anscheinend durch Aufstreichen eines chemischen Mittels ganz verschmiert. Das Pergament ist teilweise so dünn, daß die Buchstaben auf der Rückseite durchscheinen. Speziell die letzten Buchstaben der Zeilen sind oft nicht zu sehen oder nicht zu unterscheiden.</p>
+                           <p>
+                              <material> Das Pergament ist übrigens recht verschieden an Weiße und Dicke; verschiedenlicht hatte es schon bei der ersten Benutzung Löcher, anscheinend auch Knicke. </material>
+                           </p>
+                        </support>
+                        <extent>
+                           <measure type="leavesCount">108</measure>
+                        </extent>
+                        <collation>
+                           <p>Ein zweites Hindernis beim Lesen bot die Anordnung bzw. Unordnung der Blätter: sie sind in 11 Lagen sehr verschiedenen Umfangs an verschiedenen Stellen der Isidorhandschrift von fol. 43 bis 310 eingeheftet und, wie <persName>Knittel</persName> meint, vom zweiten Benutzer durcheinandergemischt ad tegendum velandumque furtum, nimirum ne codex, quem compilaverit, internosceretur. Als Beispiel mögen die ersten 8 Blatt dienen (...). Es handelt sich also um Doppelblätter, deren ursprünglich erste Hälfte vielfach durch Umbiegen zur zweiten geworden ist. Einmal steht ein Doppelblatt in der jetzigen Umgebung auf dem Kopfe, <locus>fol. 84</locus> u. <locus>87</locus>
+                           </p>
+                           <p>Es ergibt sich, daß der ursprüngliche Kodex in Lagen zu je 4 Doppelblättern geheftet war. Und zwar enthielt er auf 16 Quaternionen Buch I und II der Schrift - denn dieser Titel ist jetzt endgültig festgestellt <note>Vgl. <bibl>
+                                    <author>G. Helmreich</author> im <title>Programm von 1905</title>, S. 4f.</bibl> Er wird bestätigt durch die beiden Subscriptiones des Weissenburgensis.</note>. Von Buch III sind nur die Überschriften zu Kapitel 2 - 13 erhalten; die Überschriften waren nämlich jedem Buch nochmal vorangeschickt. Eine andere Schrift scheint unserer im Urkodex vorausgegangen zu sein, da auf die erste Quaternio nur 8 Seiten Text und 1 Seite Überschriften entfallen.</p>
+                           <p>Diese erste Quaternio ist leider nicht im Weissenburgensis; ebenso fehlt ein Doppelblatt aus der 2. und schließlich das äußere Doppelblatt der 8. Quaternio (...) im ganzen etwa 16 Seiten.</p>
+                        </collation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>
+                           <p>auf jeder Seite 2 Spalten von 21 Zeilen, die in Buchstaben- und Silbenzahl sehr schwanken. Nur stehen die Kapitelüberschriften, wenn gerade eine neue Spalte anfängt, gewöhnlich auf dem oberen Rand. Die vorgezeichneten Linien waren nicht sehr deutlich, denn es ist keine Spur davon zu sehen, und in der Spalte rechts gehen die Zeilen oft in die Höhe.</p>
+                           <p>Übrigens ost der erste Buchstabe jeder Seite etwas größer als die andern, und in den beiden Buchunterschriften sind die einzelnen Wörter voneinander getrennt.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Geschrieben war die Handschrift sehr sorgfältig in Unziale, ohne Wortabteilung, Akzente und Spiritus und fast ohne Interpunktion</p>
+                     <p>Die Schrift wird von <persName>Helmreich</persName> in das 5., von <persName>Heinemann</persName> in das 6. Jahrhundert gesetzt. Ich kann mir kein Urteil darüber erlauben, meine nur, der Schreiber ist im übrigen so wenig sorgfältig, daß er eine bequemere Schrift gewiß benutzt hätte, wenn er sie gekannt hätte. (...) Mir selbst machen diese durch Reagentien hervorgerufenen <note>Die blaue Färbung zeigt, daß Giobertische Tinktur (blausaures Eisenkali) verwandt wurde, deren sich <persName>Tischendorf</persName> zu bedienen pflegte.</note> Buchstaben freilich einen anderen Eindruck als die vertrauten gelblichen, bei denen Einzelheiten schlecht zu sehen sind. Aber das Ξ wird offenbar verschieden geschrieben: auf der Probe und sonst mehrfach erscheint es als 
+
+<!-- Sonderzeichen!! -->
+
+; meist erscheint es in der Form 
+
+<!-- Sonderzeichen -->
+
+, zweimal deutlich aber 
+
+<!-- Sonderzeichen wie in Isidortext -->
+
+. Das Μ erscheint in der Probe in Miniaturgröße, meist aber ist es größer und leicht mit ΛΙ
+                        oder ΔΙ zu verwechseln, wie Κ leicht mit Χ und Δ'. Τ erscheint, blau gefärbt, einmal an einer anderen Stelle 
+
+<!-- Sonderzeichen -->
+
+. Als Kuriosum sei erwähnt, daß einmal 
+
+<!-- Sonderzeichen -->
+
+ vorkommt statt Π, einmal Τ und Ϲ verlängert sind (ΡΕΡΟΝΟΤΑ und ΤΗϹ) und einmal ein Schluß-s erscheint statt Ϲ.</p>
+                     <p>Abkürzungen finden sich nur dreierlei, und zwar am Zeilenende oder auf der untersten Zeile: erstens sehr häufig ein Strich auf dem vorhergehenden Vokal für ein Ν (er ist oft nicht zu sehen, oft offenbar vergessen); ferner steht statt ΑΙ die übliche alte Abkürzung ̾, also z. B. Κ̾, ϹΘ̾, Μ̾, Ϲ̾ΤΟ = ΚΑΙ, ϹΘΑΙ, ΜΑΙ, ϹΑΙΤΟ
+                        (ΚΑΙ ist fast nie an solcher Stelle ausgeschrieben); schließlich ist das sonst breite Τ oft mit einem folgenden Buchstaben verbunden, so
+                        ΤΕ oder das ΤΡѠϹ und ΤΟΥ auf der Abbildung, oder es vereinigt sich mit vorhergehendem , z.B. ΝΤΑ, ΝΤΟϹ. Sonst kommt nur dreimal eine Ligatur vor: ΜΕ̅ = ΜΕΝ, ΚΥΑ
+
+<!-- Sonderzeichen -->
+
+Ϲ = ΚΥΑΜΟΥϹ und 
+
+<!-- Sonderzeichen -->
+
+, das wohl ΚΑΤΑ heißen soll, obwohl das -ΤΑ
+                        auf der anderen Zeile noch einmal steht. Um Raum zu gewinnen, verkleinert der Schreiber oft die 2 - 4 letzten Buchstaben einer Zeile und setzt sie dabei einmal hoch, ein andermal tief, z. B.
+                        ΠΟΛΛΟΙ, ϹΚΙΛΛΗϹ und auf der Probe ΜΕΤΡѠϹ und ΠΡΟϹ.</p>
+                     <p>Von Interpunktion bietet die Handschrift Anführungshäkchen, Punkt und Apostroph. Ein &gt; steht neben jeder Zeile eines längeren Zitates auf dem linken Rande; nur in einigen Fällen scheinen sie vergessen zu sein. Zweimal bezeichnet ein Häkchen einen Hinweis auf Vorhergehendes oder Folgendes. Auch den Kapitelschluß hebt, wo keine Überschrift angegeben wird, außer Absatz oder Lücke ein &lt; hervor. Ebenso wird Anfang und Ende eines längeren Zitates durch Freilassen von etwa einer drittel Zeile bezeichnet und durch einen Punkt, gelegentlich einen Doppelpunkt. Doch findet sich mehrfach ein Punkt am Satzende, vereinzelt auch scheinbar willkürlich zwischen Haupt-
+                        und Nebensatz. Irreführenderweise zeigen sich Punkte zwischen oder über Buchstaben eines Wortes oder auf dem Rand, die ich mir nicht anders erklären kann denn als Farbüberbleibsel vom Abwaschen her. Der Apostroph ist gewöhnlich gesetzt, oft aber nicht zu sehen, wenn auch sonst alle Buchstaben deutlich sind.</p>
+                     <p>Auf verschiedene Hände können wir aus Ungleichheiten in den Buchstaben nicht schließen, obwohl Punkte am Satzende sich nur im ersten Teil der Handschrift finden. Auch die wenigen Korrekturen sind von gleicher Hand: (...). Die wenigen erwähnten Ligaturen machen auch ganz den Eindruck von Korrekturen. Schließlich war wohl <locus>fol. 6a</locus>
+                        <!-- Was ist gemeint? fol. 6a Weiss64 enthält kein Galen -->
+
+ eine aus etwa 6 Buchstaben bestehende Glosse Korrektur; sie ist leider nicht zu lesen und auf Seite b nicht undeutlicher als auf a.</p>
+                     <p>Auch Schwankungen in der Orthographie geben keinen Anhalt, verschiedene Schreiber anzunehmen. (...)</p>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Eigenarten in der Schreibung des Weissenburgensis sind wohl in der Regel als echt anzunehmen, wie er z. B. den Namen ΦΥΛΟΤΙΜΟϹ im Gegensatz zur sonstigen Überlieferung, bis auf einmal, richtig mit Υ schreibt. So bietet er ständig ΠΛΕΥΜѠΝ statt ΠΝΕΥΜѠΝ, platonischem Brauch folgend und also wohl galenisch. Ebenso steht es mit dem attischen ΚΡΙΒΑΝΟΝ und ΚΡΙΒΑΝΙΤΗϹ, das der Weissenburgensis allein hat, statt der Formen mit Λ. (...)</p>
+                     <p>Wir sind somit schon auf den Wert des Weissenburgensis als Quelle für die Überlieferung gekommen. Ihr Zustand ist trotz des Alters nicht tadellos. Es haften ihr vielmehr schon alle Fehler unserer Galenüberlieferung an, die <bibl>
+                           <editor> I. von Müller</editor> mit Erstaunen am Archetypus der Schrift <title>de placitis Hippocratis et Platonis</title>
+                        </bibl>, s. X., konstatiert. (...)</p>
+                     <p>Andererseits gewinnt dieser Kodex unser Vertrauen schon durch seine Orthographie und steigert es durch die Genauigkeit des Zitierens: (...).</p>
+                     <p>Ferner stimmt W meistens vortrefflich zu P, dem <ref type="altMs">Codex Parisinus 634</ref>, s. XIV und der indirekten Überlieferung, wie sie die Exzerpte von <persName>Oribasius</persName> und <persName>Simeon Seth</persName> und die Übersetzung von <persName>Wilhelm von Moerbecke</persName> darstellen.</p>
+                     <p>Schließlich dürfte sich W soviel Vertrauen gewonnen haben, daß er auch allein oder mit geringerer Unterstützung Geltung haben darf.</p>
+                     <p>(...) der Quell der Aldina und der Vulgata ist trübe, ziemlich rein aber fließt er in der indirekten Überlieferung und ist so vom Weissenburgensis bis zum Parisinus geblieben.</p>
+                  </origin>
+                  <acquisition>
+                     <p>Von dem letztgenannten Doppelblatt ist anscheinend nur die Hälfte im <ref type="altMs">Cod. Vaticanus latinus 5763</ref> erhalten und von <bibl>
+                           <editor>H.Schoene</editor>, <title>Ein Palimpsestblatt aus Bibbio</title>, Sitzungsber. d. Berl. Akad. d. Wiss. 1902, XXI. <ref>M: Aa 4° 5</ref>
+                        </bibl> herausgegeben.</p>
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Dr. K. Koch, Das Wolfenbüttler Palimpsest von Galens Schrift περὶ τῶν ἐν ταῖς τροφαῖς δυνάμεων.Sitzungsberichte der Königlich Preussischen Akademie der Wissenschaften. Gesammtsitzung vom 31. Januar. 1907.V., S. 103 - 111.</source>
+                     </recordHist>
+                  </adminInfo>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change who="schassan" when="2015-09-07">Normdaten ergänzt oder korrigiert.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text><body><p/></body></text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>minimal TEI</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <msDesc><msIdentifier>
+               <repository>.</repository>
+               <altIdentifier type="corpus">
+                  <idno>MS1</idno>
+               </altIdentifier>
+            </msIdentifier><head>
+               <title/>
+               <note type="headline"/>
+               <index indexName="norm_title">
+                  <term type="title"/>
+               </index>
+               <index indexName="norm_material">
+                  <term type="material"/>
+                  <term type="material_type"/>
+               </index>
+               <index indexName="norm_measure">
+                  <term type="measure">.</term>
+                  <term type="measure_noOfLeaves"/>
+               </index>
+               <index indexName="norm_dimensions">
+                  <term type="dimensions">.</term>
+                  <term type="height"/>
+                  <term type="width"/>
+                  <term type="depth"/>
+                  <term type="dimensions_typeOfInformation"/>
+               </index>
+               <index indexName="norm_format">
+                  <term type="format"/>
+                  <term type="format_typeOfInformation"/>
+               </index>
+               <index indexName="norm_origPlace">
+                  <term type="origPlace"/>
+                  <term type="origPlace_norm"/>
+               </index>
+               <index indexName="norm_origDate">
+                  <term type="origDate"/>
+                  <term type="origDate_notBefore"/>
+                  <term type="origDate_notAfter"/>
+                  <term type="origDate_type"/>
+               </index>
+               <index indexName="norm_textLang">
+                  <term type="textLang"/>
+                  <term type="textLang-ID"/>
+               </index>
+               <index indexName="norm_form">
+                  <term type="form"/>
+               </index>
+               <index indexName="norm_status">
+                  <term type="status"/>
+               </index>
+               <index indexName="norm_decoration">
+                  <term type="decoration"/>
+               </index>
+               <index indexName="norm_musicNotation">
+                  <term type="musicNotation"/>
+               </index>
+            </head><physDesc>
+               <p/>
+               <decoDesc>
+                  <decoNote type="form"/>
+               </decoDesc>
+            </physDesc><history>
+               <p/>
+            </history><additional/><msContents>
+               <textLang mainLang=""/>
+               <msItem>
+                  <note type="text"/>
+               </msItem>
+            </msContents></msDesc>
+      </body>
+  </text>
+</TEI>

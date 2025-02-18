@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<h1:DocumentSet xmlns:h1="http://www.startext.de/HiDA/DefService/XMLSchema">
+  <h1:ContentInfo>
+    <h1:Format>HIDA-DOC1-XML</h1:Format>
+    <h1:CreationDate>30.04.2019 11:21:45:520</h1:CreationDate>
+  </h1:ContentInfo>
+  <h1:Document DocKey="obj     31275198" FieldsCount="129">
+    <h1:Block Type="obj" CreationDate="20.02.2007 13:59:35" CreatorID="jg"
+      ChangeDate="29.10.2015 10:41:05" ChangerID="jg" OwnerID="jg" FieldsCount="25">
+      <h1:Field Type="5000" Value="31275198"/>
+      <h1:Field Type="par01"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://bezsoz[0].4650/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 S 73}}}"/>
+      <h1:Field Type="par02"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red224\green224\blue224&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://5209/&quot;}{\fldrslt \plain \f0\b\fs22\chcbpat17 Commentarius in Elementa Euclidis secundum versionem Roberti Castrensis}}}"/>
+      <h1:Field Type="par03"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 Pergament \u183 \'b7 II + 88 + II Blatt \u183 \'b7 24 \u215 \'d7 17 \u183 \'b7 {\field{\*\fldinst HYPERLINK &quot;hida://5130[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Paris}}\plain \f0\fs22  \u183 \'b7 {\field{\*\fldinst HYPERLINK &quot;hida://5060[0].5064/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 1220/1240}}}"/>
+      <h1:Field Type="par04"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 [TE]. - 11 IV\plain \f0\super\fs28 88\plain \f0\fs22 . Lagensignaturen. Reklamanten. Zeitgen\u246 \'f6ssische, rot-blau alternierende Buchz\u228 \'e4hlung am Kopfsteg (Stil Nordfrankreich bzw. Paris) \u183 \'b7 17,5 \u215 \'d7 10,5 \u183 \'b7 38 Z. \u183 \'b7 {\field{\*\fldinst HYPERLINK &quot;hida://5704[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Gotische Minuskel}}\plain \f0\fs22 , eine Hand (Text in gr\u246 \'f6\u223 \'dferem Schriftgrad hervorgehoben) \u183 \'b7 Rote und blaue Rubrizierung&#x3b; zahlreiche {\field{\*\fldinst HYPERLINK &quot;hida://5270[2]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Lombarden mit Palmettenfleuronn\u233 \'e9e, teilweise auch mit Randst\u228 \'e4ben}}\plain \f0\fs22  (Stil Paris, 1220/1230, vgl. Stirnemann, Fils de la vierge, 1990, S. 66 (Nr. 24)) \u183 \'b7 17 blaue, mauvefarbige und goldene {\field{\*\fldinst HYPERLINK &quot;hida://5270[0]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Feldinitialen mit Palmettenfleuronn\u233 \'e9e und Randst\u228 \'e4ben}}\plain \f0\fs22  (1\plain \f0\super\fs28 r\plain \f0\fs22 . 14\plain \f0\super\fs28 v\plain \f0\fs22 . 20\plain \f0\super\fs28 v\plain \f0\fs22 . 28\plain \f0\super\fs28 v\plain \f0\fs22 . 31\plain \f0\super\fs28 r\plain \f0\fs22 . 35\plain \f0\super\fs28 v\plain \f0\fs22 . 41\plain \f0\super\fs28 r\plain \f0\fs22 . 42\plain \f0\super\fs28 r\plain \f0\fs22 . 46\plain \f0\super\fs28 r\plain \f0\fs22 . 49\plain \f0\super\fs28 r\plain \f0\fs22 . 53\plain \f0\super\fs28 r\plain \f0\fs22 . 66\plain \f0\super\fs28 v\plain \f0\fs22 . 74\plain \f0\super\fs28 v\plain \f0\fs22 . 78\plain \f0\super\fs28 r\plain \f0\fs22 . 83\plain \f0\super\fs28 r\plain \f0\fs22 . 85\plain \f0\super\fs28 v\plain \f0\fs22 . 86\plain \f0\super\fs28 v\plain \f0\fs22 &#x3b; Stil {\field{\*\fldinst HYPERLINK &quot;hida://bezsoz[1].4600/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Paris, Douce-Werkstatt}}\plain \f0\fs22 , um 1240, vgl. {\field{\*\fldinst HYPERLINK &quot;hida://bezlit[4].8330/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Branner, Manuscript Painting, 1977}}\plain \f0\fs22 , S. 107-120&#x3b; Abb. 301) \u183 \'b7 Zahlreiche {\field{\*\fldinst HYPERLINK &quot;hida://5270[1]/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Schemata}}\plain \f0\fs22 .}"/>
+      <h1:Field Type="par05"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}{\f1\fnil\fcharset0 Times New Roman&#x3b;}{\f2\fnil\fcharset0 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 Nach Schrift und Buchschmuck um 1220/40 in Paris entstanden. Aus unbekanntem Vorbesitz zwischen 1655 und 1691 in die {\field{\*\fldinst HYPERLINK &quot;hida://bezsoz[2].4600/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Alte Universit\u228 \'e4tsbibliothek Duisburg}}\plain \f0\fs22  (Brandstempel&#x3b; Mastricht, Cat. Duisb. 1685, S. 35 (U 35)&#x3b; Mascamp, Cat. Duisb. 1717, S. 98 (Nr. 7)\plain \f2\lang1033\fs22 &#x3b; Grimm, Cat. Duisb. IV, 60\plain \f2\super\lang1033\fs28 v\plain \f2\lang1033\fs22  (Nr. 3)\plain \f0\fs22 ) und von dort 1818 in die Universit\u228 \'e4tsbibliothek Bonn gekommen (Index mss. Bonn 1846, S. 3).}"/>
+      <h1:Field Type="par06"
+        Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}{\f1\fnil\fcharset0 Times New Roman&#x3b;}{\f2\fnil\fcharset0 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 {\field{\*\fldinst HYPERLINK &quot;hida://bezlit[0].8330/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Handschriftenzensus Rheinland, 1993}}\plain \f0\fs22 , Nr. 108. - {\field{\*\fldinst HYPERLINK &quot;hida://bezlit[1].8330/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Fligge, Best\u228 \'e4nde Duisburg}}\plain \f0\fs22 , S. 190 (Nr. 1). \endash  Fischer, s.v. 'S 73'. - Becker, S. [7]. - {\field{\*\fldinst HYPERLINK &quot;hida://bezlit[2].8330/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Rheinische Handschriften Bonn}}\plain \f0\fs22 , S. 12. - {\field{\*\fldinst HYPERLINK &quot;hida://bezlit[3].8330/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 Klette/St\u228 \'e4nder}}\plain \f0\fs22 , Nr. 73.}"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Bonn"/>
+        <h1:Field Type="4600" Value="Universitäts- und Landesbibliothek Bonn"/>
+        <h1:Field Type="4500" Value="31275073"/>
+        <h1:Field Type="4650" Value="S 73"/>
+        <h1:Field Type="4652" Value="S 6"/>
+        <h1:Field Type="4996" Value="seit 1818"/>
+      </h1:Field>
+      <h1:Field Type="bezsoz" Value="Herstellung">
+        <h1:Field Type="4564" Value="Paris"/>
+        <h1:Field Type="4600" Value="Douce-Werkstatt Paris"/>
+        <h1:Field Type="4500" Value="31275177"/>
+        <h1:Field Type="4970" Value="ähnlich"/>
+      </h1:Field>
+      <h1:Field Type="bezsoz" Value="Vorbesitz">
+        <h1:Field Type="4564" Value="Duisburg"/>
+        <h1:Field Type="4600" Value="Alte Universitätsbibliothek Duisburg"/>
+        <h1:Field Type="4500" Value="31275076"/>
+        <h1:Field Type="4650" Value="U 35"/>
+        <h1:Field Type="4996" Value="1655/1685-1818"/>
+      </h1:Field>
+      <h1:Field Type="5209"
+        Value="Commentarius in Elementa Euclidis secundum versionem Roberti Castrensis"/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="5060" Value="Stilbefund">
+        <h1:Field Type="5064" Value="1220/1240"/>
+      </h1:Field>
+      <h1:Field Type="5130" Value="Paris"/>
+      <h1:Field Type="5270" Value="Fleuronnée-Initialen mit Randstäben"/>
+      <h1:Field Type="5270" Value="Schemata"/>
+      <h1:Field Type="5270" Value="Fleuronnée-Lombarden"/>
+      <h1:Field Type="5704" Value="Minuskel, gotische"/>
+      <h1:Field Type="5710" Value="lateinisch"/>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="Handschriftenzensus Rheinland"/>
+        <h1:Field Type="8334" Value="Nr. 108"/>
+      </h1:Field>
+      <h1:Field Type="bezlit" Value="Sekundärliteratur">
+        <h1:Field Type="8330" Value="Fligge, Bestände Duisburg"/>
+        <h1:Field Type="8334" Value="S. 190 (Nr. 1)"/>
+      </h1:Field>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="Fligge, Bestände Duisburg"/>
+        <h1:Field Type="8334" Value="S. 12"/>
+      </h1:Field>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="Klette/Ständer"/>
+        <h1:Field Type="8334" Value="Nr. 73"/>
+      </h1:Field>
+      <h1:Field Type="bezlit" Value="Sekundärliteratur">
+        <h1:Field Type="8330" Value="Branner, Manuscript Painting, 1977"/>
+        <h1:Field Type="8334" Value="S. 107-120&#x3b; Abb. 301"/>
+      </h1:Field>
+      <h1:Field Type="9904" Value="mailto:juergen.geiss@sbb.spk-berlin.de"/>
+      <h1:Block Type="t2" CreationDate="21.09.2009 11:27:51:737"
+        ChangeDate="21.09.2009 11:27:51:737">
+        <h1:Field Type="par07"
+          Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 Pergamentkopert mit Stehkanten, Duisburg (?), 17. Jh.&#x3b; auf BR hs Signatur \plain \f0\i\fs22 U 35\plain \f0\fs22  (ersetzt durch Replik, Bonn, 1986)&#x3b; Ober- und Unterschnitt mit Brandstempel \plain \f0\i\fs22 ACAD[EMIAE] DUISB[URGENSIS]\plain \f0\fs22 , 1655/1685&#x3b; Bll 87-88 Pergament (sekund\u228 \'e4r zugesetzt)&#x3b; Vor- und Nachsatz Papier, 17. Jh.}"/>
+        <h1:Field Type="5001" Value="31276483"/>
+        <h1:Field Type="5230" Value="Einband"/>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_vd"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_rd"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_oberschnitt"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2" CreationDate="21.09.2009 11:28:31:705"
+        ChangeDate="21.09.2009 11:28:31:705" FieldsCount="35">
+        <h1:Field Type="par11"
+          Value="{\rtf1\ansi\ansicpg0\uc1\deff0\deflang0\deflangfe0{\fonttbl{\f0\fnil\fcharset1 Arial&#x3b;}}{\colortbl&#x3b;\red0\green0\blue0&#x3b;\red0\green0\blue255&#x3b;\red0\green255\blue255&#x3b;\red0\green255\blue0&#x3b;\red255\green0\blue255&#x3b;\red255\green0\blue0&#x3b;\red255\green255\blue0&#x3b;\red255\green255\blue255&#x3b;\red0\green0\blue128&#x3b;\red0\green128\blue128&#x3b;\red0\green128\blue0&#x3b;\red128\green0\blue128&#x3b;\red128\green0\blue0&#x3b;\red128\green128\blue0&#x3b;\red128\green128\blue128&#x3b;\red192\green192\blue192&#x3b;\red204\green238\blue221&#x3b;}&#x0d;&#x0a;&#x0d;&#x0a;\uc1&#x0d;&#x0a;\pard\fi0\li0\ql\ri0\sb0\sa0\itap0 \plain \f0\fs22 1\plain \f0\super\fs28 r\plain \f0\fs22 -86\plain \f0\super\fs28 v\plain \f0\fs22  \plain \f0\scaps\fs22 [{\field{\*\fldinst HYPERLINK &quot;hida://bezwrk[0].6930/?u&quot;}{\fldrslt \plain \f0\scaps\fs22\chcbpat17 Commentarius in Elementa] Euclidis [secundum versionem Roberti Castrensis}}\plain \f0\scaps\fs22 ]\plain \f0\fs22 . {\field{\*\fldinst HYPERLINK &quot;hida://5650[0].5666l/?u&quot;}{\fldrslt \plain \f0\i\fs22\chcbpat17 Punctus est cui non est pars. Linea est longitudo sine latitudine}}\plain \f0\i\fs22  ... - \plain \f0\fs22 (86\plain \f0\super\fs28 r\plain \f0\fs22 )\plain \f0\i\fs22  ... qui totus est in una superficie. Idem intelligatur de aliis. A\plain \f0\fs22 uf 86\plain \f0\super\fs28 v\plain \f0\fs22  Text gestrichen und radiert&#x3b; mit Quarzlampe nur Initiale \plain \f0\i\fs22 C\plain \f0\fs22  und Lombarde \plain \f0\i\fs22 Q\plain \f0\fs22  lesbar. Ed.: Hubert L. L. Busard: A Thirteenth-Century Adaption of Robert of Chester's Version of Euclid's 'Elements', 2 Bd.e. M\u252 \'fcnchen 1996 (Algorismus 17), Bd. 1, S. 45-395. Zu Werk und \u220 \'dcberlieferung vgl. ebd., S. 1-44 (Hs mit Sigle B auf S. 32 genannt). (e). 86\plain \f0\super\fs28 r\plain \f0\fs22  Zeitgen\u246 \'f6ssische Nota de artibus liberalibus: {\field{\*\fldinst HYPERLINK &quot;hida://5650[1].5666l/?u&quot;}{\fldrslt \plain \f0\i\fs22\chcbpat17 Habet gramatica }}{\field{\*\fldinst HYPERLINK &quot;hida://5650[1].5666l/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 (!) }}{\field{\*\fldinst HYPERLINK &quot;hida://5650[1].5666l/?u&quot;}{\fldrslt \plain \f0\i\fs22\chcbpat17 regulas, dialethica }}{\field{\*\fldinst HYPERLINK &quot;hida://5650[1].5666l/?u&quot;}{\fldrslt \plain \f0\fs22\chcbpat17 (!) }}{\field{\*\fldinst HYPERLINK &quot;hida://5650[1].5666l/?u&quot;}{\fldrslt \plain \f0\i\fs22\chcbpat17 maximas}}\plain \f0\i\fs22  ...\plain \f0\fs22  Am Rand sowie auch vereinzelt zwischen den Zeilen Glossen und Erg\u228 \'e4nzungen von Schreiberhand sowie einer weiteren zeitgen\u246 \'f6ssischen Hand. 87\plain \f0\super\fs28 r\plain \f0\fs22 -88\plain \f0\super\fs28 v\plain \f0\fs22  leer.}"/>
+        <h1:Field Type="5001" Value="31276484"/>
+        <h1:Field Type="bezper" Value="Rezeption">
+          <h1:Field Type="4100" Value="Euclides"/>
+          <h1:Field Type="z001" Value="100131611"/>
+        </h1:Field>
+        <h1:Field Type="bezper" Value="Übersetzung &amp; Rezeption">
+          <h1:Field Type="4100" Value="Robertus &lt;Castrensis&gt;"/>
+          <h1:Field Type="z001" Value="100959849"/>
+        </h1:Field>
+        <h1:Field Type="4665" Value="1recto-86verso"/>
+        <h1:Field Type="5230" Value="Text"/>
+        <h1:Field Type="5710" Value="lateinisch"/>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6930gi"
+            Value="Commentarius in Elementa Euclidis secundum Robertum de Chester"/>
+        </h1:Field>
+        <h1:Field Type="5650" Value="Initium">
+          <h1:Field Type="5666l"
+            Value="Punctus est cui non est pars. Linea est longitudo sine latitudine"/>
+          <h1:Field Type="5694" Value="1recto"/>
+        </h1:Field>
+        <h1:Field Type="5650" Value="Initium">
+          <h1:Field Type="5666l" Value="Habet grammatica regulas, dialectica maximas"/>
+          <h1:Field Type="5694" Value="86recto"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_1r"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_3v_d"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_11v_d"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_13v_d"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_14v_d"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_17r"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_20v"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_22v"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_24v_d"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_26r"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_27r_d"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_28v"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_31r"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_35v_d"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_41r_d"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_41v_d"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_42r"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_46r"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_49r_d"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_53r_d"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_66v_d"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_74v_d"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_85v"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_86r"/>
+        </h1:Field>
+        <h1:Field Type="8450" Value="digitale Reproduktion">
+          <h1:Field Type="8540" Value="hs_bn_ulb_s0073_86v"/>
+        </h1:Field>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+</h1:DocumentSet>

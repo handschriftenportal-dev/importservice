@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liste der zu importierenden Orte für KOD-Erstellung</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPlace>
+                <place>
+                    <country>Deutschland</country>
+                    <region>Niedersachsen</region>
+                    <placeName type="default">Wolfenbüttel</placeName>
+                    <placeName type="alternative">Guelpherbytum</placeName>
+                    <placeName type="alternative">Guelpherbyti</placeName>
+                    <placeName type="alternative">Wolffenbüttel</placeName>
+                    <idno xml:id="gnd_4066832-0">http://d-nb.info/gnd/4066832-0</idno>
+					<idno xml:id="geonames_6557395">http://www.geonames.org/6557395</idno>
+                    <idno xml:id="getty_7005253">http://vocab.getty.edu/tgn/7005253</idno>
+                </place>
+                <place>
+                    <country>Deutschland</country>
+                    <region>Sachsen</region>
+                    <placeName type="default">Leipzig</placeName>
+                    <placeName type="alternative">Leipsic</placeName>
+                    <placeName type="alternative">Lipsk</placeName>
+                    <placeName type="alternative">Lipsia</placeName>
+                    <placeName xml:lang="it">Lipsia</placeName>
+                    <idno xml:id="gnd_4035206-7">http://d-nb.info/gnd/4035206-7</idno>
+					<idno xml:id="geonames_6548737">http://www.geonames.org/6548737</idno>
+                    <idno xml:id="getty_">http://vocab.getty.edu/tgn/7012329</idno>
+                </place>
+                <place>
+                    <country>Deutschland</country>
+                    <region>Bayern</region>
+                    <placeName type="default">München</placeName>
+                    <placeName type="alternative">Monachum</placeName>
+                    <placeName type="alternative">Monachium</placeName>
+                    <placeName type="alternative">Monacum</placeName>
+                    <placeName xml:lang="it">Monaco</placeName>
+                    <placeName xml:lang="en">Munich</placeName>
+                    <placeName xml:lang="fr">Munich</placeName>
+                    <idno xml:id="gnd_4127793-4">http://d-nb.info/gnd/4127793-4</idno>
+					<idno xml:id="geonames_6559171">http://www.geonames.org/6559171</idno>
+                    <idno xml:id="getty_7004333">http://vocab.getty.edu/tgn/7004333</idno>
+                </place>
+                <place>
+                    <country>Deutschland</country>
+                    <region>Berlin</region>
+                    <placeName type="default">Berlin</placeName>
+                    <placeName xml:lang="it">Berlino</placeName>
+                    <placeName xml:lang="nl">Berlijn</placeName>
+                    <idno xml:id="gnd_4005728-8">http://d-nb.info/gnd/4005728-8</idno>
+					<idno xml:id="geonames_6547539">http://www.geonames.org/6547539</idno>
+                    <idno xml:id="getty_7003712">http://vocab.getty.edu/tgn/7003712</idno>
+                </place>
+            </listPlace>
+        </body> 
+    </text>
+</TEI>

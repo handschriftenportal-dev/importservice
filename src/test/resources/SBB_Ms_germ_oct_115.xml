@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<h1:DocumentSet xmlns:h1="http://www.startext.de/HiDA/DefService/XMLSchema">
+  <h1:ContentInfo>
+    <h1:Format>HIDA-DOC1-XML</h1:Format>
+    <h1:CreationDate>16.01.2017 14:57:52:630</h1:CreationDate>
+  </h1:ContentInfo>
+  <h1:Document DocKey="obj     31253152,T" FieldsCount="97">
+    <h1:Block Type="obj" CreationDate="23.06.2010 12:25:19" CreatorID="Admin" ChangeDate="16.06.2014 14:32:31" ChangerID="Admin" OwnerID="abr" FieldsCount="24">
+      <h1:OwnerHistory>
+        <h1:OwnerHistoryItem OwnerID="Admin" Start="23.06.2010 12:25:19" End="13.06.2014 10:14:55:388"/>
+        <h1:OwnerHistoryItem OwnerID="abr" Start="13.06.2014 10:14:55:388"/>
+      </h1:OwnerHistory>
+      <h1:Field Type="5000" Value="31253152,T"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Berlin"/>
+        <h1:Field Type="4600" Value="Staatsbibliothek zu Berlin - Preußischer Kulturbesitz"/>
+        <h1:Field Type="4650" Value="Ms. germ. oct. 115"/>
+        <h1:Field Type="4656" Value="acc. ms. 794"/>
+        <h1:Field Type="4996" Value="seit 1836"/>
+      </h1:Field>
+      <h1:Field Type="4643" Value="Ms. germ."/>
+      <h1:Field Type="4645" Value="Ms. germ. oct. 0001-0200"/>
+      <h1:Field Type="bezper" Value="Vorbesitz">
+        <h1:Field Type="4100gi" Value="I. R. /&#x0d;&#x0a;R., I."/>
+        <h1:Field Type="4498" Value="Eintragung Vorsatzblatt verso."/>
+      </h1:Field>
+      <h1:Field Type="bezper" Value="Vorbesitz">
+        <h1:Field Type="4000" Value="31250008"/>
+        <h1:Field Type="4100" Value="Nagler, Carl Ferdinand Friedrich von"/>
+        <h1:Field Type="z001" Value="116880481"/>
+        <h1:Field Type="4496" Value="1836"/>
+      </h1:Field>
+      <h1:Field Type="5209" Value="Andachtsbuch"/>
+      <h1:Field Type="5230" Value="Handschrift"/>
+      <h1:Field Type="5060" Value="Datierung">
+        <h1:Field Type="5064" Value="1501/1600"/>
+        <h1:Field Type="5071" Value="1501"/>
+        <h1:Field Type="5077" Value="1600"/>
+      </h1:Field>
+      <h1:Field Type="5260" Value="Pergament"/>
+      <h1:Field Type="5706" Value="32 Blatt"/>
+      <h1:Field Type="599a" Value="INITIALEN">
+        <h1:Field Type="599e" Value="Farbige Initiale und Randleiste, Zierschrift."/>
+      </h1:Field>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="Berliner Dienstkataloge"/>
+        <h1:Field Type="8334" Value="Bd. 10,3"/>
+      </h1:Field>
+      <h1:Field Type="bezlit" Value="Repertoriumseintrag">
+        <h1:Field Type="8330" Value="Wilken, Index, 1836-1840"/>
+        <h1:Field Type="8334" Value="1836, Nr. 137"/>
+      </h1:Field>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="B SB germ. Hss."/>
+        <h1:Field Type="8334" Value="Bd. 3, S. 49"/>
+      </h1:Field>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="Wegener, Beschr. Verz. Preuß. SB Berlin, um 1940"/>
+        <h1:Field Type="8334" Value="S. 4"/>
+      </h1:Field>
+      <h1:Field Type="bezlit" Value="Sekundärliteratur">
+        <h1:Field Type="8330" Value="Adam, Katechetische Vaterunserauslegungen, 1976"/>
+        <h1:Field Type="8334" Value="S. 158"/>
+      </h1:Field>
+      <h1:Field Type="8265" Value="DEGERING, Hermann: Kurzes Verzeichnis der germanischen Handschriften der Preussischen Staatsbibliothek. III. Die Handschriften in Oktavformat und Register zu Band I-III. Leipzig 1932."/>
+      <h1:Field Type="8450" Value="Katalogreproduktion">
+        <h1:Field Type="8540" Value="HSK0603c_b049"/>
+      </h1:Field>
+      <h1:Field Type="99sb" Value="- noch fehlt: Bd.kat. &amp;&#x0d;&#x0a;Degering &amp;&#x0d;&#x0a;Inventar BM (nt. enth.) &amp;&#x0d;&#x0a;Inventar PB (nt. enth.) &amp;&#x0d;&#x0a;Inventar EZ (nt. enth.) &amp;&#x0d;&#x0a;Druckschriftenverzeichnis (nt. enth.) &amp;&#x0d;&#x0a;Dokumentation &amp;&#x0d;&#x0a;Prov.kat."/>
+      <h1:Field Type="9900" Value="2007.08.20"/>
+      <h1:Field Type="9902" Value="SBB-PK"/>
+      <h1:Field Type="9904" Value="Riecke, Anne-Beate"/>
+      <h1:Field Type="1903" Value="603"/>
+      <h1:Block Type="t2">
+        <h1:Field Type="5001" Value="31253152,T,001"/>
+        <h1:Field Type="5230" Value="Text"/>
+        <h1:Field Type="5710" Value="deutsch"/>
+        <h1:Field Type="599a" Value="AUTOR/SACHTITEL">
+          <h1:Field Type="599e" Value="Andacht im Anschluss an das Vaterunser"/>
+        </h1:Field>
+        <h1:Field Type="bezwrk" Value="Erwähnung">
+          <h1:Field Type="6930gi" Value="Pater noster"/>
+        </h1:Field>
+        <h1:Field Type="5650" Value="Incipit">
+          <h1:Field Type="5686" Value="Vater vnser hoch in der schopffung. O wie gros ist got vnser&#x0d;&#x0a;herr"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2">
+        <h1:Field Type="5001" Value="31253152,T,002"/>
+        <h1:Field Type="4665" Value="21recto"/>
+        <h1:Field Type="5230" Value="Text"/>
+        <h1:Field Type="5710" Value="deutsch"/>
+        <h1:Field Type="599a" Value="AUTOR/SACHTITEL">
+          <h1:Field Type="599e" Value="Psalm 33, 102, 112, 26, 110 und 111, dt."/>
+        </h1:Field>
+        <h1:Field Type="bezwrk" Value="Exzerpt">
+          <h1:Field Type="6900" Value="30000241"/>
+          <h1:Field Type="6930" Value="Psalmi"/>
+          <h1:Field Type="6996" Value="deutsche Übersetzung"/>
+          <h1:Field Type="6998" Value="Ps 33. 102. 112. 26. 110. 111"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2">
+        <h1:Field Type="5001" Value="31253152,T,003"/>
+        <h1:Field Type="4665" Value="29verso"/>
+        <h1:Field Type="5230" Value="Text"/>
+        <h1:Field Type="5710" Value="deutsch"/>
+        <h1:Field Type="599a" Value="AUTOR/SACHTITEL">
+          <h1:Field Type="599e" Value="Magnificat, dt."/>
+        </h1:Field>
+        <h1:Field Type="599a" Value="TEXTAUTOPSIE">
+          <h1:Field Type="599e" Value="^^Der Lobgesang Marie. [Magnificat dt.].^^"/>
+        </h1:Field>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6930gi" Value="Magnificat"/>
+          <h1:Field Type="6996" Value="deutsche Versübersetzung"/>
+        </h1:Field>
+      </h1:Block>
+      <h1:Block Type="t2">
+        <h1:Field Type="5001" Value="31253152,T,004"/>
+        <h1:Field Type="4665" Value="30verso-32verso"/>
+        <h1:Field Type="5230" Value="Text"/>
+        <h1:Field Type="5710" Value="deutsch"/>
+        <h1:Field Type="599a" Value="AUTOR/SACHTITEL">
+          <h1:Field Type="599e" Value="Tedeum, dt."/>
+        </h1:Field>
+        <h1:Field Type="bezwrk" Value="Abschrift">
+          <h1:Field Type="6900" Value="30000564"/>
+          <h1:Field Type="6930" Value="Tedeum"/>
+          <h1:Field Type="6996" Value="deutsche Übersetzung in Prosa"/>
+        </h1:Field>
+        <h1:Field Type="bezlit" Value="Repertoriumseintrag">
+          <h1:Field Type="8330" Value="Chevalier"/>
+          <h1:Field Type="8334" Value="Nr. 20086"/>
+        </h1:Field>
+        <h1:Field Type="bezlit" Value="Lexikonartikel">
+          <h1:Field Type="8330" Value="VL (2)"/>
+          <h1:Field Type="8334" Value="Bd. 11, 2004, Sp. 1489-1495 (II. von Nicola Zotz), Sp. 1493&#x0d;&#x0a;(II.D.4)"/>
+        </h1:Field>
+      </h1:Block>
+    </h1:Block>
+  </h1:Document>
+</h1:DocumentSet>

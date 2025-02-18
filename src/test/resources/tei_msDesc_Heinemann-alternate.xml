@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://diglib.hab.de/rules/schema/mss/v1.0/cataloguing.xsd"
+     version="5"
+     xml:lang="de"
+     xml:id="HAB_mss_9-8-aug-4f_tei-msDesc_Heinemann">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Beschreibung von Cod. Guelf. 9.8 Aug. 4° (Heinemann-Nr. 2989; Otto v. Heinemann: Die Augusteischen Handschriften 4. Cod. Guelf. 77.4 Aug. 2° — 34 Aug. 4°. Frankfurt/M.: Klostermann, 1966 (Nachdruck d. Ausg. 1900). S. 146 – 147. )</title>
+            <respStmt>
+               <resp>Beschrieben von </resp>
+               <name type="person">Otto v. Heinemann</name>
+            </respStmt>
+            <funder>co-funded by the <orgName>European Union</orgName> under the <ref target="http://cordis.europa.eu/fp7/ict/home_en.html">Seventh Framework Programme</ref>
+               <ref target="http://ec.europa.eu/information_society/apps/projects/index.cfm?obj_id=CIP-ICT-PSP.2009.2.3">(CIP-ICT-PSP.2009.2.3)</ref>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Elektronische Ausgabe nach TEI P5</edition>
+            <respStmt>
+               <resp>OCR durchgeführt durch </resp>
+               <name type="org">Bayerische Staatsbibliothek</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-P5 konforme Kodierung durch </resp>
+               <name type="person">Torsten Schaßan</name>
+               <name type="person">Stefanie Gehrke</name>
+               <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <name type="org">Herzog August Bibliothek Wolfenbüttel</name>
+               <ptr target="http://www.hab.de"/>
+            </publisher>
+            <date when="2010-10-05" type="issued">05.10.2010</date>
+            <date when="2011-04-01" type="digitised">01.04.2011</date>
+            <distributor>Herzog August Bibliothek</distributor>
+            <availability status="restricted">
+               <licence target="http://creativecommons.org/licenses/by-sa/3.0/de/"
+                        notBefore="2013-03-01">
+                  <p>Dieses Dokument steht seit dem 1.März 2013 unter einer Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz (CC BY-SA).</p>
+                  <p>Herzog August Bibliothek Wolfenbüttel (<ref target="http://diglib.hab.de/?link=012">Copyright Information</ref>)</p>
+               </licence>
+            </availability>
+            <pubPlace>
+               <ptr type="purl" target="http://diglib.hab.de/mss/9-8-aug-4f/start.htm"/>
+               <ptr type="thumbnailForPresentations"
+                    target="http://diglib.hab.de/mss/9-8-aug-4f/thumbs/00001.jpg"/>
+            </pubPlace>
+            <idno type="URN">urn:nbn:de:gbv:23-mss/9-8-aug-4f5</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <p>OCR generierter Text, TEI-Rohkodierung durch die BSB, Konversion nach TEI-P5 durch Torsten Schaßan. Redaktion durch Stefanie Gehrke.</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Transformed in the scope of the project <name type="project">Europeana regia <name type="project" subtype="collection">Bibliotheca Carolina</name>
+               </name>.</p>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="schassan" when="2015-09-07">Normdaten ergänzt bzw. korrigiert.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <msDesc xml:id="mss_9-8-aug-4f_tei-msDesc_Heinemann" xml:lang="de">
+            <msIdentifier>
+               <settlement>Wolfenbüttel</settlement>
+               <repository>Herzog August Bibliothek</repository>
+               <collection>Augusteer Handschriften, kleinere Formate</collection>
+               <idno sortKey="wf_hab_aug-04f-0009-0008">Cod. Guelf. 9.8 Aug. 4°</idno>
+               <altIdentifier type="alternative">
+                  <idno>Cod. Guelf. 9. 8. Aug. 4to.</idno>
+               </altIdentifier>
+               <altIdentifier type="catalog">
+                  <collection>Heinemann-Nr.</collection>
+                  <idno sortKey="heinemann-2989">2989</idno>
+               </altIdentifier>
+            </msIdentifier>
+            <head>              
+               <origDate notBefore="0701" notAfter="0900">8.–9. Jahrh.</origDate>
+            </head>
+			<msPart>
+			   <head>
+                  <title type="general" xml:lang="lat">Notae Senecae, i. e. Lexicon notarum Tironiarum</title>               
+               </head>
+			</msPart>
+            <msContents>
+               <textLang mainLang="lat"/>
+               <msItem>
+                  <note>
+                     <p>
+                        <locus from="1r">f. 1</locus> steht in <term type="script">Kapitalschrift</term>:</p>
+                  </note>
+                  <incipit xml:lang="lat">In Christi nomine incipiunt notae Senecae.</incipit>
+                  <note>
+                     <p>Dann beginnen auf derselben die <term>Noten</term> mit den Zeichen für <quote>Ab</quote>, <quote>Ad</quote>, <quote>Con</quote>, und ihre Erklärungen. — <term>Schlussschrift</term> (in Kapitalbuchstaben):</p>
+                  </note>
+                  <explicit>Expliciunt notae Senecae Deo Gratias. AMHN.</explicit>
+               </msItem>
+            </msContents>
+            <physDesc>
+               <objectDesc form="codex">
+                  <supportDesc material="perg">
+                     <support>                      
+                        <material>Pergam.</material>                       
+                     </support>
+                     <extent>
+                        <measure type="leavesCount">Bl. 98</measure>
+                        <dimensions type="leaf" unit="cm">
+                           <height>24</height>
+                           <width>15,5</width>
+                        </dimensions>
+                     </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout columns="3">
+                        <p>
+                           <measure type="columnsCount">dreispaltig</measure>
+                        </p>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <p>Anscheinend von zwei verschiedenen Händen, von denen die eine von <locus from="1v" to="69r">f. 1–69</locus>, die andere von <locus from="70r" to="98v">f. 70–98′</locus> reicht.</p>
+               </handDesc>
+               <additions>
+                  <p>
+                     <locus from="99v">f. 99′</locus> ein Verzeichniss der ägyptischen Tage in Tironischer Schrift, worüber zu vergleichen <bibl xml:id="opac_138143749">W. Schmitz, Beiträge zur lateinischen Sprache und Literaturkunde, S. 187 und 188.</bibl> Auf demselben hinteren Schmutzblatt (<locus from="99r">f. 99</locus>) findet sich Folgendes von einer Hand des <date>10. Jahrhunderts</date>: <quote xml:lang="lat">Hec infra camera soient fieri: cuppos argenteos, cuppos aureos, scutellas <note place="foot" n="*">An diesen Stellen tironische Noten.</note>, furcas<note place="foot" n="*">An diesen Stellen tironische Noten.</note>, gradales, coclearia, armillas, fibola, faciles<note place="foot" n="*">An diesen Stellen tironische Noten.</note>, baltheos<note place="foot" n="*">An diesen Stellen tironische Noten.</note>, spadas seu spacias, cultellos, forcipes, rasoria, scuta, lancea ferro, de acera, pecie tanta . . de plumbo, similiter de stagno vel de eramento, congca, bacinos, de cera panes, de pingue panes, de adipe panes, corde, visos, ulcea de pastico, pelles<note place="foot" n="*">An diesen Stellen tironische Noten.</note>, similiter de sauda, bucinos, seclas cum argento et auro, para, pannos sericos, camisiles dominicales, camisiles uillares, sarciles dominicales, fascioles, sarciles fascioles, uillares glizas, dominicales glizas, medias camisiles, dimidios cappiles, paltulas, cottos, roccos, culcitros, capitales, muflas, uuantos, et cetera utensilia. Hec infra domum debent fieri: mancipia, servi, femine, infantes, pastores, aratores, panifica, armenta, boves, oves, vaccas, porcos, porcastros, porcellos, agnellos, capras, edos, ircos, caballos, uuarniones, iumenta, aucas, pullos, gallos, gallinas, caldaria, gramagla, falces, sicilas, secures, dextrales, uomeres, ligones, taratros, ascia, planarios, apos.</quote>
+                  </p>
+                  <p>Auf der oberen Hälfte von <locus from="99v">99′</locus> endlich finden sich von der nämlichen Hand zwei Briefformulare, von denen das erste die Bitte eines ungenannten Klosters um Mittheilung der Ankunft des Königs bittet, das zweite die Todesanzeige seitens eines Klosters an das andere von einem Mitgliede des ersteren enthält.</p>
+               </additions>
+               <bindingDesc>
+                  <binding>
+                     <p>Holzdeckel mit roth gefärbtem Leder überzogen: von den ursprünglichen zwei überschlagenden Schliessern ist nur noch einer vorhanden. Dem äusseren Vorderdeckel aufgeklebt ist ein Pergamentstreifen mit dem nicht ganz sicheren Titel: <quote xml:lang="lat">NOT. SENECAE. LIB.</quote> Die <locus from="IIIr" to="I*v">beiden pergamentenen Schmutzblätter</locus> enthalten Bruchstücke einer <term>kanonistischen Handschrift</term> des <date>14. Jahrhunderts</date>.</p>
+                  </binding>
+               </bindingDesc>
+               <accMat>
+                  <p>Vorgeheftet ist ein <locus from="IIIr">Blatt Papier</locus> mit einem Gedicht von neuerer Hand: <quote xml:lang="lat">In notarium in scribendo velocissimum carmen dimetrum jambicum.</quote>
+                  </p>
+               </accMat>
+            </physDesc>
+            <history>
+               <provenance>
+                  <p>Die Provenienz lässt sich nicht mehr ermitteln. Oben auf <locus from="1r">f. 1</locus> findet sich eine ausgekratzte <term>Inscription</term>, von der man nur noch mittels <term>Reagenz</term> die Worte entziffern kann: <quote xml:lang="lat">Liber iste pertinet ad librariam <gap/>
+                     </quote> Ebenso scheint <locus from="99r">f. 99</locus> ein <term>Vermerk über die Herkunft</term> der Handschrift gestanden zu haben, von dem nur noch das Wort <quote rend="quoted" xml:lang="lat">Codex</quote> zu erkennen ist.</p>
+                  <p>Vom <persName ref="#august_braunschweig-lueneburg_herzog">Herzoge August</persName> für 150 Thaler erworben.</p>
+               </provenance>
+			   <origin>
+			      <origPlace>Benediktinerkloster Clus</origPlace>
+			   </origin>
+            </history>
+            <additional>
+               <adminInfo>
+                  <recordHist>
+                     <source>
+                        <bibl>Otto v. Heinemann: Die Augusteischen Handschriften 4. Cod. Guelf. 77.4 Aug. 2° — 34 Aug. 4°. Frankfurt/M.: Klostermann, 1966 (Nachdruck d. Ausg. 1900). S.  <ref target="http://diglib.hab.de/drucke/f4f-539-7/start.htm?image=00156">146</ref> – <ref target="http://diglib.hab.de/drucke/f4f-539-7/start.htm?image=00157">147</ref>.</bibl>
+                     </source>
+                  </recordHist>
+               </adminInfo>
+            </additional>
+         </msDesc>
+         <div>
+            <index indexName="nasa">
+               <term>
+                  <hi rend="spaced">Bibliotheken</hi>
+               </term>
+               <index>
+                  <term>Vorrathsverzeichniss verschiedener Geräte und Kleider (saec. IX) </term>
+               </index>
+            </index>
+            <index indexName="nasa">
+               <term>
+                  <hi rend="spaced">Notae Tironianae</hi>
+               </term>
+            </index>
+            <index indexName="nasa">
+               <term>
+                  <hi rend="spaced">Seneca</hi>, Lucius Annaeus</term>
+               <index>
+                  <term>notae Senecae notis Tiron. scriptae</term>
+               </index>
+            </index>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<h1:DocumentSet xmlns:h1="http://www.startext.de/HiDA/DefService/XMLSchema">
+  <h1:ContentInfo>
+    <h1:Format>HIDA-DOC1-XML</h1:Format>
+    <h1:CreationDate>13.09.2019 16:46:29:994</h1:CreationDate>
+  </h1:ContentInfo>
+  <h1:Document DocKey="obj     60003638" FieldsCount="18">
+    <h1:Block Type="obj" CreationDate="14.07.2015 14:22:46" CreatorID="b-retro01"
+      ChangeDate="16.08.2019 13:45:46" ChangerID="Admin" OwnerID="b-retro01">
+      <h1:Field Type="5000" Value="60003638"/>
+      <h1:Field Type="bezsoz" Value="Verwaltung">
+        <h1:Field Type="4564" Value="Koblenz"/>
+        <h1:Field Type="4600" Value="Landeshauptarchiv"/>
+        <h1:Field Type="4500" Value="30002515"/>
+        <h1:Field Type="4650" Value="Best. 701 Nr. 191"/>
+        <h1:Field Type="4590" Value="öffentliches Archiv"/>
+        <h1:Field Type="4604" Value="LHA"/>
+      </h1:Field>
+      <h1:Field Type="5209" Value="Sermones 'Parati' · Michael de Massa"/>
+      <h1:Field Type="5230"
+        Value="Handschrift &amp;&#x0d;&#x0a;Image-Nachweis - Bisher leider keine Daten vorhanden"/>
+      <h1:Field Type="bezlit" Value="Katalogtext">
+        <h1:Field Type="8330" Value="KO LHA Kat. 2"/>
+      </h1:Field>
+      <h1:Field Type="8265"
+        Value="OVERGAAUW, Eef: Die nichtarchivischen Handschriften der Signaturengruppe Best. 701 Nr. 191 - 992. - Wiesbaden: Harrassowitz, 2002. - (Mittelalterliche Handschriften im Landeshauptarchiv Koblenz Bd. 2)."/>
+      <h1:Field Type="8450" Value="Katalogreproduktion">
+        <h1:Field Type="8540" Value="HSK0564_d031"/>
+      </h1:Field>
+      <h1:Field Type="99hs" Value="Retrokonversionsdokument"/>
+      <h1:Field Type="9902" Value="SBB-PK"/>
+      <h1:Field Type="1903" Value="564"/>
+    </h1:Block>
+  </h1:Document>
+</h1:DocumentSet>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="de" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Handschriftenportal Importjob</title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+        content="Import Job Informationen, Handschriftenportal Staatsbibliothek zu Berlin">
+
+  <link rel="stylesheet" th:href="@{/css/material.min.css}" href="../../css/material.min.css"/>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+<body>
+<div class="mdl-grid" id="header">
+  <div class="mdl-cell mdl-cell--12-col"><h3
+      th:text="#{label.import.title}"></h3>
+  </div>
+</div>
+
+<div class="row">
+  <div class="mdl-cell mdl-cell--12-col" th:if="${job != null}">
+    <table class="mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+      <thead class="mdl-data-table__cell--non-numeric">
+      <tr>
+        <th th:text="#{label.import.filename}" scope="col">Dateiname</th>
+        <th th:text="#{label.import.filetyp}" scope="col">Dateityp</th>
+        <th th:text="#{label.import.format}" scope="col">Format</th>
+        <th th:text="#{label.import.result}" scope="col">Ergebnis</th>
+        <th th:text="#{label.import.message}" scope="col">Anmerkungen</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr th:each="result : ${job.importFiles}">
+        <td th:text="${result.getPath().toFile().getName()}"></td>
+        <td th:text="${result.dateiTyp}"></td>
+        <td th:text="${result.dateiFormat}"></td>
+        <td th:text="${result.isError() ? 'Fehler' : 'OK'}"></td>     
+        <td th:text="${result.message}"></td>   
+      </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="mdl-cell mdl-cell--12-col" th:if="${job == null}">
+    <h3 th:text="#{label.import.jobnotfound}">Importjob nicht gefunden</h3>
+  </div>
+</div>
+</div>
+</div>
+
+<script th:src="@{/js/material.min.js}" src="../../js/material.min.js"></script>
+</body>
+</html>
